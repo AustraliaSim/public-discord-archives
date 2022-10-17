@@ -1,0 +1,386 @@
+==============================================================
+Guild: AustraliaSim
+Channel: +archives 2 / hearing-channel
+==============================================================
+
+[11-Mar-21 08:52 PM] Pav#1147
+**Order, Order!**
+
+The Hon. Justice NeatSaucer presiding, in attendance are Justices Winston_Wilhelmus and Riley8583. The Court shall now consider on urgency the case, Re: GenericCerealHere v. AustraliaSim. The Court shall deliver its verdict before the conclusion of the next two hours. 
+
+The Applicant, GenericCerealHere has issued an application for leave, which the Court has granted and has instructed that an injunction be made for the purposes of the election of a Head Moderator. This is an urgent hearing, and therefore as we keep the Courts rules in mind, we have to speeden up.
+
+Upon due deliberation with the members of this court, it has been decided that there will in fact be a hearing, as it has been found that there is enough of a question of law here to warrant our attention to the matter at hand. Therefore, the case will be considered.
+
+The present channel shall serve as a hearing as well, where we encourage both parties and the Justices to do their questioning in the comments however all of you must ping the party from whom you want a response. The Court might request for further evidence which we hope parties will provide us upon request.
+
+I now call the parties of the case to the Court, @GenericCereal from the Plaintiff end, and @General_Rommel  from the defendant's end. I further call @Ascari and @ripauntmay my fellow justices to the Court.
+
+
+[11-Mar-21 08:53 PM] Pav#1147
+**Applicant Submission**
+> I would like to appeal the outgoing Head Moderator's decision to make my nomination for Head Moderator void.
+> 
+> Section 4 (11) of the Meta Constitution dictates that the Moderation Team MUST accept all candidates who reach the required number of seconders unless certain events occur.
+> 
+> Mr Rommel believes that under s4(11)(a) he doesn't need to accept my nomination, however Mr Rommel has to accept. I am an eligible candidate as I registered on the Membership form, removing my ineligibility and I had already met the required number of seconders.
+> 
+> Mr Rommel also believes that even though I am on the meta roll now, it means I am still ineligible. It actually DOES have current relevance as to whether I am eligible, as the only eligibility test is that I be a member, which I am! Thus I pass all the checks of eligibility.
+> 
+> The example given in s4(11), which Mr Rommel so graciously uses to interpret the law, is merely an example and not to be used to interpret law. It's basic interpretation rules that examples often extend beyond the actual powers they relate to.
+> 
+> This means my nomination has to be accepted as I am eligible and cannot be refused otherwise it would be breaking s4(11)(a) of the constitution, irrespective of s4(12) which states that the Moderation team must make the determination of nominations before the date of polling.
+> 
+> Mr Rommel made his determination during the date of polling, also rendering his decision unconstitutional as s4(12) dictates that a decision to exclude a candidate MUST be made before the date of polling. In this instance, Mr Rommel made the decision ON the date of polling. Therefore this decision is also unconstitutional.
+> 
+> I'd also ask that the release of results be delayed until this case is finalised as it will be sensitive to said results.
+
+
+[11-Mar-21 08:54 PM] Pav#1147
+I call the Applicant @GenericCereal to present their case
+
+
+[11-Mar-21 09:00 PM] Pav#1147
+I now call the Defendant to present their opening remarks
+
+
+[11-Mar-21 09:03 PM] Pav#1147
+We also have the Chief Justice @Deleted User joining the panel
+
+
+[11-Mar-21 09:04 PM] General_Rommel#0190
+Your Honours, I urge Your Honours to restrain these expressions as much as possible given the gravity of the issue at hand.
+
+
+[11-Mar-21 09:06 PM] General_Rommel#0190
+May it please the Court, I am General Rommel and I am appearing on behalf of the Moderation Team that is the respondent in this case.
+
+The case is very simple. The point is no matter whether we must accept all candidates or not, the point is that a mistake of the Moderation Team meant that the candidate in question could not have chosen as a candidate.
+
+If a candidate is ineligible, I put forward the proposition that the candidate is unable to be selected.
+
+There is no question that, at the time nominations closed, the candidate was not on the meta roll and if this error was picked up the candidate would not have proceeded to be a candidate on the meta vote.
+
+The fact that I only stated that the candidate could not be selected after the commencement of polling does not stop the fact that s 4(11)(a) make it very clear that I could not have accepted his nomination anyway.
+
+Your Honours, I urge the Court to look holistically at the section as a whole and to not narrowly focus on the word 'must'.
+
+
+[11-Mar-21 09:06 PM] General_Rommel#0190
+_sits_
+
+
+[11-Mar-21 09:08 PM] Pav#1147
+Thank you, does @GenericCereal have anything to add or speak
+
+
+[11-Mar-21 09:08 PM] Pav#1147
+Sure
+
+
+[11-Mar-21 09:12 PM] Pav#1147
+Also I may request that all sides quote the constitution with the Part Number, followed by the section number so we can review it quickly
+
+
+[11-Mar-21 09:12 PM] General_Rommel#0190
+Yes Your Honour, we are primarily looking at s 4 of the Meta Constitution - https://drive.google.com/drive/folders/113z6pzjPb_CFIXhmCNqzGAD0qp0LfjIa
+
+
+[11-Mar-21 09:13 PM] General_Rommel#0190
+Specifically, our focus is on s 4(11), s 4(11)(a), and s 4(12).
+
+
+[11-Mar-21 09:13 PM] Pav#1147
+Does the Defendant have a point to make
+
+
+[11-Mar-21 09:13 PM] General_Rommel#0190
+Yes Your Honour.
+
+
+[11-Mar-21 09:14 PM] Pav#1147
+Please go ahead then @General_Rommel
+
+
+[11-Mar-21 09:19 PM] General_Rommel#0190
+Your Honours, we have no response to the aspersions on the 'deliberation' aspect. There was no deliberation because we forgot to determine whether the candidate was eligible with respect to whether he was a meta voter at the time nominations closed. That was my mistake and I have already apologised for that.
+
+I point out that I have a legal obligation to decline to accept a candidate if the candidate was, as per s 4(11)(a) of the Meta Constitution, not eligible to be a candidate when the nominations close.
+
+Your Honour, I also apologise for raising this new point, but it has come to my attention that the applicant was the person who nominated himself to be a candidate, as per this - https://www.reddit.com/r/AustraliaSimMeta/comments/lv51s7/stepping_down_and_notice_of_meta_election_head/gpd9n26?utm_source=share&utm_medium=web2x&context=3
+
+A candidate may not nominate themselves if they were not, at the time the candidate nominations close, was not an actual meta voter. This is a very simple rule Your Honour, and therefore at the time the nominations closed he was already ineligible. The fact that his name was placed on the ballot was a mistake, but a mistake does not equate to making legal the illegal.
+
+
+[11-Mar-21 09:19 PM] General_Rommel#0190
+_sits_
+
+
+[11-Mar-21 09:19 PM] Pav#1147
+Does the Plaintiff have any arguments to make @GenericCereal
+
+
+[11-Mar-21 09:20 PM] Pav#1147
+Sure, go ahead @GenericCereal
+
+
+[11-Mar-21 09:22 PM] Pav#1147
+I also recommend all sides bring in evidences as well to prove their points
+
+
+[11-Mar-21 09:25 PM] Pav#1147
+@GenericCereal ?
+
+
+[11-Mar-21 09:28 PM] Pav#1147
+Now, does the Plaintiff have other points to make, and evidences to present supporting their claim
+
+
+[11-Mar-21 09:29 PM] Pav#1147
+I might expect some more calm, and yes, does the Defendant wish to make points or present evidences
+
+
+[11-Mar-21 09:30 PM] General_Rommel#0190
+Your Honours, yes I have further remarks to make. However, as this is a civil proceeding, I note the parties are the applicant and respondent respectively.
+
+
+[11-Mar-21 09:30 PM] Pav#1147
+I apologize
+
+
+[11-Mar-21 09:31 PM] General_Rommel#0190
+Your Honours, the applicant just stated that:
+
+> In fact, the only eligibility requirements listed are that a nomination must secure at least 7 seconders.
+
+Your Honours, I point out that the example under s 4(11)(a) clearly states the following:
+
+> A person nominates a non-Meta Voter to be a Clerk. That would be ineligible under the Meta Constitution.
+
+Extrapolating to this situation, if a person nominates themselves, who is a non-meta voter at the time the nominations closed, then they would be ineligible.
+
+The applicant further quotes from s 2(2)(b) stating that this gives them the 'ability to hold a meta office'.
+
+Your Honours, I cite this in support of my point. In fact, if they were a non-meta voter at the time the nominations closed, then they would be ineligible.
+
+The true question is the following:
+
+1. whether to join the meta voter roll after the close of nominations retrospectively validates their nomination. 
+
+In my view, the answer is no, as that would defeat the purpose of s 4(11)(a)–(c).
+
+2. whether the failure to announce a rejection of a person's candidacy via s 4(11)(a)–(c) means that it cannot be rejected during the vote.
+
+In my view, the answer is no, as that would defeat the purpose of s 4(11)(a)–(c).
+
+
+[11-Mar-21 09:32 PM] General_Rommel#0190
+_sits_
+
+
+[11-Mar-21 09:32 PM] Pav#1147
+Thank you, I have been made aware by the Plaintiff that they wish to bring in an evidence
+
+
+[11-Mar-21 09:33 PM] Pav#1147
+Might the Plaintiff make more detail available on the witness @GenericCereal
+
+
+[11-Mar-21 09:35 PM] Pav#1147
+Now, I assume with that being said, with no objections, I invite @NotGriffonomics as a witness.
+
+Requesting @General_Rommel to give the permission needed/
+
+
+[11-Mar-21 09:35 PM] General_Rommel#0190
+Your Honour, I see no need to prolong this agony. I think both sides have made their point and given the situation as is, the case should be decided right now.
+
+
+[11-Mar-21 09:36 PM] Pav#1147
+I understand the emotions but the Court has decided to allow the witness before we move to closing statements @General_Rommel
+
+
+[11-Mar-21 09:36 PM] General_Rommel#0190
+Your Honour, he cannot be a witness
+
+
+[11-Mar-21 09:36 PM] Pav#1147
+on what capacities might I ask
+
+
+[11-Mar-21 09:36 PM] General_Rommel#0190
+He can appear as counsel for the applicant, or as a neutral observer i.e. amicus curiae, but I see no merit to him appearing as a witness.
+
+
+[11-Mar-21 09:36 PM] General_Rommel#0190
+There is nothing to witness here.
+
+
+[11-Mar-21 09:37 PM] Pav#1147
+Yes, I meant Counsel
+
+
+[11-Mar-21 09:37 PM] Pav#1147
+Apologize for my choice of words
+
+
+[11-Mar-21 09:37 PM] General_Rommel#0190
+I understand Your Honour.
+
+
+[11-Mar-21 09:38 PM] Pav#1147
+The Counsel
+
+
+[11-Mar-21 09:39 PM] Youmaton#1190
+*sits in the public gallery*
+
+
+[11-Mar-21 09:39 PM] Pav#1147
+Sure, let's get to the matter
+
+
+[11-Mar-21 09:47 PM] Deleted User#0000
+The consel raised the American Senate as an example. However does he not agree the court of disputed returns in Australia have ruled elected members were ineligible because they were ineligible at time of voting and not when they could take their seat?
+
+
+[11-Mar-21 09:47 PM] Pav#1147
+The Counsel
+
+
+[11-Mar-21 09:48 PM] Pav#1147
+We are speaking about the Meta Constitution!
+
+
+[11-Mar-21 09:48 PM] Deleted User#0000
+However cpabale of being chosen is referring to eligibility.
+
+
+[11-Mar-21 09:50 PM] Deleted User#0000
+Not sure why text missing that refers to American Senators being able to take their seat then applies. But no matter. That's all my questions
+
+
+[11-Mar-21 09:52 PM] Deleted User#0000
+The court will determine what we see fit to determine
+
+
+[11-Mar-21 09:52 PM] Pav#1147
+Now, can we proceed
+
+
+[11-Mar-21 09:53 PM] Pav#1147
+I have to ask the counsel to conclude
+
+
+[11-Mar-21 09:54 PM] Deleted User#0000
+Thank you Counsel, appears youbhave shot down some of the applicants arguments and some of the respondent arguments
+
+
+[11-Mar-21 09:55 PM] Pav#1147
+Now, we will open to closing statements, first from the Applicant's end
+
+
+[11-Mar-21 09:55 PM] Pav#1147
+@GenericCereal
+
+
+[11-Mar-21 09:55 PM] General_Rommel#0190
+Your Honour, I have yet to respond to Counsel.
+
+
+[11-Mar-21 09:55 PM] General_Rommel#0190
+I ask the Court to allow me to respond to Counsel.
+
+
+[11-Mar-21 09:55 PM] Deleted User#0000
+We allow it
+
+
+[11-Mar-21 09:55 PM] Pav#1147
+We'll allow the respondent now
+
+
+[11-Mar-21 09:55 PM] Pav#1147
+The Head Moderator can now address the court
+
+
+[11-Mar-21 09:55 PM] General_Rommel#0190
+Your Honours, Counsel may make any points they may wish, however all the points meriting a response have been dealt with cogently by myself previously.
+
+Counsel's expertise is only relevant in assisting the court to interpret the Meta Constitution. However, I stress this point - just because Counsel wrote the Constitution does not make him the arbiter of what a provision is meant to mean or not. 
+
+I do not have anything to say in response to the very far-fetched points made, especially with respect to the comments made concerning the preamble of the Constitution, as no response is necessary in my considered view.
+
+Your Honours, I draw the Court's attention very simply to s 2(2)(b), which gives a member the ability to hold a meta office. The applicant was not a member at the time the nominations closed and therefore there is nothing more to add to the matter. 
+
+With respect to the powers of the Court, I agree with Counsel that the only question we are here to deal with is whether I could retroactively correct a mistake and perform an action that I should have done. However, if it is concluded that this rectification of the mistake was incorrect, I ask the Court to rehold the vote in the interests of fairness.
+
+
+[11-Mar-21 09:56 PM] General_Rommel#0190
+_sits_
+
+
+[11-Mar-21 09:58 PM] Pav#1147
+Order
+
+
+[11-Mar-21 09:58 PM] General_Rommel#0190
+_raised eyebrows_
+
+
+[11-Mar-21 09:58 PM] Pav#1147
+This is a court
+
+
+[11-Mar-21 09:58 PM] Pav#1147
+not your personal grocery markets, anyway, now we'll move to closings, from the Applicant end @GenericCereal
+
+
+[11-Mar-21 09:59 PM] Pav#1147
+Sure, please
+
+
+[11-Mar-21 10:05 PM] Pav#1147
+Now, can we conclude
+
+
+[11-Mar-21 10:06 PM] Pav#1147
+Thank you, I encourage Counsels to learn the art of putting things in a crisp manner, because otherwise it just wastes precious time. Anyway, off to the Respondent's end ( @General_Rommel ) for a quick closing statement
+
+
+[11-Mar-21 10:06 PM] General_Rommel#0190
+Your Honours, I will not spend too much time with my closing statements. I have covered all the points I wish to make, and as much as I respect Counsel I see no need for them to be addressed. The applicant was ineligible to be selected at the close of nominations and therefore the applicant cannot be on the ballot. The Meta Constitution is clear on these points and I see no further need for elucidation. May it please Your Honours.
+
+
+[11-Mar-21 10:06 PM] General_Rommel#0190
+_sits_
+
+
+[11-Mar-21 10:07 PM] Pav#1147
+**Order, Order!**
+
+We thank all the Counsels, the Applicant, the Respondent for taking time to appear in this Court, the Justices shall now enter into delibration for deciding the verdict of the case.
+
+
+[11-Mar-21 10:13 PM] Pav#1147
+**Order, Order!**
+
+The Court has unanimously reached a verdict, which shall be read out by @Ascari on behalf of the Court. The entire explanation, and written reasons for the judgement shall be circulated at a later date.
+
+
+[11-Mar-21 10:14 PM] Ascari#4541
+1. Porridge was ineligible for nomination; and
+2. That votes in favour of Porridge are discarded.
+
+
+[11-Mar-21 10:15 PM] Pav#1147
+We request that @Youmaton do declare the results with the said incorporations in mind, and with that, we now adjourn the hearing
+
+
+[11-Mar-21 10:16 PM] Ascari#4541
+Note: the votes aren't discarded in their entirety, just those in favour of porridge, for clarity.
+
+
+==============================================================
+Exported 75 message(s)
+==============================================================

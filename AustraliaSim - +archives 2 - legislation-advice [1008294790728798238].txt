@@ -1,0 +1,191 @@
+==============================================================
+Guild: AustraliaSim
+Channel: +archives 2 / legislation-advice
+==============================================================
+
+[14-Aug-22 06:13 PM] Napoleon Freeze#4181
+first
+
+
+[14-Aug-22 06:14 PM] Trask#2574
+Hello there
+
+
+[14-Aug-22 06:16 PM] Russian Hacker#7290
+third
+
+
+[14-Aug-22 06:18 PM] BigBigBoss#7381
+Fourth
+
+
+[14-Aug-22 08:09 PM] doctor#0002
+Fifth
+
+
+[14-Aug-22 08:09 PM] Trees#7336
+sixth
+
+
+[14-Aug-22 08:11 PM] 12MaxWild#6477
+7th
+
+
+[14-Aug-22 08:15 PM] Cookie Monster#2676
+8th
+
+
+[14-Aug-22 08:15 PM] NGSpy#8096
+Ninth
+
+
+[14-Aug-22 11:22 PM] Deleted User#0000
+th
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1008294790728798238/1008372462603477042/unknown.png
+
+
+[15-Aug-22 11:44 AM] NGSpy#8096
+Okay in all seriousness @Parliamentarian if you need any help with legislation and the formation of it, just write in here. It will not matter in any case if you post a bill in here, because it will be posted as part of business and should not be a big secret anyway. I will work on making a more visual guide towards creating legislation for you guys.
+
+
+[15-Aug-22 11:45 AM] Wanuke#5929
+👍
+
+
+[15-Aug-22 11:54 AM] High Priest Liam#6655
+Sweet
+
+
+[15-Aug-22 11:54 AM] High Priest Liam#6655
+I'm gonna attempt a bill that makes it so every veteran under an income threshold is given a house.
+
+
+[15-Aug-22 11:54 AM] High Priest Liam#6655
+I've never written a bill that effects the budget before so that's gonna be a mess
+
+
+[15-Aug-22 11:55 AM] 12MaxWild#6477
+A sound bill idea !
+
+
+[15-Aug-22 11:55 AM] Wanuke#5929
+to do something like that you probably have to organize it through a ministry
+
+
+[15-Aug-22 11:55 AM] Wanuke#5929
+hmm
+
+
+[15-Aug-22 11:55 AM] 12MaxWild#6477
+If it affects the budget I think you just need the EM to say something about financial impact
+
+
+[15-Aug-22 11:55 AM] Wanuke#5929
+and, be in government
+
+
+[15-Aug-22 11:55 AM] Wanuke#5929
+:kekW:
+
+
+[15-Aug-22 11:55 AM] 12MaxWild#6477
+I learnt that the long way round
+
+
+[15-Aug-22 01:06 PM] NGSpy#8096
+So fun facts: there are two types of appropriations in Australia: Annual Appropriations and Special Appropriations.
+Acts with special appropriations (I believe that the *Veterans Entitlements Act 1986* is one of them), the deal is that if you amend it, it will automatically affect the budget without you having to do anything, as the bill appropriates the amount automatically.
+
+
+[15-Aug-22 01:06 PM] NGSpy#8096
+this is the same with the *Social Security (Administration) Act 1999* which is interconnected with the *Social Security Act 1991*
+
+
+[15-Aug-22 01:06 PM] NGSpy#8096
+and some other stuff
+
+
+[15-Aug-22 01:07 PM] NGSpy#8096
+Correct. The EM provides a table which allows you to input 5 years of financial impact, and I suggest you do that.
+
+
+[15-Aug-22 01:12 PM] High Priest Liam#6655
+So I can just alter the veteran entitlements act?
+
+
+[15-Aug-22 01:20 PM] NGSpy#8096
+Exactly!
+
+
+[15-Aug-22 01:20 PM] High Priest Liam#6655
+Epic
+
+
+[15-Aug-22 01:20 PM] NGSpy#8096
+ill double check tho 🙂
+
+
+[15-Aug-22 01:26 PM] NGSpy#8096
+@High Priest Liam yeah, amend away at the Veterans Entitlement Act 1986. The relevant section for appropriations is section 199, so I would double check that your amendments are covered under that section to ensure that it gets automatically appropriated.
+
+
+[15-Aug-22 02:35 PM] Deleted User#0000
+Ruined the streak
+
+
+[15-Aug-22 05:31 PM] Minato Namikaze#7891
+what are you trying to do liam
+
+
+[15-Aug-22 05:57 PM] Trask#2574
+Hello, I will be helping out here.
+
+
+[15-Aug-22 06:10 PM] NGSpy#8096
+He's trying to give Veterans under an income threshold a house
+
+
+[15-Aug-22 06:18 PM] High Priest Liam#6655
+And I mean all veterans. If you don't have proof of service and are homeless then the government will be required to do diligence to find your service history.
+
+
+[15-Aug-22 06:41 PM] Minato Namikaze#7891
+mm
+
+
+[15-Aug-22 07:40 PM] NGSpy#8096
+**VERY USEFUL LEGISLATION ADVICE NO.1**
+Whenever a bill amends another bill, repealing the amending bill does not get rid of the amendments. All it does is get rid of the bill. Once the schedules of an amending bill commences, it gets applied permanently to the bill it amends until it gets amended by another bill.
+If you want to repeal amendments to another bill, you have to amend the amendments back to what it was before.
+It's simple, stupid!
+
+
+[05-Sep-22 01:19 PM] 12MaxWild#6477
+Where is the better bill and em templat
+
+
+[05-Sep-22 01:39 PM] Cookie Monster#2676
+https://docs.google.com/document/d/12_lzXuHSG7R7kGk5-qjZmIjbjp0wWkvWSoNhZ-tuDyE/edit
+
+{Embed}
+https://docs.google.com/document/d/12_lzXuHSG7R7kGk5-qjZmIjbjp0wWkvWSoNhZ-tuDyE/edit
+Better Bill Templete
+20xx  The Parliament of the Commonwealth of Australia  HOUSE OF REPRESENTATIVES / SENATE      Presented and read a first time      xxxx Bill 20xx  No.      , 20xx  (Department/Presenter) (Written By: xxx)    A Bill for an Act to ... , and for related purposes             Contents Part 1—Prelim...
+https://images-ext-1.discordapp.net/external/9XV_GGu_1UzRu0jWYLqWKuDbD8txOXFCMoR9wFqBjkk/https/lh5.googleusercontent.com/T32B5Dge3ZPJgEZQU5-o-eEwpedsRRS5WiaZpcJ1vwjXnI1AzAteF1D07VYdhQ4RCFsevUhdqJnuuw%3Dw1200-h630-p
+
+
+[05-Sep-22 01:39 PM] Cookie Monster#2676
+https://docs.google.com/document/d/1rz5-jiHJRv6Wu-QNj0pAUdSx77DOARYngOd7Mir_sHc/edit?usp=sharing
+
+{Embed}
+https://docs.google.com/document/d/1rz5-jiHJRv6Wu-QNj0pAUdSx77DOARYngOd7Mir_sHc/edit?usp=sharing
+Explanatory Memorandum - Template
+[YEAR]  THE PARLIAMENT OF THE COMMONWEALTH OF AUSTRALIA    HOUSE OF REPRESENTATIVES/SENATE    TITLE BILL 20XX     EXPLANATORY MEMORANDUM    (Circulated by authority of XX)   General outline and financial impact  XX Explain what the Act does by their components like Schedules, Parts etc. ...
+https://images-ext-2.discordapp.net/external/8gl8qDBr4pDVa23Qk-GDUbmItN3Ha7R2RJszRttpdGA/https/lh6.googleusercontent.com/ipcueQMlzIMLTovS6vcjBhvfYp6FibAen5cI6TYTpQd3ju69Rbm02qZ4-dxNoeN4C57Nb-vfgb6mcw%3Dw1200-h630-p
+
+
+==============================================================
+Exported 41 message(s)
+==============================================================

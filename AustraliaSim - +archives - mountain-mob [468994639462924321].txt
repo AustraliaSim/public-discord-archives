@@ -1,0 +1,8079 @@
+==============================================================
+Guild: AustraliaSim
+Channel: +archives / mountain-mob
+==============================================================
+
+[18-Jul-18 01:52 PM] waltor#3519
+First
+
+
+[18-Jul-18 01:53 PM] Rat#1042
+why is this not a subscribable
+
+
+[18-Jul-18 01:53 PM] Rat#1042
+i didnt ask to join this
+
+
+[18-Jul-18 01:53 PM] waltor#3519
+Because it will be soon
+
+
+[18-Jul-18 01:53 PM] Rat#1042
+unbelievable nkg
+
+
+[18-Jul-18 01:53 PM] Rat#1042
+youre fired
+
+
+[18-Jul-18 01:53 PM] waltor#3519
+Give me admin
+
+{Reactions}
+no 
+
+[18-Jul-18 01:53 PM] waltor#3519
+uh
+
+
+[18-Jul-18 01:53 PM] Rat#1042
+give me admin
+
+
+[18-Jul-18 01:53 PM] Rat#1042
+and ill do it
+
+{Reactions}
+no 
+
+[18-Jul-18 01:54 PM] ChairmanMeeseeks#8399
+Holy shit
+
+
+[18-Jul-18 01:54 PM] ChairmanMeeseeks#8399
+We have it boyos
+
+
+[18-Jul-18 01:54 PM] ChairmanMeeseeks#8399
+The mountain men club house
+
+
+[18-Jul-18 01:54 PM] waltor#3519
+do ?addrank +mountain-men
+
+
+[18-Jul-18 01:54 PM] waltor#3519
+it should make a role
+
+
+[18-Jul-18 01:54 PM] waltor#3519
+then restrict this channel to that role
+
+
+[18-Jul-18 02:03 PM] waltor#3519
+OK I think it's working
+
+
+[18-Jul-18 02:03 PM] waltor#3519
+@Rat
+
+
+[18-Jul-18 02:03 PM] waltor#3519
+@ChairmanMeeseeks
+
+
+[18-Jul-18 02:03 PM] waltor#3519
+hm
+
+
+[18-Jul-18 02:07 PM] ChairmanMeeseeks#8399
+wewew
+
+
+[18-Jul-18 02:07 PM] ChairmanMeeseeks#8399
+so this is the subscribeable?
+
+
+[18-Jul-18 02:07 PM] ChairmanMeeseeks#8399
+excellent
+
+
+[18-Jul-18 02:08 PM] waltor#3519
+OK
+
+
+[18-Jul-18 02:09 PM] waltor#3519
+I'm going to do a flow prediction rn guys for tomorrow
+
+
+[18-Jul-18 02:09 PM] waltor#3519
+https://earth.nullschool.net/#2018/07/19/0300Z/wind/surface/level/overlay=total_precipitable_water/orthographic=127.21,-12.05,653/loc=140.831,-19.429
+
+{Embed}
+https://earth.nullschool.net/
+earth :: a global map of wind, weather, and ocean conditions
+See current wind, weather, ocean, and pollution conditions, as forecast by supercomputers, on an interactive animated map. Updated every three hours.
+https://images-ext-1.discordapp.net/external/Z9lLHeJI7Mi7Ln_JCm8zHQtuo0-Xp8E-JJh_QywBrLc/https/earth.nullschool.net/sample.png
+
+
+[18-Jul-18 02:11 PM] waltor#3519
+Camooweal: -20, 138
+Yelvertoft: -20.5, 138.8
+Mt Isa: -20.8, 139.65
+Selwyn: -21.2, 140.55
+McKinlay: -21.25, 141.5
+Tarbrax: -21.2, 142.5,
+Marathon: -21.15, 143.45
+Hugheden: -21, 144.4
+
+
+[18-Jul-18 02:16 PM] waltor#3519
+Camooweal: 14kph, 9.681kg
+Yelvertoft: 16kph, 8.882kg
+Mt Isa: 17kph, 9.721kg
+Selwyn: 14kph, 12.267kg
+McKinlay: 24kph, 20.158kg
+Tarbrax: 21kph 24.284kg
+Marathon: 12kph 22.838kg
+Hugheden: 12kph 23.027kg
+
+
+[18-Jul-18 02:18 PM] waltor#3519
+Average: 16.25kph, 16.357kg
+
+
+[18-Jul-18 02:19 PM] waltor#3519
+4.5km3/d, 186GL/h, 51700m3/s
+
+
+[18-Jul-18 02:19 PM] waltor#3519
+OK that's a lot
+
+
+[18-Jul-18 02:24 PM] waltor#3519
+That is a lot of water tho
+
+
+[18-Jul-18 02:24 PM] waltor#3519
+http://www.fao.org/docrep/s2022e/s2022e02.htm
+
+
+[18-Jul-18 02:24 PM] waltor#3519
+OK I will now figure out water requirements of 1 million sq km
+
+
+[18-Jul-18 02:25 PM] waltor#3519
+20% grapes
+20% cucumber
+20% apples
+20% wheat
+20% paddy rice
+
+
+[18-Jul-18 02:26 PM] waltor#3519
+@Deleted User 512350472 welcome to our Laboratory
+
+
+[18-Jul-18 02:26 PM] ChairmanMeeseeks#8399
+holy shit
+
+
+[18-Jul-18 02:26 PM] Deleted User 512350472#9529
+?rank +mountain-men
+
+
+[18-Jul-18 02:26 PM] ChairmanMeeseeks#8399
+dicky is a mountain man
+
+
+[18-Jul-18 02:26 PM] waltor#3519
+Mountain CJ Dicky_Knee
+
+
+[18-Jul-18 02:26 PM] waltor#3519
+http://www.fao.org/docrep/s2022e/s2022e02.htm
+
+
+[18-Jul-18 02:27 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469004854485057536/GA14210.png
+
+
+[18-Jul-18 02:28 PM] waltor#3519
+OK I think 20c is a good mean temp
+
+
+[18-Jul-18 02:31 PM] waltor#3519
+no i'm meaning for cropping
+
+
+[18-Jul-18 02:31 PM] waltor#3519
+hmh
+
+
+[18-Jul-18 02:31 PM] PineappleCrusher_#3244
+Hello
+
+
+[18-Jul-18 02:31 PM] PineappleCrusher_#3244
+I have arrived
+
+
+[18-Jul-18 02:31 PM] waltor#3519
+PC hello
+
+
+[18-Jul-18 02:31 PM] waltor#3519
+we are looking into the water requirements
+
+
+[18-Jul-18 02:31 PM] waltor#3519
+for crops n shit
+
+
+[18-Jul-18 02:32 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469006004281933834/australia-annual-rainfall.png
+
+
+[18-Jul-18 02:32 PM] PineappleCrusher_#3244
+He seems to know a lot about water and farming
+
+
+[18-Jul-18 02:32 PM] waltor#3519
+ok
+
+
+[18-Jul-18 02:32 PM] waltor#3519
+i'm doing rough estimates
+
+
+[18-Jul-18 02:34 PM] waltor#3519
+http://www.fao.org/docrep/S2022E/s2022e06.htm
+
+
+[18-Jul-18 02:37 PM] waltor#3519
+Desert: less than 100mm
+Arid: 100-400mm
+Semi-arid: 400-600mm
+Sub-humid: 600-1200mm
+Moist sub-humid: 1200-1500mm
+Humid: more thann 1500mm
+
+
+[18-Jul-18 02:41 PM] waltor#3519
+OK the entire area is pretty much arid
+
+
+[18-Jul-18 02:45 PM] waltor#3519
+so grass needs uh 8mm per day during irrigation season
+
+
+[18-Jul-18 02:46 PM] waltor#3519
+20% grapes - 6mm
+20% cucumber - 8mm
+20% apples - 8mm
+20% wheat - 9mm
+20% paddy rice - 10mm
+
+
+[18-Jul-18 02:48 PM] waltor#3519
+grapes: 180 days
+cucumber: 70 days
+apple: 140 days
+wheat: 300 days
+paddy rice: 150 days
+
+
+[18-Jul-18 02:50 PM] waltor#3519
+grapes: 1080mm
+cucumber: 560mm
+apples: 1120mm
+wheat: 2700mm
+paddy rice: 1500mm
+
+
+[18-Jul-18 02:50 PM] waltor#3519
+ok so each of those has 200,000km2
+
+
+[18-Jul-18 02:50 PM] waltor#3519
+hm
+
+
+[18-Jul-18 02:52 PM] waltor#3519
+grapes 216,000GL
+cucumbers 112,000GL
+apples: 224,000GL
+wheat: 540,000GL
+paddy rice: 300,000GL
+TOTAL: 1,392km3
+
+
+[18-Jul-18 02:52 PM] waltor#3519
+hmm
+
+
+[18-Jul-18 02:53 PM] waltor#3519
+something went wrong
+
+
+[18-Jul-18 02:53 PM] waltor#3519
+actually no
+
+
+[18-Jul-18 02:53 PM] waltor#3519
+that would need about 44,000m3/s flow
+
+
+[18-Jul-18 02:53 PM] waltor#3519
+somewhat viable hmm
+
+
+[18-Jul-18 03:30 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469020601038798858/2Q.png
+
+
+[18-Jul-18 10:25 PM] waltor#3519
+Mountain benis
+
+
+[18-Jul-18 10:25 PM] delad#7470
+sup ~~niggers~~ fellows of water and mountains
+
+
+[18-Jul-18 10:25 PM] delad#7470
+400%
+
+
+[18-Jul-18 10:25 PM] delad#7470
+why not 500%
+
+
+[18-Jul-18 10:26 PM] waltor#3519
+As in
+
+
+[18-Jul-18 10:26 PM] delad#7470
+why not **500%**
+
+
+[18-Jul-18 10:26 PM] waltor#3519
+500% is possible
+
+
+[18-Jul-18 10:27 PM] waltor#3519
+It is give our economy a huge benis
+
+
+[18-Jul-18 10:27 PM] waltor#3519
+Uh
+
+
+[18-Jul-18 10:27 PM] waltor#3519
+Water requirements in an arid environment pls
+
+
+[18-Jul-18 10:27 PM] waltor#3519
+Uh
+
+
+[18-Jul-18 10:28 PM] waltor#3519
+We catch the monsoon with a big mountain range
+
+
+[18-Jul-18 10:28 PM] waltor#3519
+And store it in a reservoir
+
+
+[18-Jul-18 10:28 PM] waltor#3519
+Preliminary estimates
+
+
+[18-Jul-18 10:28 PM] waltor#3519
+All of Australia west of Mt Isa could be green
+
+
+[18-Jul-18 10:28 PM] waltor#3519
+$10 trillion was my estimate
+
+
+[18-Jul-18 10:29 PM] waltor#3519
+.
+
+
+[18-Jul-18 10:29 PM] waltor#3519
+We are constructing a mountain range
+
+
+[18-Jul-18 10:29 PM] waltor#3519
+And building a dam around it
+
+
+[18-Jul-18 10:29 PM] Youmaton#1190
+👀
+
+
+[18-Jul-18 10:29 PM] waltor#3519
+We can build a hundred metre tall dam
+
+
+[18-Jul-18 10:30 PM] RunasSudo#2416
+Angery reacts. Why are there non mountain men in the mountain men chat
+
+
+[18-Jul-18 10:30 PM] RunasSudo#2416
+@NotGriffonomics @Youmaton fix your nickname
+
+
+[18-Jul-18 10:30 PM] waltor#3519
+I am writing up a report slowly and full results will be released soon
+
+
+[18-Jul-18 10:31 PM] delad#7470
+i don't have enough charactersleft to add mountain
+
+
+[18-Jul-18 10:31 PM] RunasSudo#2416
+Angery
+
+
+[18-Jul-18 10:31 PM] Youmaton#1190
+Im here to learn about the project
+
+
+[18-Jul-18 10:31 PM] waltor#3519
+Deladi0, Mountain Gimpmaster
+
+
+[18-Jul-18 10:31 PM] Youmaton#1190
+since csid hasnt given me a report yet 👀
+
+
+[18-Jul-18 10:31 PM] delad#7470
+needs a minister in it
+
+
+[18-Jul-18 10:31 PM] RunasSudo#2416
+Mountain Gimpmaster Deladi0
+
+
+[18-Jul-18 10:31 PM] waltor#3519
+oof
+
+
+[18-Jul-18 10:31 PM] waltor#3519
+do /nick
+
+
+[18-Jul-18 10:32 PM] _slothsworth#4496
+yote
+
+
+[18-Jul-18 10:32 PM] Deleted User#0000
+This is a beautiful project
+
+
+[18-Jul-18 10:32 PM] waltor#3519
+No we dam it and divert it where necessary
+
+
+[18-Jul-18 10:32 PM] RunasSudo#2416
+/nick
+
+
+[18-Jul-18 10:32 PM] delad#7470
+by building a dam
+
+
+[18-Jul-18 10:32 PM] waltor#3519
+With a big wall thingy
+
+
+[18-Jul-18 10:32 PM] RunasSudo#2416
+Idk there's probably an easier way
+
+
+[18-Jul-18 10:32 PM] waltor#3519
+wait what
+
+
+[18-Jul-18 10:32 PM] delad#7470
+what is we build another mountain to act as a dam
+
+
+[18-Jul-18 10:32 PM] waltor#3519
+Odd
+
+
+[18-Jul-18 10:32 PM] Deleted User#0000
+it doesn't work on Mobile
+
+
+[18-Jul-18 10:32 PM] _slothsworth#4496
+i like this idea
+
+
+[18-Jul-18 10:32 PM] Deleted User#0000
+the nick command
+
+
+[18-Jul-18 10:33 PM] RunasSudo#2416
+Rip
+
+
+[18-Jul-18 10:33 PM] waltor#3519
+The mountain range will be built on the boundary inbetween the Lake Eyre and Gulf of Carpentaria catchments
+
+
+[18-Jul-18 10:33 PM] delad#7470
+wat
+
+
+[18-Jul-18 10:33 PM] waltor#3519
+.
+
+
+[18-Jul-18 10:33 PM] delad#7470
+why has my name changed
+
+
+[18-Jul-18 10:33 PM] waltor#3519
+@delad clap
+
+
+[18-Jul-18 10:33 PM] delad#7470
+👏
+
+
+[18-Jul-18 10:33 PM] RunasSudo#2416
+Oh here it is
+
+
+[18-Jul-18 10:33 PM] waltor#3519
+It worked
+
+
+[18-Jul-18 10:33 PM] RunasSudo#2416
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469127176885895189/Screenshot_20180718-223338.png
+
+
+[18-Jul-18 10:34 PM] RunasSudo#2416
+The options menu
+
+
+[18-Jul-18 10:34 PM] delad#7470
+I've added the mountian in lads
+
+
+[18-Jul-18 10:34 PM] waltor#3519
+Kek
+
+
+[18-Jul-18 10:34 PM] RunasSudo#2416
+One of us
+
+
+[18-Jul-18 10:34 PM] waltor#3519
+We have many mountain men
+
+
+[18-Jul-18 10:34 PM] waltor#3519
+Men is a non-gendered term we add for alliterative purposes
+
+
+[18-Jul-18 10:34 PM] RunasSudo#2416
+I'm in SA until tomorrow
+
+
+[18-Jul-18 10:34 PM] Deleted User#0000
+SA is the best state
+
+
+[18-Jul-18 10:34 PM] waltor#3519
+Permanently flooded lake eyre hmm
+
+
+[18-Jul-18 10:35 PM] RunasSudo#2416
+The state is going backwards
+
+
+[18-Jul-18 10:35 PM] RunasSudo#2416
+Mountain mob surely. Gender neutral
+
+
+[18-Jul-18 10:35 PM] RunasSudo#2416
+I'm from SA!
+
+
+[18-Jul-18 10:35 PM] waltor#3519
+Probably a bunch of dams
+
+
+[18-Jul-18 10:35 PM] delad#7470
+nice gary
+
+
+[18-Jul-18 10:36 PM] RunasSudo#2416
+Studying in Melbourne
+
+
+[18-Jul-18 10:36 PM] waltor#3519
+Ok
+
+
+[18-Jul-18 10:36 PM] Deleted User#0000
+Get your facts straight
+
+
+[18-Jul-18 10:36 PM] waltor#3519
+@RunasSudo change name and role to Mountain Mob
+
+
+[18-Jul-18 10:36 PM] delad#7470
+wait Runas you watch the footy?
+
+
+[18-Jul-18 10:36 PM] waltor#3519
+for this channel
+
+
+[18-Jul-18 10:36 PM] RunasSudo#2416
+Actually? @waltor
+
+
+[18-Jul-18 10:36 PM] waltor#3519
+Yeah
+
+
+[18-Jul-18 10:36 PM] waltor#3519
+Doit
+
+
+[18-Jul-18 10:36 PM] delad#7470
+Footy footy SA and VIC footy
+
+
+[18-Jul-18 10:37 PM] RunasSudo#2416
+Well it's a mob now
+
+
+[18-Jul-18 10:37 PM] RunasSudo#2416
+GLOBAL EMOTES? BANNED
+
+
+[18-Jul-18 10:37 PM] RunasSudo#2416
+That is anti-Communist
+
+
+[18-Jul-18 10:37 PM] waltor#3519
+Haha yes
+
+
+[18-Jul-18 10:38 PM] Youmaton#1190
+:pointingboi:
+
+
+[18-Jul-18 10:38 PM] waltor#3519
+Youma
+
+
+[18-Jul-18 10:38 PM] waltor#3519
+Update your name
+
+
+[18-Jul-18 10:38 PM] waltor#3519
+Or you will be melted down for carbon nanotubes
+
+
+[18-Jul-18 10:39 PM] RunasSudo#2416
+O wait what
+
+
+[18-Jul-18 10:39 PM] RunasSudo#2416
+Those are actual server emotes
+
+
+[18-Jul-18 10:39 PM] RunasSudo#2416
+WHO DID THIS?! 😂
+
+
+[18-Jul-18 10:39 PM] waltor#3519
+H
+
+
+[18-Jul-18 10:39 PM] RunasSudo#2416
+Idk wasn't me
+
+
+[18-Jul-18 10:39 PM] waltor#3519
+:GWfroggyBlobThonk:
+
+
+[18-Jul-18 10:39 PM] waltor#3519
+:GWfroggyPepoThink:
+
+
+[18-Jul-18 10:40 PM] RunasSudo#2416
+:marxthink:
+
+
+[18-Jul-18 10:40 PM] Youmaton#1190
+:GWlegacyBlobSalute:
+
+
+[18-Jul-18 10:40 PM] waltor#3519
+:GWfroggyPeepoHug:
+
+
+[18-Jul-18 10:40 PM] RunasSudo#2416
+Ok the blobs are cool
+
+
+[18-Jul-18 10:40 PM] RunasSudo#2416
+Blobs are allowed
+
+
+[18-Jul-18 10:40 PM] RunasSudo#2416
+Also showstealer's pandas ovbs
+
+
+[18-Jul-18 10:42 PM] waltor#3519
+Ok guys
+
+
+[18-Jul-18 10:42 PM] waltor#3519
+Mountain
+
+
+[18-Jul-18 10:42 PM] waltor#3519
+What sort of ski industry do you think we could develop from this
+
+
+[18-Jul-18 10:43 PM] waltor#3519
+Now because of the near constant rain
+
+
+[18-Jul-18 10:44 PM] RunasSudo#2416
+Make it like Candy Mountain, Charlie. Candy Mountain!
+
+
+[18-Jul-18 10:44 PM] delad#7470
+who'd needs a perfect resort when you alreayd have perisher
+
+
+[18-Jul-18 10:44 PM] waltor#3519
+The mountain is built hollow
+
+
+[18-Jul-18 10:44 PM] waltor#3519
+Carbon Nanotubes
+
+
+[18-Jul-18 10:44 PM] waltor#3519
+@delad perisher 2: mt isa boogaloo
+
+
+[18-Jul-18 10:44 PM] delad#7470
+you what cunt
+
+
+[18-Jul-18 10:44 PM] waltor#3519
+Mt buller is good
+
+
+[18-Jul-18 10:44 PM] delad#7470
+let's do it CSID
+
+
+[18-Jul-18 10:44 PM] waltor#3519
+No
+
+
+[18-Jul-18 10:44 PM] waltor#3519
+Out
+
+
+[18-Jul-18 10:44 PM] waltor#3519
+Get out
+
+
+[18-Jul-18 10:44 PM] delad#7470
+Mt buller is in Vic
+
+
+[18-Jul-18 10:45 PM] waltor#3519
+Australia’s seasonal resorts are better than STINKY permanent snow NZ
+
+
+[18-Jul-18 10:45 PM] waltor#3519
+What about Bartle Frere
+
+
+[18-Jul-18 10:45 PM] waltor#3519
+My favourite ski resort
+
+
+[18-Jul-18 10:45 PM] waltor#3519
+Probabky
+
+
+[18-Jul-18 10:46 PM] waltor#3519
+.
+
+
+[18-Jul-18 10:46 PM] delad#7470
+are there actually ski resorts in QLD honest question
+
+
+[18-Jul-18 10:46 PM] waltor#3519
+No lmao
+
+
+[18-Jul-18 10:47 PM] waltor#3519
+I don’t think there’s anyone north of selwyn or corin forest
+
+
+[18-Jul-18 10:47 PM] waltor#3519
+then that’s not snow
+
+
+[18-Jul-18 10:47 PM] waltor#3519
+.
+
+
+[18-Jul-18 10:47 PM] waltor#3519
+So it precipitated from abov
+
+
+[18-Jul-18 10:47 PM] waltor#3519
+Interesting
+
+
+[18-Jul-18 10:48 PM] waltor#3519
+I saw alice springs getting down to -1 or so on the weather back last week lmao
+
+
+[18-Jul-18 10:49 PM] delad#7470
+press x to sdoubt freezing
+
+
+[18-Jul-18 10:49 PM] waltor#3519
+Canberra was -6 😂
+
+
+[18-Jul-18 10:50 PM] waltor#3519
+Poor fucks
+
+
+[18-Jul-18 10:50 PM] delad#7470
+last year it was 1 degree at lunch time here in Canberra 😢
+
+
+[18-Jul-18 10:50 PM] waltor#3519
+Eek
+
+
+[18-Jul-18 10:50 PM] delad#7470
+but really it's actually not bad
+
+
+[18-Jul-18 10:50 PM] waltor#3519
+I was out camping and it was below 0 at 8pm
+
+
+[18-Jul-18 10:50 PM] waltor#3519
+Near bendigo
+
+
+[18-Jul-18 10:50 PM] waltor#3519
+It got to -6 that night
+
+
+[18-Jul-18 10:51 PM] waltor#3519
+Out that way
+
+
+[18-Jul-18 10:51 PM] waltor#3519
+Somewhere
+
+
+[18-Jul-18 10:51 PM] delad#7470
+deserts get cold at night
+
+
+[18-Jul-18 10:51 PM] waltor#3519
+.
+
+
+[18-Jul-18 10:51 PM] delad#7470
+hot in day bi-polar deserts
+
+
+[18-Jul-18 10:51 PM] waltor#3519
+I wonder if the sahara goes below freezing
+
+
+[18-Jul-18 10:52 PM] Ash#8178
+.
+
+
+[18-Jul-18 10:52 PM] waltor#3519
+Bendigo vs ballarat
+
+
+[18-Jul-18 10:53 PM] waltor#3519
+Bredbo River
+
+
+[18-Jul-18 10:54 PM] waltor#3519
+Darling Canal
+
+
+[18-Jul-18 10:54 PM] waltor#3519
+Yes
+
+
+[18-Jul-18 10:54 PM] waltor#3519
+Imagine the real estate from building a city in the mountain
+
+
+[18-Jul-18 10:54 PM] waltor#3519
+As in selling the land
+
+
+[18-Jul-18 10:55 PM] waltor#3519
+Also farming
+
+
+[18-Jul-18 10:55 PM] waltor#3519
+And there will be easily navigsble waterways from south to north
+
+
+[18-Jul-18 10:55 PM] waltor#3519
+So a lot
+
+
+[18-Jul-18 10:55 PM] waltor#3519
+.
+
+
+[18-Jul-18 10:57 PM] waltor#3519
+Muslims have fucking amazing food tho
+
+
+[18-Jul-18 10:57 PM] waltor#3519
+They can work the fields and make hsps
+
+
+[19-Jul-18 12:56 AM] abiramen#1521
+What is this exactly
+
+
+[19-Jul-18 08:33 AM] waltor#3519
+@abiramen Good shit
+
+
+[19-Jul-18 08:33 AM] waltor#3519
+i am writing up
+
+
+[19-Jul-18 08:34 AM] waltor#3519
+report
+
+
+[19-Jul-18 08:34 AM] Ash#8178
+.
+
+
+[19-Jul-18 08:34 AM] Ash#8178
+@waltor .
+
+
+[19-Jul-18 08:34 AM] waltor#3519
+hi
+
+
+[19-Jul-18 08:34 AM] Ash#8178
+Hello
+
+
+[19-Jul-18 10:06 AM] waltor#3519
+@Harold putting in some photoshop requests
+
+
+[19-Jul-18 10:06 AM] waltor#3519
+One of the Carpentarian Range
+
+
+[19-Jul-18 10:06 AM] waltor#3519
+One of the Paroo Canal
+
+
+[19-Jul-18 10:06 AM] waltor#3519
+One of the Gascoyne Range
+
+
+[19-Jul-18 10:06 AM] waltor#3519
+One of the Nullabor Canal
+
+
+[19-Jul-18 10:06 AM] waltor#3519
+And one of a big ship going past this place
+
+
+[19-Jul-18 10:07 AM] waltor#3519
+uh
+
+
+[19-Jul-18 10:08 AM] waltor#3519
+a cargo ship going up the Hunter River
+
+
+[19-Jul-18 11:03 AM] waltor#3519
+@Harold is this possible
+
+
+[19-Jul-18 11:05 AM] waltor#3519
+OK
+
+
+[19-Jul-18 11:25 AM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469321469281828864/Carpentarian.PNG
+
+
+[19-Jul-18 11:30 AM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469322656991281162/Gascoyne.PNG
+
+
+[19-Jul-18 11:31 AM] waltor#3519
+opinion on these photoshops
+
+
+[19-Jul-18 11:31 AM] waltor#3519
+@LuSing My Religion
+
+
+[19-Jul-18 11:33 AM] LuSing My Religion#7657
+nice
+
+
+[19-Jul-18 11:33 AM] waltor#3519
+@RunasSudo
+
+
+[19-Jul-18 11:33 AM] waltor#3519
+these will be the official images for the mountain ranges
+
+
+[19-Jul-18 11:33 AM] RunasSudo#2416
+What even is this
+
+
+[19-Jul-18 11:34 AM] waltor#3519
+What do you think of them
+
+
+[19-Jul-18 11:35 AM] waltor#3519
+@RunasSudo
+
+
+[19-Jul-18 11:36 AM] RunasSudo#2416
+That's certainly a mountain
+
+
+[19-Jul-18 11:36 AM] waltor#3519
+no shit
+
+
+[19-Jul-18 11:36 AM] RunasSudo#2416
+Colour balance needs some work I think
+
+
+[19-Jul-18 11:37 AM] waltor#3519
+Add the bots back in
+
+
+[19-Jul-18 11:37 AM] waltor#3519
+please
+
+
+[19-Jul-18 11:37 AM] waltor#3519
+@RunasSudo
+
+
+[19-Jul-18 11:37 AM] RunasSudo#2416
+I don't think I can on mobile
+
+
+[19-Jul-18 11:37 AM] waltor#3519
+Give me adim
+
+
+[19-Jul-18 11:37 AM] waltor#3519
+admin
+
+
+[19-Jul-18 11:38 AM] RunasSudo#2416
+No thanks
+
+
+[19-Jul-18 11:38 AM] waltor#3519
+.
+
+
+[19-Jul-18 11:38 AM] waltor#3519
+You can do it on mobile
+
+
+[19-Jul-18 12:01 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469330532526718982/f0499b2b74f30905e2a734c5e3bf2a529c1bf9f7.png
+
+
+[19-Jul-18 12:03 PM] waltor#3519
+24.6 avg temp Mt Isa
+
+
+[19-Jul-18 12:04 PM] waltor#3519
+hmh
+
+
+[19-Jul-18 12:04 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469331096153096192/c830a2bf0556ca72c744420b35cdb2808c6ec1d8.png
+
+
+[19-Jul-18 12:05 PM] _slothsworth#4496
+yeh colour is off
+
+
+[19-Jul-18 12:05 PM] waltor#3519
+(24.6/5)^1.514 + (24.6/5)^1.514 + (24.6/5)^1.514 +(24.6/5)^1.514 + (24.6/5)^1.514 + (24.6/5)^1.514 + (24.6/5)^1.514 + (24.6/5)^1.514 + (24.6/5)^1.514 + (24.6/5)^1.514 + (24.6/5)^1.514 + (24.6/5)^1.514
+
+
+[19-Jul-18 12:05 PM] _slothsworth#4496
+i can help if need be
+
+
+[19-Jul-18 12:05 PM] waltor#3519
+ok
+
+
+[19-Jul-18 12:06 PM] waltor#3519
+both pics
+
+
+[19-Jul-18 12:06 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469331596059738114/Carpentarian.PNG
+
+
+[19-Jul-18 12:06 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469331624430010379/Gascoyne.PNG
+
+
+[19-Jul-18 12:06 PM] waltor#3519
+I = 133.911048849
+
+
+[19-Jul-18 12:08 PM] waltor#3519
+```(6.75*(10^-7))*(133.911048849^3)-(7.71*(10^-5))*(133.911048849^2)+(1.792*(10^-2))*133.911048849+0.49239```
+
+
+[19-Jul-18 12:08 PM] waltor#3519
+= 3.1303937678
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469332225570373632/49a5fd4e20116e19f27b502e8e7c7122fc67160e.png
+
+
+[19-Jul-18 12:08 PM] _slothsworth#4496
+what is this
+
+
+[19-Jul-18 12:08 PM] waltor#3519
+wait oops
+
+
+[19-Jul-18 12:08 PM] _slothsworth#4496
+what r u doing csid
+
+
+[19-Jul-18 12:09 PM] waltor#3519
+weird A character = 3.1303937678
+
+
+[19-Jul-18 12:09 PM] _slothsworth#4496
+meuf
+
+
+[19-Jul-18 12:09 PM] waltor#3519
+CALCULATING POTENTIAL EVAPOURATION
+
+
+[19-Jul-18 12:09 PM] waltor#3519
+https://en.wikipedia.org/wiki/Potential_evaporation
+
+{Embed}
+https://en.wikipedia.org/wiki/Potential_evaporation
+Potential evaporation
+Potential evaporation (PE) or potential evapotranspiration (PET) is defined as the amount of evaporation that would occur if a sufficient water source were available.  If the actual evapotranspiration is considered the net result of atmospheric demand for moisture from a surf...
+https://images-ext-1.discordapp.net/external/m28qCAbWDEEGvMYqoHN5QlIav_LKvGP0xm6OkKiRUAQ/https/upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Potential_Evaporation_in_North_America_Through_2100.ogv/1200px--Potential_Evaporation_in_North_America_Through_2100.ogv.jpg
+
+
+[19-Jul-18 12:09 PM] _slothsworth#4496
+oh
+
+
+[19-Jul-18 12:10 PM] waltor#3519
+A = 3.1303937678
+I = 133.911048849
+L = 9.5
+N = 365
+Ta = 24.6
+
+
+[19-Jul-18 12:10 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469332674004254761/f0499b2b74f30905e2a734c5e3bf2a529c1bf9f7.png
+
+
+[19-Jul-18 12:12 PM] waltor#3519
+```(6*(9.5/12)*(365/30)*(((10*24.6)/133.911048849)^3.1303937678)```
+
+
+[19-Jul-18 12:12 PM] waltor#3519
+= 387.847268889
+
+
+[19-Jul-18 12:12 PM] waltor#3519
+Ok what
+
+
+[19-Jul-18 12:13 PM] waltor#3519
+that's mm/y
+
+
+[19-Jul-18 12:13 PM] waltor#3519
+I don't feel like that number is right
+
+
+[19-Jul-18 12:14 PM] waltor#3519
+464mm/388mm = over 1
+
+
+[19-Jul-18 12:14 PM] waltor#3519
+OK so that isn't right
+
+
+[19-Jul-18 12:15 PM] waltor#3519
+388 * 12 = 4656
+
+
+[19-Jul-18 12:15 PM] waltor#3519
+aridity index of 0.09965635738831615120274914089347
+
+
+[19-Jul-18 12:16 PM] waltor#3519
+~0.1
+
+
+[19-Jul-18 12:16 PM] waltor#3519
+OK so Mt Isa is arid
+
+
+[19-Jul-18 12:16 PM] waltor#3519
+https://en.wikipedia.org/wiki/Aridity_index
+
+{Embed}
+https://en.wikipedia.org/wiki/Aridity_index
+Aridity index
+An aridity index (AI) is a numerical indicator of the degree of dryness of the climate at a given location. A number of aridity indices have been proposed (see below); these indicators serve to identify, locate or delimit regions that suffer from a deficit of available water,...
+
+
+[19-Jul-18 12:16 PM] waltor#3519
+no shit
+
+
+[19-Jul-18 12:16 PM] waltor#3519
+Utterly useless
+
+
+[19-Jul-18 12:18 PM] waltor#3519
+@Harold please add the bots back
+
+
+[19-Jul-18 12:18 PM] waltor#3519
+please add dyno and mee6 back
+
+
+[19-Jul-18 12:18 PM] waltor#3519
+so we get commands and shit
+
+
+[19-Jul-18 12:18 PM] waltor#3519
+like
+
+
+[19-Jul-18 12:18 PM] waltor#3519
+no shitr
+
+
+[19-Jul-18 12:19 PM] waltor#3519
+https://cdn.discordapp.com/attachments/320876268465946635/438172689912561665/unknown.png
+
+{Embed}
+https://cdn.discordapp.com/attachments/320876268465946635/438172689912561665/unknown.png
+https://media.discordapp.net/attachments/320876268465946635/438172689912561665/unknown.png
+
+
+[19-Jul-18 12:22 PM] waltor#3519
+add the bot pls
+
+
+[19-Jul-18 12:22 PM] waltor#3519
+just add bot role to this channel
+
+
+[19-Jul-18 12:23 PM] MEE6#4876
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469335904327172127/card.png
+
+
+[19-Jul-18 12:25 PM] waltor#3519
+It's not in this channel
+
+
+[19-Jul-18 12:25 PM] waltor#3519
+Add Dickybot
+
+
+[19-Jul-18 12:25 PM] waltor#3519
+t.help
+
+
+[19-Jul-18 12:25 PM] TriviaMaster#8075
+
+{Embed}
+TriviaMaster help
+__Info:__
+**Creator:** `6463#6463`
+**Website:** http://ruyili.ca/triviamaster
+**Server:** https://discord.gg/p6MAC99 **      **
+**Invite:** http://ruyili.ca/triv
+**Library:** [discord.js](https://discord.js.org/#/)
+**GitHub:** [RuyiLi/TriviaMaster](https://github.com/RuyiLi/triviamaster)
+**Patreon:** [ruyili](https://www.patreon.com/ruyili)
+**DBL:** [discordbots.org](https://discordbots.org/bot/316591030432563202)
+__Stats:__
+**Servers:** 3142
+**Channels:** 58773
+**Users:** 203808
+**Shards:** 3
+Type t.commands to get a list of available commands.
+
+
+[19-Jul-18 12:25 PM] waltor#3519
+ok
+
+
+[19-Jul-18 12:25 PM] waltor#3519
+no shit
+
+
+[19-Jul-18 12:25 PM] Dyno#3861
+https://cdn.discordapp.com/attachments/320876268465946635/438172689912561665/unknown.png
+
+{Embed}
+https://cdn.discordapp.com/attachments/320876268465946635/438172689912561665/unknown.png
+https://media.discordapp.net/attachments/320876268465946635/438172689912561665/unknown.png
+
+
+[19-Jul-18 12:29 PM] Dicky_Knee#8807
+The /r/Catholicism discord server?
+
+
+[19-Jul-18 12:29 PM] Dicky_Knee#8807
+It will give our economy a large benis
+
+
+[19-Jul-18 12:29 PM] Dicky_Knee#8807
+:facepalm:
+
+
+[19-Jul-18 12:29 PM] Dicky_Knee#8807
+Certainly an "unsatisfactory witness".
+
+
+[19-Jul-18 12:30 PM] Dicky_Knee#8807
+About time I should be able to Somersby and active media. Non-MPs should learn about whats happening in the most serious of memes. It makes no sense to nominate for LGBTQ+ Affairs". I wonder how well you are, Solarian. Right you go?' I don't wish to have citizens engaging in the Queen.
+
+
+[19-Jul-18 12:30 PM] waltor#3519
+/dickydot -channel 307873714454659072
+
+
+[19-Jul-18 12:30 PM] waltor#3519
+/dickydot-channel 307873714454659072
+
+
+[19-Jul-18 12:30 PM] Dicky_Knee#8807
+I am saying
+
+
+[19-Jul-18 12:30 PM] Dicky_Knee#8807
+Then get out the complainant who should read Mr. Deputy Prime Minister for all.
+
+
+[19-Jul-18 12:30 PM] Dicky_Knee#8807
+changes channel
+
+
+[19-Jul-18 12:31 PM] Dicky_Knee#8807
+Hear hear!
+
+{Reactions}
+hearhear (2) 
+
+[19-Jul-18 12:31 PM] Dicky_Knee#8807
+I ENDORSE THIS GHOST
+
+{Reactions}
+hearhear 
+
+[19-Jul-18 12:31 PM] Dicky_Knee#8807
+.
+
+
+[19-Jul-18 12:31 PM] Dicky_Knee#8807
+The allegations of the swimming pool, because the round stickers.
+
+
+[19-Jul-18 12:32 PM] waltor#3519
+woah
+
+
+[19-Jul-18 12:32 PM] waltor#3519
+🏊 💄
+
+
+[19-Jul-18 12:38 PM] Dicky_Knee#8807
+I think it depends how extreme would you to all
+
+
+[19-Jul-18 12:38 PM] Dicky_Knee#8807
+sits
+
+
+[19-Jul-18 12:38 PM] Dicky_Knee#8807
+Sattire?
+
+
+[19-Jul-18 12:38 PM] Dicky_Knee#8807
+No to stand trial.
+
+
+[19-Jul-18 12:39 PM] Dicky_Knee#8807
+It reduces the movie was screened, combined with you are, Solarian. Right you go?' I feel very upsetting for his statement and allegations of the main sub. The only people of parliament. They involved alleged offending at a screening of the entire bench. This is what I disagree with super soft blue velour. Anybody who to strike out for him to all
+
+
+[19-Jul-18 12:41 PM] Dicky_Knee#8807
+Correction: NKG is that font
+
+
+[19-Jul-18 12:41 PM] MEE6#4876
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469340453511233536/card.png
+
+
+[19-Jul-18 12:44 PM] waltor#3519
+!rank
+
+
+[19-Jul-18 12:44 PM] MEE6#4876
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469341151821037579/card.png
+
+
+[19-Jul-18 12:44 PM] waltor#3519
+Nice farming
+
+
+[19-Jul-18 12:47 PM] Dicky_Knee#8807
+Congratulations, Mr. Deputy Prime Minister for him to alleged offending at this event, person, or false?
+
+
+[19-Jul-18 01:00 PM] ChairmanMeeseeks#8399
+Can we have THAAD at the top of this mountain?
+
+
+[19-Jul-18 01:00 PM] waltor#3519
+.
+
+
+[19-Jul-18 01:00 PM] waltor#3519
+the precipitation during the monsoon would leave a glacier tens of metres thick on the top of the mountain
+
+
+[19-Jul-18 01:02 PM] ChairmanMeeseeks#8399
+Have like a little hidey hole
+
+
+[19-Jul-18 01:02 PM] ChairmanMeeseeks#8399
+It pokes out in nuclear war
+
+
+[19-Jul-18 01:02 PM] waltor#3519
+ok
+
+
+[19-Jul-18 01:02 PM] ChairmanMeeseeks#8399
+Tapas place more like
+
+
+[19-Jul-18 01:02 PM] waltor#3519
+I'm actually not sure how thick the glacier would be
+
+
+[19-Jul-18 01:03 PM] ChairmanMeeseeks#8399
+Why the Venezuelans?
+
+
+[19-Jul-18 01:04 PM] ChairmanMeeseeks#8399
+Well, everyone in SA is Catholic
+
+
+[19-Jul-18 01:04 PM] ChairmanMeeseeks#8399
+So it could do for anyone really
+
+
+[19-Jul-18 01:04 PM] ChairmanMeeseeks#8399
+Like the Argies
+
+
+[19-Jul-18 01:05 PM] waltor#3519
+I was in SA
+
+
+[19-Jul-18 01:05 PM] ChairmanMeeseeks#8399
+Let's get some of my countrymen in
+
+
+[19-Jul-18 01:05 PM] waltor#3519
+And I did not become temporarily catholic
+
+
+[19-Jul-18 01:05 PM] waltor#3519
+So false
+
+
+[19-Jul-18 01:05 PM] waltor#3519
+Phase 1 of the EBIC is the construction of the Carpentarian Range. The Carpentarian Range is an artificial mountain range, 10km tall, 30km wide and 700km long - designed to catch monsoonal rains and store them in the Carpentarian Reservoir. The Carpentarian Reservoir will be a large
+
+
+[19-Jul-18 01:11 PM] waltor#3519
+The Carpentarian Reservoir will be an artificial reservoir fed by the runoff from the Carpentarian Range. The reservoir will be dammed on all sides, and there will be spillways draining into the major river systems of the Gulf of Carpentaria and Lake Eyre catchments with hydroelectric turbines.
+
+
+[19-Jul-18 01:11 PM] waltor#3519
+haha yes
+
+
+[19-Jul-18 01:12 PM] waltor#3519
+@Harold is this the sort of thing we want
+
+
+[19-Jul-18 01:13 PM] waltor#3519
+OK
+
+
+[19-Jul-18 01:13 PM] waltor#3519
+As in is the language and wording suitable
+
+
+[19-Jul-18 01:13 PM] waltor#3519
+i'm not fully sure
+
+
+[19-Jul-18 01:14 PM] waltor#3519
+ok father
+
+
+[19-Jul-18 01:18 PM] Dicky_Knee#8807
+We are going to have a baby 👶
+
+
+[19-Jul-18 01:28 PM] waltor#3519
+HOLY SHIT GUYS
+
+
+[19-Jul-18 01:28 PM] waltor#3519
+we've just had a breakthrough
+
+
+[19-Jul-18 01:28 PM] waltor#3519
+Construction materials will cost a mere $630 billion
+
+
+[19-Jul-18 01:30 PM] waltor#3519
+A triangular prism 700km long, 10km tall and 30km wide has a volume of 210,000km3. 
+
+For typical buildings such as skyscrapers, 85% of a building is air and the other 15% is building material. Carbon fibre is 1000x stronger than steel (typical building material), so a carbon nanotube building could be 0.015% carbon fibre and 99.985% air. 
+
+210,000km3 * 0.015% = 31.5km3 of carbon nanotubes. 
+
+Carbon nanotubes weight approximately 400g per m3, so 31.5 billion m3 * 400g/m3 = 12.6 million tonnes of carbon nanotubes. 
+
+Carbon nanotubes cost approximately $50/kg, so 12.6 billion * 50 = $630b cost for construction materials.
+
+
+[19-Jul-18 01:30 PM] waltor#3519
+lemme double check the maths
+
+
+[19-Jul-18 01:32 PM] waltor#3519
+Yes i have fucked up
+
+
+[19-Jul-18 01:32 PM] waltor#3519
+oops
+
+
+[19-Jul-18 01:32 PM] waltor#3519
+I overestimated
+
+
+[19-Jul-18 01:32 PM] waltor#3519
+700*10*30 is 210k
+
+
+[19-Jul-18 01:32 PM] waltor#3519
+This is a triangular prism, not a cuboid
+
+
+[19-Jul-18 01:33 PM] waltor#3519
+Actual cost for building materials is around $300b
+
+
+[19-Jul-18 01:33 PM] waltor#3519
+Now how much will the labour cost
+
+
+[19-Jul-18 01:33 PM] waltor#3519
+FUCK I HAVE TO REWRITE THE MATHS NOW OOF
+
+
+[19-Jul-18 01:33 PM] waltor#3519
+.
+
+
+[19-Jul-18 01:34 PM] waltor#3519
+Still, we don't know how many people it will need
+
+
+[19-Jul-18 01:34 PM] waltor#3519
+And how long it will take
+
+
+[19-Jul-18 01:35 PM] waltor#3519
+That's a number we've made up, it could be entirely off
+
+
+[19-Jul-18 01:35 PM] waltor#3519
+I'm assuming we like have a machine that weaves carbon nanotubes
+
+
+[19-Jul-18 01:35 PM] waltor#3519
+That crawls along the side of the mountain
+
+
+[19-Jul-18 01:35 PM] waltor#3519
+Hmm
+
+
+[19-Jul-18 01:35 PM] waltor#3519
+We will need to develop engineering
+
+
+[19-Jul-18 01:36 PM] waltor#3519
+I think crawler machines will be most viable for building it
+
+
+[19-Jul-18 01:36 PM] waltor#3519
+What should I call them
+
+
+[19-Jul-18 01:37 PM] waltor#3519
+https://www.nextbigfuture.com/2008/02/large-sheets-of-carbon-nanotube.html
+
+
+[19-Jul-18 01:37 PM] waltor#3519
+Haha yes
+
+
+[19-Jul-18 01:37 PM] waltor#3519
+https://www.nanowerk.com/nanotechnology/introduction/introduction_to_nanotechnology_22.php
+
+{Embed}
+https://www.nanowerk.com/nanotechnology/introduction/introduction_to_nanotechnology_22.php
+Carbon Nanotubes 101 - production methods
+Production methods of carbon nanotubes
+
+
+[19-Jul-18 01:38 PM] waltor#3519
+1000 times as strong as steel
+
+
+[19-Jul-18 01:39 PM] waltor#3519
+Probably idunno
+
+
+[19-Jul-18 01:39 PM] waltor#3519
+We'll probably need to overshoot a little bit with the amount we use
+
+
+[19-Jul-18 01:39 PM] waltor#3519
+Hmm
+
+
+[19-Jul-18 01:39 PM] waltor#3519
+50m thick ice = 50 million tonnes per km2
+
+
+[19-Jul-18 01:39 PM] waltor#3519
+hmm
+
+
+[19-Jul-18 01:39 PM] waltor#3519
+maybe 25km2 of ice * 700 = a lot
+
+
+[19-Jul-18 01:40 PM] waltor#3519
+875 billion tonnes wew
+
+
+[19-Jul-18 01:40 PM] waltor#3519
+Hmm
+
+
+[19-Jul-18 01:40 PM] waltor#3519
+@Harold We will make the mountain vibrate
+
+
+[19-Jul-18 01:40 PM] waltor#3519
+So the ice falls off as soon as it lands
+
+
+[19-Jul-18 01:41 PM] waltor#3519
+tbf there problably is a way around this
+
+
+[19-Jul-18 01:41 PM] waltor#3519
+the ice would slide off easily since carbon nanotubes aren;t know for being coarse
+
+
+[19-Jul-18 01:41 PM] waltor#3519
+uh
+
+
+[19-Jul-18 01:41 PM] waltor#3519
+hmh
+
+
+[19-Jul-18 01:42 PM] waltor#3519
+I feel like glaciers will never really form because it'll be too slippery
+
+
+[19-Jul-18 01:43 PM] waltor#3519
+They would just slide down the mountain and into the lake
+
+
+[19-Jul-18 01:43 PM] waltor#3519
+yeah
+
+
+[19-Jul-18 01:44 PM] waltor#3519
+https://www.youtube.com/watch?v=HrjP_iYlJ1k
+
+{Embed}
+CenturionPilot
+https://www.youtube.com/watch?v=HrjP_iYlJ1k
+Icing Boots in Action
+Watch as the deicing boots on a known ice certified Cessna 210 do their magic.
+https://images-ext-1.discordapp.net/external/UZNDXwKca1Y7m7ahxv2R-RJHZwHCCz4w-8m2HuVLhVc/https/i.ytimg.com/vi/HrjP_iYlJ1k/maxresdefault.jpg
+
+
+[19-Jul-18 01:44 PM] waltor#3519
+We could do something like this
+
+
+[19-Jul-18 01:48 PM] waltor#3519
+?afk "Fleabass" is the name of the instrument company that Flea, the bassist of the Red Hot Chili Peppers, started in 2009. His goal was to start a music company that could provide young people with high quality bass guitars for affordable prices.
+
+
+[19-Jul-18 01:48 PM] Dyno#3861
+@waltor I set your AFK: "Fleabass" is the name of the instrument company that Flea, the bassist of the Red Hot Chili Peppers, started in 2009. His goal was to start a music company that could provide young people with high quality bass guitars for affordable prices.
+
+
+[19-Jul-18 01:50 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469357811747520523/ACSszfGtEOPL0A08wDtZjEVqm4Php56nZlJZu-RTFQs88-mo-c-c0xffffffff-rj-k-no.png
+
+
+[19-Jul-18 01:59 PM] ChairmanMeeseeks#8399
+Hyperloop stop in Carpentaria city
+
+
+[19-Jul-18 02:01 PM] waltor#3519
+fuck it'd need it's own hyperloop inside
+
+
+[19-Jul-18 02:01 PM] ChairmanMeeseeks#8399
+I mean, maybe
+
+
+[19-Jul-18 02:01 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469360658660589570/photo.png
+
+
+[19-Jul-18 02:01 PM] ChairmanMeeseeks#8399
+But remember that it's less efficient the more stops it has
+
+
+[19-Jul-18 02:02 PM] ChairmanMeeseeks#8399
+Maybe a monorail instead?
+
+
+[19-Jul-18 02:02 PM] ChairmanMeeseeks#8399
+How dare you
+
+
+[19-Jul-18 02:02 PM] ChairmanMeeseeks#8399
+Monorails are awesome
+
+
+[19-Jul-18 02:03 PM] waltor#3519
+Halal Snack Rail
+
+
+[19-Jul-18 02:03 PM] waltor#3519
+maybe just regular maglev idunno
+
+
+[19-Jul-18 02:03 PM] ChairmanMeeseeks#8399
+The Sydney one was because it did fucking nothing
+
+
+[19-Jul-18 02:03 PM] ChairmanMeeseeks#8399
+It went nowhere
+
+
+[19-Jul-18 02:04 PM] ChairmanMeeseeks#8399
+Maglev Monorails?
+
+
+[19-Jul-18 02:05 PM] waltor#3519
+the govt builds basic infrastructure like water, rail and roads
+
+
+[19-Jul-18 02:05 PM] waltor#3519
+and electricity
+
+
+[19-Jul-18 02:05 PM] waltor#3519
+the rest is put up for sale
+
+
+[19-Jul-18 02:07 PM] waltor#3519
+ee
+
+
+[19-Jul-18 02:14 PM] waltor#3519
+@Ash @PineappleCrusher_ @Youmaton @abiramen please update your nicknames to something mountain related
+
+{Reactions}
+uno 
+
+[19-Jul-18 02:15 PM] waltor#3519
+Youma do it
+
+
+[19-Jul-18 02:15 PM] waltor#3519
+Or we will melt you down for carbon fibre
+
+{Reactions}
+kaarommel uno 
+
+[19-Jul-18 02:16 PM] waltor#3519
+@RunasSudo Remove Youma from this channel immediately
+
+
+[19-Jul-18 02:16 PM] Youmaton#1190
+ooft
+
+
+[19-Jul-18 02:16 PM] waltor#3519
+Consider yourself melted down
+
+
+[19-Jul-18 02:16 PM] Youmaton#1190
+i was here to learn more about the project
+
+
+[19-Jul-18 02:16 PM] Youmaton#1190
+i guess if you dont want me 🤷
+
+
+[19-Jul-18 02:17 PM] waltor#3519
+Youma
+
+
+[19-Jul-18 02:17 PM] waltor#3519
+Please make your nick somewhat mountain related
+
+
+[19-Jul-18 02:17 PM] waltor#3519
+It is necessary
+
+
+[19-Jul-18 02:17 PM] Youmaton#1190
+I dont properly support it yet, there are many concerns that prevent me from doing so, im here so i can learn about it and assess it
+
+
+[19-Jul-18 02:17 PM] Youmaton#1190
+i think pc is here for the same
+
+
+[19-Jul-18 02:17 PM] waltor#3519
+What is wrong with it
+
+
+[19-Jul-18 02:18 PM] waltor#3519
+It is 100% confirmed to work
+
+
+[19-Jul-18 02:18 PM] Youmaton#1190
+environmental problems
+
+
+[19-Jul-18 02:18 PM] waltor#3519
+OK so that's it
+
+
+[19-Jul-18 02:18 PM] Youmaton#1190
+anything behind it will suffer droughts
+
+
+[19-Jul-18 02:18 PM] waltor#3519
+.
+
+
+[19-Jul-18 02:18 PM] waltor#3519
+Youma
+
+
+[19-Jul-18 02:18 PM] waltor#3519
+This is why there is a dam around it
+
+
+[19-Jul-18 02:19 PM] waltor#3519
+To divert water to where its needed
+
+
+[19-Jul-18 02:19 PM] waltor#3519
+There will be tunnels through the mountain
+
+
+[19-Jul-18 02:19 PM] waltor#3519
+So water can flow from the north to the south
+
+
+[19-Jul-18 02:19 PM] waltor#3519
+Also having this massive body of water means a lot will evapourate
+
+
+[19-Jul-18 02:19 PM] waltor#3519
+due to the aridity of the area
+
+
+[19-Jul-18 02:19 PM] waltor#3519
+And fall elsewhere
+
+
+[19-Jul-18 02:19 PM] Youmaton#1190
+not just the water, the great dividing range is one of the reasons we have such a big desert in australia, another mountain range could do much the same thing
+
+
+[19-Jul-18 02:20 PM] waltor#3519
+The only real environmental issues is the utter destruction of desert habitats
+
+
+[19-Jul-18 02:20 PM] ChairmanMeeseeks#8399
+IRRIGATION
+
+
+[19-Jul-18 02:20 PM] waltor#3519
+They will be completely soaked
+
+
+[19-Jul-18 02:20 PM] waltor#3519
+@Youmaton we have a desert for many reasons
+
+
+[19-Jul-18 02:20 PM] waltor#3519
+the GDR, cold ocean currents on the non-mountainous side, our latitude
+
+
+[19-Jul-18 02:21 PM] Youmaton#1190
+another reason i dont have a mountain name is because i cant fit it in my nickname
+
+
+[19-Jul-18 02:21 PM] waltor#3519
+We've got probably the worst continent if you think of those things
+
+
+[19-Jul-18 02:21 PM] ChairmanMeeseeks#8399
+Get rid of spaces
+
+
+[19-Jul-18 02:21 PM] waltor#3519
+South america is probably the best
+
+
+[19-Jul-18 02:21 PM] waltor#3519
+Equatorial, cold ocean current side has mountains, and warm ocean current side has rolling plains
+
+
+[19-Jul-18 02:21 PM] waltor#3519
+so the rains come in and hit the mountain
+
+
+[19-Jul-18 02:21 PM] waltor#3519
+and drain into the ocean
+
+
+[19-Jul-18 02:22 PM] waltor#3519
+irrigating the entire continent on the way
+
+
+[19-Jul-18 02:22 PM] waltor#3519
+clap
+
+
+[19-Jul-18 02:22 PM] waltor#3519
+!rank
+
+
+[19-Jul-18 02:22 PM] MEE6#4876
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469365865889005570/card.png
+
+
+[19-Jul-18 02:22 PM] waltor#3519
+when will i hit level 60
+
+
+[19-Jul-18 02:22 PM] MEE6#4876
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469365921966981130/card.png
+
+
+[19-Jul-18 02:22 PM] waltor#3519
+20.5 - 13.2 = 11.3
+
+
+[19-Jul-18 02:22 PM] waltor#3519
+.
+
+
+[19-Jul-18 02:22 PM] waltor#3519
+7.3
+
+
+[19-Jul-18 02:23 PM] waltor#3519
+7300 xp / 20 = 365
+
+
+[19-Jul-18 02:23 PM] waltor#3519
+365m = approx 6 hours
+
+
+[19-Jul-18 02:23 PM] waltor#3519
+I probably have 2 or so more days until I hit level 60
+
+
+[19-Jul-18 02:24 PM] waltor#3519
+is it sad i am at this level
+
+
+[19-Jul-18 02:24 PM] waltor#3519
+and i have been here for less than a year
+
+
+[19-Jul-18 02:25 PM] Dyno#3861
+I struggle to think of more offensive insults.
+
+
+[19-Jul-18 02:25 PM] waltor#3519
+kek
+
+
+[19-Jul-18 02:26 PM] waltor#3519
+OK do you think this is sensible
+
+
+[19-Jul-18 02:27 PM] waltor#3519
+The laying machines
+
+
+[19-Jul-18 02:27 PM] waltor#3519
+Wait nvm
+
+
+[19-Jul-18 02:27 PM] waltor#3519
+We need to H
+
+
+[19-Jul-18 02:28 PM] waltor#3519
+Ok the wall will be around 1m thick
+
+
+[19-Jul-18 02:28 PM] waltor#3519
+The wall of the mountain
+
+
+[19-Jul-18 02:28 PM] waltor#3519
+@Harold
+
+
+[19-Jul-18 02:29 PM] waltor#3519
+What
+
+
+[19-Jul-18 02:29 PM] waltor#3519
+OK so the laying machines
+
+
+[19-Jul-18 02:30 PM] waltor#3519
+They move forward
+
+
+[19-Jul-18 02:30 PM] waltor#3519
+10 metres per hour
+
+
+[19-Jul-18 02:30 PM] waltor#3519
+and they lay a 10m wide, 1m thick layer of carbon fibre
+
+
+[19-Jul-18 02:31 PM] waltor#3519
+If 1 machine did it
+
+
+[19-Jul-18 02:31 PM] waltor#3519
+it would take 252 million hours
+
+
+[19-Jul-18 02:31 PM] waltor#3519
+Each machine needs uh 20m of space so we can stack 500 of them
+
+
+[19-Jul-18 02:31 PM] waltor#3519
+hm
+
+
+[19-Jul-18 02:31 PM] waltor#3519
+1000
+
+
+[19-Jul-18 02:31 PM] waltor#3519
+252,000 hours
+
+
+[19-Jul-18 02:31 PM] waltor#3519
+That's still too much
+
+
+[19-Jul-18 02:32 PM] waltor#3519
+@RunasSudo
+
+
+[19-Jul-18 02:32 PM] waltor#3519
+how quickly do you think carbon nanotubes could be woven
+
+
+[19-Jul-18 02:32 PM] waltor#3519
+feck
+
+
+[19-Jul-18 02:32 PM] waltor#3519
+every time i say carbon fibre i meant carbon nanotubes
+
+
+[19-Jul-18 02:32 PM] RunasSudo#2416
+err
+
+
+[19-Jul-18 02:32 PM] RunasSudo#2416
+that doesn't sound like medicine :runas:
+
+
+[19-Jul-18 02:32 PM] RunasSudo#2416
+no can help there
+
+
+[19-Jul-18 02:32 PM] waltor#3519
+I have no idea the sort of numbers to expect
+
+
+[19-Jul-18 02:32 PM] waltor#3519
+Runas i'm sure you can
+
+
+[19-Jul-18 02:33 PM] ChairmanMeeseeks#8399
+We'll need you to build hospitals
+
+
+[19-Jul-18 02:33 PM] ChairmanMeeseeks#8399
+In the mountain
+
+
+[19-Jul-18 02:33 PM] waltor#3519
+There's lots of info on the strength of CNT
+
+
+[19-Jul-18 02:34 PM] waltor#3519
+but not the synthesis time
+
+
+[19-Jul-18 02:35 PM] waltor#3519
+OK
+
+
+[19-Jul-18 02:35 PM] waltor#3519
+These numbers tho
+
+
+[19-Jul-18 02:35 PM] waltor#3519
+I'm pulling them out of my arse
+
+
+[19-Jul-18 02:35 PM] waltor#3519
+Does anyone know anything about synthetis time
+
+
+[19-Jul-18 02:35 PM] waltor#3519
+please help
+
+
+[19-Jul-18 02:39 PM] waltor#3519
+OK
+
+
+[19-Jul-18 02:40 PM] waltor#3519
+Disagree
+
+
+[19-Jul-18 02:40 PM] waltor#3519
+Too hard
+
+
+[19-Jul-18 03:25 PM] waltor#3519
+Yes
+
+
+[19-Jul-18 03:25 PM] waltor#3519
+We need to know how fast we can weave 1m thick carbon fibre
+
+
+[19-Jul-18 08:32 PM] Deleted User#0000
+Hello
+
+
+[19-Jul-18 08:32 PM] waltor#3519
+Australia will have a mountain higher than Russia
+
+
+[19-Jul-18 08:32 PM] Deleted User#0000
+Ok
+
+
+[19-Jul-18 08:33 PM] Deleted User#0000
+~~doesn’t matter because it will be a part of Russia when I take over~~
+
+
+[19-Jul-18 08:33 PM] waltor#3519
+Our GDP will go from $1.5 trillion to $6 trillion
+
+
+[19-Jul-18 08:33 PM] waltor#3519
+Dwarfing Russia
+
+
+[19-Jul-18 08:34 PM] Deleted User#0000
+~~пошёл на хуй~~
+
+
+[19-Jul-18 10:46 PM] Youmaton#1190
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469492675029106698/Screenshot_2018-07-19_at_11.16.00_PM.png
+
+
+[19-Jul-18 10:46 PM] Youmaton#1190
+i mean
+
+
+[19-Jul-18 10:46 PM] Youmaton#1190
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469492766066606080/Screenshot_2018-07-19_at_11.16.25_PM.png
+
+
+[19-Jul-18 10:47 PM] Youmaton#1190
+we are nearly overtaking them atm
+
+
+[19-Jul-18 11:02 PM] Youmaton#1190
+if we reach 6 billion as our gdp however, by todays standards we would be at #3 in the world
+
+
+[19-Jul-18 11:23 PM] waltor#3519
+Haha yes
+
+
+[19-Jul-18 11:23 PM] waltor#3519
+@Youmaton carbon fibre synthesis speed
+
+
+[19-Jul-18 11:24 PM] Youmaton#1190
+so explain how it would quadruple our economy @waltor
+
+
+[19-Jul-18 11:25 PM] waltor#3519
+Uh
+
+
+[19-Jul-18 11:25 PM] waltor#3519
+Farming
+
+
+[19-Jul-18 11:25 PM] waltor#3519
+Real estate
+
+
+[19-Jul-18 11:25 PM] waltor#3519
+Also this is the good bit youma
+
+
+[19-Jul-18 11:43 PM] Youmaton#1190
+what about afterwards?
+
+
+[20-Jul-18 01:50 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469720210044223488/2Q.png
+
+
+[20-Jul-18 01:51 PM] waltor#3519
+ok so we try to grow wheat
+
+
+[20-Jul-18 01:52 PM] waltor#3519
+a lot
+
+
+[20-Jul-18 01:52 PM] waltor#3519
+about 25,000m3/s water flow
+
+
+[20-Jul-18 07:10 PM] waltor#3519
+https://grdc.com.au/resources-and-publications/groundcover/groundcover-issue-127-marchapril-2017/double-cropping-to-absorb-seasonal-shocks
+
+{Embed}
+https://grdc.com.au/resources-and-publications/groundcover/groundcover-issue-127-marchapril-2017/double-cropping-to-absorb-seasonal-shocks
+Double-cropping to absorb seasonal shocks
+Nuffield Scholar and southern Queensland grower Adam McVeigh is combining zero-till with double cropping by using centre-pivot irrigation to lift income and better withstand drought and flood risk.
+
+
+[20-Jul-18 07:10 PM] waltor#3519
+OK this is epic
+
+
+[20-Jul-18 07:11 PM] waltor#3519
+1 million km2 of wheat = 100 million hectares of wheat
+
+
+[20-Jul-18 07:12 PM] waltor#3519
+100 million hectares of wheat = 300 million tonnes of wheat
+
+
+[20-Jul-18 07:12 PM] waltor#3519
+Wheat @ $200 per tonne = $180 billion dollars per year of wheat sales
+
+
+[20-Jul-18 07:12 PM] waltor#3519
+BUT if we turn it into bread
+
+
+[20-Jul-18 07:13 PM] waltor#3519
+>One bushel of wheat yields approximately 42 pounds of white flour. One bushel of wheat yields approximately 60 pounds of whole-wheat flour. A bushel of wheat yields 42 commercial loaves of white bread (one-and-a-half pound loaves).
+
+
+[20-Jul-18 07:14 PM] waltor#3519
+1 bushel of wheat = 28kg bread
+
+
+[20-Jul-18 07:14 PM] waltor#3519
+1 tonne of wheat = 1500 loaves of bread
+
+
+[20-Jul-18 07:16 PM] waltor#3519
+$450b wheat sales if 1 bread loaf = $1
+
+
+[20-Jul-18 07:16 PM] waltor#3519
+Our yield has turned to shit
+
+
+[20-Jul-18 07:17 PM] waltor#3519
+Rice needs 80,000m3/s water
+
+
+[20-Jul-18 07:18 PM] waltor#3519
+OK rice is even worse
+
+
+[20-Jul-18 07:19 PM] waltor#3519
+Agriculture will not be the boon we expected
+
+
+[20-Jul-18 07:20 PM] waltor#3519
+@NotGriffonomics we need your expert opinion
+
+
+[20-Jul-18 07:20 PM] waltor#3519
+@ChairmanMeeseeks halp
+
+
+[20-Jul-18 07:25 PM] RunasSudo#2416
+can we
+
+
+[20-Jul-18 07:25 PM] waltor#3519
+increase farm yields
+
+
+[20-Jul-18 07:25 PM] RunasSudo#2416
+😎
+
+
+[20-Jul-18 07:26 PM] waltor#3519
+OK
+
+
+[20-Jul-18 07:26 PM] waltor#3519
+Maybe
+
+
+[20-Jul-18 07:26 PM] waltor#3519
+We grow wheat during the dry
+
+
+[20-Jul-18 07:26 PM] waltor#3519
+And rice during the wet
+
+
+[20-Jul-18 07:26 PM] ChairmanMeeseeks#8399
+wait
+
+
+[20-Jul-18 07:26 PM] ChairmanMeeseeks#8399
+wait
+
+
+[20-Jul-18 07:26 PM] waltor#3519
+OK
+
+
+[20-Jul-18 07:26 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469804768441794570/23px-Flag_of_Australia.png
+
+
+[20-Jul-18 07:26 PM] ChairmanMeeseeks#8399
+are we welcoming people to the rice fields?
+
+
+[20-Jul-18 07:26 PM] ChairmanMeeseeks#8399
+🇻🇳
+
+
+[20-Jul-18 07:26 PM] waltor#3519
+I was helping for something helpful lmao
+
+
+[20-Jul-18 07:27 PM] waltor#3519
+hoping
+
+
+[20-Jul-18 07:27 PM] waltor#3519
+!rank
+
+
+[20-Jul-18 07:27 PM] MEE6#4876
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469804940844597268/card.png
+
+
+[20-Jul-18 07:27 PM] waltor#3519
+Level 60 haha
+
+
+[20-Jul-18 07:27 PM] waltor#3519
+How are you typing
+
+
+[20-Jul-18 07:27 PM] waltor#3519
+OK
+
+
+[20-Jul-18 07:28 PM] waltor#3519
+Wheat growing time
+
+
+[20-Jul-18 07:28 PM] waltor#3519
+Rice growing time
+
+
+[20-Jul-18 07:28 PM] waltor#3519
+Wheat water requirements per harvest
+
+
+[20-Jul-18 07:28 PM] waltor#3519
+Rice water requierements per harvest
+
+
+[20-Jul-18 07:28 PM] waltor#3519
+Oh this isn't google is it
+
+
+[20-Jul-18 07:28 PM] waltor#3519
+Uh yeah
+
+
+[20-Jul-18 07:29 PM] waltor#3519
+we might even be able to get multiple cycles in per year
+
+
+[20-Jul-18 07:29 PM] waltor#3519
+Australia’s climate makes it ideal for the production of high quality medium grain rice and Australian growers produce more rice per hectare than anywhere else in the world. The Australian rice industry leads the world in water use efficiency. From paddock to plate, Australian grown rice uses 50% less water than the global average. Water use per hectare continues to decline because of the industry's commitment to developing high yielding rice varieties that use less water, and the use of world's best management practices.
+
+
+[20-Jul-18 07:30 PM] waltor#3519
+Crops are grown in 5 – 25cm of water, depending on the plant’s growth stage, which provides moisture for the plant and protects it from fluctuations in temperature. Using water to insulate the plant from cold overnight temperatures during January is particularly important for yield. High temperatures and the addition of nitrogen and phosphate fertilisers will improve growth.
+
+
+[20-Jul-18 07:30 PM] waltor#3519
+i was just copypasting lmao
+
+
+[20-Jul-18 07:30 PM] waltor#3519
+woah
+
+
+[20-Jul-18 07:31 PM] waltor#3519
+Three main seasons are experienced in Mount Isa
+
+Mild temperatures with low humidity (MAY to AUGUST)
+Hot temperatures with low humidity (SEPTEMBER to DECEMBER)
+Hot temperatures with high humidity (JANUARY to APRIL)
+
+
+[20-Jul-18 07:33 PM] waltor#3519
+JAN - Wet, GROW RICE
+FEB - Wet, GROW RICE
+MAR - Wet, GROW RICE
+APR - Wet, GROW RICE
+MAY - Cold, HARVEST RICE
+JUN - Cold
+JUL - Cold
+AUG - Cold
+SEP - Hot
+OCT - Hot, PLANT RICE
+NOV - Hot, GROW RICE
+DEC - Hot, GROW RICE
+
+
+[20-Jul-18 07:36 PM] waltor#3519
+OK this is epic
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469807239494893568/as_nsw_crop_calendar.png
+
+
+[20-Jul-18 07:39 PM] waltor#3519
+Not much
+
+
+[20-Jul-18 07:39 PM] waltor#3519
+but the yield is good
+
+
+[20-Jul-18 07:40 PM] waltor#3519
+Let me get stats for all those plants
+
+
+[20-Jul-18 07:40 PM] waltor#3519
+https://theconversation.com/changing-climate-has-stalled-australian-wheat-yields-study-71411
+
+{Embed}
+https://theconversation.com/changing-climate-has-stalled-australian-wheat-yields-study-71411
+Changing climate has stalled Australian wheat yields: study
+Australia's wheat harvest has stalled over the past 26 years, and worsening weather is to blame.
+https://images-ext-1.discordapp.net/external/8mIXE85UroqWd9eegzBNLGg8j1tpqX6tTXF6OeKkRbY/%3Fixlib%3Drb-1.1.0%26rect%3D0%252C124%252C1000%252C485%26q%3D45%26auto%3Dformat%26w%3D1356%26h%3D668%26fit%3Dcrop/https/images.theconversation.com/files/153768/original/image-20170123-30995-p2e85k.jpg
+
+
+[20-Jul-18 07:40 PM] waltor#3519
+Ok this is sad
+
+
+[20-Jul-18 07:40 PM] waltor#3519
+We need the Carpentarian Range FAST
+
+
+[20-Jul-18 07:41 PM] waltor#3519
+oh also this is where the wheat is
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/469808491943428096/image-20170119-26536-q0gp4d.png
+
+
+[20-Jul-18 07:50 PM] ChairmanMeeseeks#8399
+900bn gov revenue or gdp?
+
+
+[20-Jul-18 07:50 PM] waltor#3519
+GPD
+
+
+[20-Jul-18 07:50 PM] ChairmanMeeseeks#8399
+cause if its gdp, thats way less for agriculture
+
+
+[20-Jul-18 07:50 PM] ChairmanMeeseeks#8399
+fuck
+
+
+[20-Jul-18 07:50 PM] waltor#3519
+jfc it's hard finding any info
+
+
+[20-Jul-18 07:50 PM] ChairmanMeeseeks#8399
+thats bad
+
+
+[20-Jul-18 07:51 PM] waltor#3519
+OK
+
+
+[20-Jul-18 07:51 PM] waltor#3519
+Generic crop
+
+
+[20-Jul-18 07:51 PM] waltor#3519
+2 tonnes per hectare
+
+
+[20-Jul-18 07:53 PM] waltor#3519
+OK so rice
+
+
+[20-Jul-18 07:57 PM] waltor#3519
+1 hectare of rice = 10 tonnes
+25ML water required
+1 tonne rice = $500
+
+1 hectare of rice = 
+$5000
+
+1km2 rice =
+$500,000 market value
+0.07927447995941146626078132927448m3/s water
+
+
+[20-Jul-18 07:57 PM] waltor#3519
+1 million = 80,000m3/s water
+$500,000,000,000
+
+
+[20-Jul-18 08:01 PM] waltor#3519
+Wheat germination requires temperatures ideally between 12˚C and 25˚C, however germination will still occur between 4˚C and 37˚C. Germination will occur more quickly with consecutive warm days.
+
+
+[20-Jul-18 08:02 PM] waltor#3519
+Ok this is complicated
+
+
+[20-Jul-18 10:59 PM] waltor#3519
+Ok
+
+
+[21-Jul-18 12:32 AM] waltor#3519
+This is where i do all of my highly experimental working out
+
+
+[21-Jul-18 12:33 AM] waltor#3519
+@Harold apparently actually rice goes for a pretty good price
+
+
+[21-Jul-18 12:33 AM] waltor#3519
+And it had a good yield
+
+
+[21-Jul-18 12:33 AM] waltor#3519
+Something like 10 tonnes a hectare
+
+
+[21-Jul-18 12:34 AM] waltor#3519
+And $500 a tonne
+
+
+[21-Jul-18 12:34 AM] waltor#3519
+$500b was using the revised estimates
+
+
+[21-Jul-18 12:34 AM] waltor#3519
+Wheat is a shit crop in comparison to rice
+
+
+[21-Jul-18 12:34 AM] waltor#3519
+Low price, low yield
+
+
+[21-Jul-18 12:34 AM] waltor#3519
+But it doesn’t need anywhere near the water
+
+
+[21-Jul-18 12:35 AM] waltor#3519
+Yeah
+
+
+[21-Jul-18 12:35 AM] waltor#3519
+We need to rotate crops to not ruin soil
+
+
+[21-Jul-18 12:35 AM] waltor#3519
+Also pests will probably be confused
+
+
+[21-Jul-18 12:36 AM] waltor#3519
+And probably native crops as well
+
+
+[21-Jul-18 12:37 AM] waltor#3519
+H
+
+
+[21-Jul-18 12:37 AM] waltor#3519
+@Harold probably do something like cycling inbetween wheat and sugarcane for the dry and wet
+
+
+[21-Jul-18 12:37 AM] waltor#3519
+Or maize and rice
+
+
+[21-Jul-18 12:39 AM] waltor#3519
+Why does it take too long to grow
+
+
+[21-Jul-18 12:39 AM] waltor#3519
+Oh
+
+
+[21-Jul-18 12:39 AM] waltor#3519
+But ethanol
+
+
+[21-Jul-18 12:41 AM] waltor#3519
+Sugar is a wonder drug
+
+
+[21-Jul-18 12:41 AM] waltor#3519
+Ok
+
+
+[21-Jul-18 12:44 AM] phyllicanderer#1345
+Has anyone mentioned this about where you’re building the mountain range and dam?
+“The climate is hot with a dry season and a monsoon. The dry season lasts from about April until November and is characterized by very dry southeast to east winds, generated by migratory winter high pressure systems to the south. The wet season lasts from December to March and is characterised by humid northerly monsoonal airflows. This wet season can be very erratic: at Burketown, which is typical of the region, the rainfall of various wet seasons has ranged from as little as 150 millimetres (5.9 in) to as much as 2,000 millimetres (79 in). Overall rainfall is low (from 750 mm on the coast to 500 mm inland) but if the wet season is at all strong, low-lying areas are flooded and even the few sealed roads are cut. The Gulf is also a breeding ground for cyclones during the period between November and April.”
+
+
+[21-Jul-18 12:46 AM] waltor#3519
+It’s on the boundary inbetween 2 catchments so it can be dammed effectively
+
+
+[21-Jul-18 12:46 AM] waltor#3519
+Also the rainfall probably doesn’t make it far inland, but the total precipitable water gets down pretty fsr
+
+
+[21-Jul-18 12:47 AM] waltor#3519
+Total precipitable water is what we’re interested in
+
+
+[21-Jul-18 12:47 AM] phyllicanderer#1345
+All right, I can’t support it because it will potentially destroy the ecology of the Gulf Country including endangered species by creating a rain shadow in NW Queensland
+
+
+[21-Jul-18 12:48 AM] waltor#3519
+the monsoon will still fall in everywhere north of the range
+
+
+[21-Jul-18 12:48 AM] waltor#3519
+Everywhere south will have the rivers
+
+
+[21-Jul-18 12:49 AM] waltor#3519
+@phyllicanderer you probably are right though with destructions of ecosystems
+
+
+[21-Jul-18 09:47 AM] Youmaton#1190
+btw, CSID has put the location of the mountain ranges on my map
+
+
+[21-Jul-18 09:47 AM] Youmaton#1190
+https://www.google.com/maps/d/u/0/edit?mid=1f-TMoec7So32i35DBtaq5EceVq_nR_dV&ll=-22.773689148559065%2C137.30992313955437&z=5
+
+{Embed}
+https://www.google.com/maps/d/u/0/edit?mid=1f-TMoec7So32i35DBtaq5EceVq_nR_dV&ll=-22.773689148559065%2C137.30992313955437&z=5
+Hyperloop AusSim Planning Map - Google My Maps
+Hyperloop AusSim Planning Map
+https://images-ext-2.discordapp.net/external/RKNL5sAsm5nzUmCCzgr9mNLSNgJQ0USPAOzM9HcqguA/%3Fmid%3D1f-TMoec7So32i35DBtaq5EceVq_nR_dV/https/www.google.com/maps/d/thumbnail
+
+
+[21-Jul-18 09:48 AM] Youmaton#1190
+(load it up, they are there)
+
+
+[21-Jul-18 10:27 AM] ChairmanMeeseeks#8399
+so, maybe move the stop at Carpentaria down to the Mountain range
+Would be a fair bit of extra track, but I mean, theres no use just having it in Carpentaria when you could have it at Erebor
+
+
+[21-Jul-18 10:27 AM] ChairmanMeeseeks#8399
+which btw is the name of the city
+
+
+[21-Jul-18 01:03 PM] waltor#3519
+https://www.hindawi.com/journals/amete/2015/956481/
+
+{Embed}
+https://www.hindawi.com/journals/amete/2015/956481/
+Precipitable Water Vapor Estimates in the Australian Region from G...
+We present a comparison of atmospheric precipitable water vapor (PWV) derived from ground-based global positioning system (GPS) receiver with traditional radiosonde measurement and very long baseline interferometry (VLBI) technique for a five-year period (2008–2012) using A...
+https://images-ext-1.discordapp.net/external/rAW8C40hr0oNyvADmyFaOj8FcGrnpfWzzPLwPAU6BrQ/https/images.hindawi.com/images/social/AMETE.jpg
+
+
+[21-Jul-18 01:04 PM] waltor#3519
+https://www.hindawi.com/journals/amete/2015/956481/fig8/
+
+
+[21-Jul-18 01:05 PM] waltor#3519
+Ok this is epic
+
+
+[21-Jul-18 01:06 PM] waltor#3519
+We are in the dry
+
+
+[21-Jul-18 01:13 PM] waltor#3519
+La Nina = more rain for Australia
+Positive Indian Ocean Dipole = more rain for Australia
+
+2008: Weak La Nina, Neutral Indian Ocean Dipole
+2009: Moderate El Nino, Neutral Indian Ocean Dipole
+2010: Strong La Nina, Positive Indian Ocean Dipole
+2011: Moderate La Nina, Neutral Indian Ocean Dipole
+2012: Neutral, Positive Indian Ocean Dipole
+
+
+[21-Jul-18 01:15 PM] waltor#3519
+TPW for the Carpentarian Range (10kph wind, 700km)
+2008: 28kg/m2, 54000m3/s water flow, 1716km3 total rainfall
+2009: 28kg/m2, 54000m3/s water flow, 1716km3 total rainfall
+2010: 36kg/m2, 70000m3/s water flow, 2207km3 total rainfall
+2011: 30kg/m2, 58000m3/s water flow, 1839km3 total rainfall
+2012: 28kg/m2, 54000m3/s water flow, 1716km3 total rainfall
+
+
+[21-Jul-18 01:20 PM] waltor#3519
+TPW for the Gascoyne Range (10kph wind, 500km)
+2008: 24kg/m2, 33000m3/s water flow, 1051km3 total rainfall
+2009: 20kg/m2, 27000m3/s water flow, 876km3 total rainfall
+2010: 24kg/m2, 33000m3/s water flow, 1051km3 total rainfall
+2011: 26kg/m2, 36000m3/s water flow, 1138km3 total rainfall
+2012: 26kg/m2, 36000m3/s water flow, 1138km3 total rainfall
+
+
+[21-Jul-18 01:25 PM] waltor#3519
+OK
+
+
+[21-Jul-18 01:29 PM] waltor#3519
+2018 is neutral, neutral
+
+
+[21-Jul-18 01:29 PM] waltor#3519
+so probably about 2700km3 total rainfall
+
+
+[21-Jul-18 01:29 PM] waltor#3519
+uh
+
+
+[21-Jul-18 01:41 PM] waltor#3519
+__**Potential crops**__
+Rice (10t/ha, $400/t) hectares (2500mm/25ML) = 108,000,000 hectares = 1080MT = $432b
+Wheat (3t/ha, $200/t) hectares (650mm/6.5ML) = 415,000,000 hectares = 1245MT = $249b
+Sugarcane (60t/ha, $300/t) hectares (2500mm/25ML) = 108,000,000 hectares = 6480MT = $1944b
+Maize (5t/ha, $200/t) hectares (800mm/8ML) = 337,000,000 hectares = 1685MT = $337b
+
+
+[21-Jul-18 01:42 PM] waltor#3519
+Wheat/sugarcane double cropping
+Maize/rice double cropping
+
+
+[21-Jul-18 01:42 PM] waltor#3519
+@ChairmanMeeseeks holy fuck sugar is a real money maker
+
+
+[21-Jul-18 01:44 PM] ChairmanMeeseeks#8399
+so 2 tril off sugar
+
+
+[21-Jul-18 01:44 PM] ChairmanMeeseeks#8399
+heheheheh
+
+
+[21-Jul-18 01:44 PM] waltor#3519
+yeah but we'd probably collapse the world sugar market
+
+
+[21-Jul-18 01:44 PM] waltor#3519
+as in
+
+
+[21-Jul-18 01:44 PM] waltor#3519
+at the moment
+
+
+[21-Jul-18 01:44 PM] waltor#3519
+the world only makes about 140 million tonnes of sugar annually
+
+
+[21-Jul-18 01:44 PM] waltor#3519
+so it's not really viable
+
+
+[21-Jul-18 01:44 PM] ChairmanMeeseeks#8399
+so combo it
+
+
+[21-Jul-18 01:45 PM] waltor#3519
+hm
+
+
+[21-Jul-18 01:45 PM] waltor#3519
+ok so 3/4 of the water on wet crops, 1/4 on dry
+
+
+[21-Jul-18 01:47 PM] waltor#3519
+Wheat: 10% = 270km3 = 41 million hectares
+Maize: 15% = 405km3 = 50 million hectares
+Sugarcane: 35% = 945km3 = (double cropped on wheat) 37 million hectares
+Rice: 40% = 1080km3 = (double cropped on maize) 43 million hectares
+
+
+[21-Jul-18 01:52 PM] waltor#3519
+so we're going to need to terraform about 1 million km square of land
+
+
+[21-Jul-18 01:55 PM] waltor#3519
+@Harold thoughts
+
+
+[21-Jul-18 01:56 PM] waltor#3519
+OK
+
+
+[21-Jul-18 01:56 PM] waltor#3519
+I think we could make ethanol
+
+
+[21-Jul-18 01:57 PM] waltor#3519
+The maximum theortical yield of  ethanol from glucose is 0.511g/g of glucose. So the maximum ethanol that can be produced from 14g/L glucose is 7.15g/L ethanol. 1 mole of glucose is oxidised to produce 2 moles of ethanol. I think you need to repeat your experiment as the ethanol obtained is higher and normally with even 90-95% efficiency levels of fermenting yeast the ethanol titre cannot exceed 6.7g/L.
+
+
+[21-Jul-18 01:57 PM] waltor#3519
+https://www.researchgate.net/post/How_much_ethanol_can_be_produced_from_14_g_L_of_sugar_6-C_or_mixture_of_6-C_and_5-C
+
+{Embed}
+https://www.researchgate.net/post/How_much_ethanol_can_be_produced_from_14_g_L_of_sugar_6-C_or_mixture_of_6-C_and_5-C
+How much ethanol can be produced from 14 g/L of sugar (6-C or...
+This 14 g Glc/L is based on HPLC in the hydrolysate. I obtained ethanol level of 10.5 g/L using S. cerevisiae. Can this be trusted experimental evidence?
+https://images-ext-1.discordapp.net/external/AaMTZSYuJE13p3FgYFBoxqTt0mvSJpeQE4pqRy1H3_M/https/i1.rgstatic.net/ii/profile.image/272712685846536-1442031179824_Q128/Lesetja_Legodi2.jpg
+
+
+[21-Jul-18 01:57 PM] waltor#3519
+researchgate strikes back
+
+
+[21-Jul-18 01:58 PM] waltor#3519
+that pfp is secksi
+
+
+[21-Jul-18 02:01 PM] waltor#3519
+OK we sell ethanol at $1/l
+
+
+[21-Jul-18 02:01 PM] waltor#3519
+6GT of ethanol = 3GL of ethanol
+
+
+[21-Jul-18 02:02 PM] waltor#3519
+$3b/y
+
+
+[21-Jul-18 02:02 PM] waltor#3519
+what an utter waste
+
+
+[21-Jul-18 02:07 PM] ChairmanMeeseeks#8399
+what about grapes? Or other alcohol related crops?
+
+
+[21-Jul-18 02:09 PM] waltor#3519
+grape
+
+
+[21-Jul-18 03:17 PM] waltor#3519
+https://www.youtube.com/watch?v=tm1w_FPosT4
+
+{Embed}
+NCAR VisLab
+https://www.youtube.com/watch?v=tm1w_FPosT4
+Climate Change: Comparison Between Present and Future Precipitable...
+This simulation shows a comparison between present day (1990) and future (2090) precipitable water in the Earth's atmosphere using an RCP8.5 emissions scenar...
+https://images-ext-1.discordapp.net/external/Inbop12wPdIvIBR0KTJz3Wjyl1dWqRnhXgM_pszabd4/https/i.ytimg.com/vi/tm1w_FPosT4/maxresdefault.jpg
+
+
+[21-Jul-18 03:18 PM] waltor#3519
+Ok this is epic
+
+
+[21-Jul-18 03:19 PM] waltor#3519
+Global warming would actually be GOOD for us
+
+
+[22-Jul-18 10:25 AM] waltor#3519
+I am reading up about the sorts of soils around the Diamantina and Cooper watercourses
+
+
+[22-Jul-18 10:25 AM] waltor#3519
+and apparently it's actually pretty fertile in that region
+
+
+[22-Jul-18 10:25 AM] waltor#3519
+https://en.wikipedia.org/wiki/Vertisol
+
+{Embed}
+https://en.wikipedia.org/wiki/Vertisol
+Vertisol
+In both the FAO and USDA soil taxonomy, a vertisol (Vertosol in the Australian Soil Classification) is a soil in which there is a high content of expansive clay known as montmorillonite that forms deep cracks in drier seasons or years. Alternate shrinking and swelling causes ...
+https://images-ext-1.discordapp.net/external/Oy3Xkc-YsfxwhJAqzAHgbW6quf5hbBzPtA3MBGwMuaU/https/upload.wikimedia.org/wikipedia/commons/6/6f/Vertisol.jpg
+
+
+[22-Jul-18 10:25 AM] waltor#3519
+This is the sort of soil it is made up of
+
+
+[22-Jul-18 10:25 AM] waltor#3519
+>When irrigation is available, crops such as cotton, wheat, sorghum and rice can be grown. Vertisols are especially suitable for rice because they are almost impermeable when saturated
+
+
+[22-Jul-18 10:25 AM] waltor#3519
+haha yes
+
+
+[22-Jul-18 10:27 AM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/470393857280966667/127441-004-ECFFCB80.png
+
+
+[22-Jul-18 10:42 AM] waltor#3519
+@Youmaton are you convinced
+
+
+[22-Jul-18 10:43 AM] Youmaton#1190
+.
+
+
+[22-Jul-18 10:43 AM] Youmaton#1190
+still have environmental concerns
+
+
+[22-Jul-18 10:43 AM] waltor#3519
+Such as
+
+
+[22-Jul-18 10:44 AM] waltor#3519
+The plan with cropping is that we swap inbetween wet crops, dry crops and native crops
+
+
+[22-Jul-18 10:44 AM] waltor#3519
+To keep the soil happy
+
+
+[22-Jul-18 10:44 AM] waltor#3519
+Also we burn stuff fertilisation
+
+
+[22-Jul-18 10:44 AM] Youmaton#1190
+literally what phylli mentioned, the destruction of ecosystems,
+
+
+[22-Jul-18 10:45 AM] waltor#3519
+no shit we're going to destroy everything
+
+
+[22-Jul-18 10:45 AM] Youmaton#1190
+what measures will be put in to protect said flora and fauna?
+
+
+[22-Jul-18 10:46 AM] waltor#3519
+There will be areas set aside to look after wildlife
+
+
+[22-Jul-18 10:46 AM] waltor#3519
+and plants
+
+
+[22-Jul-18 10:46 AM] waltor#3519
+Everything will be rotated around to keep soils healthy
+
+
+[22-Jul-18 10:46 AM] Deleted User#0000
+Tbh I only joined this for the memes
+
+{Reactions}
+uno 
+
+[22-Jul-18 10:46 AM] waltor#3519
+How dare you
+
+
+[22-Jul-18 10:46 AM] Youmaton#1190
+will they be anything in comparison to what once was? If this is to go ahead, there needs to be an environmental report to determine the impact
+
+
+[22-Jul-18 10:47 AM] Deleted User#0000
+Someone let me out I’m being held captive by some weird people screaming about building mountains
+
+{Reactions}
+runas2 
+
+[22-Jul-18 10:47 AM] waltor#3519
+youma, of course not
+
+
+[22-Jul-18 10:47 AM] waltor#3519
+massive areas will be turned into arable land
+
+
+[22-Jul-18 10:47 AM] waltor#3519
+We are inherently changing the landscape and environment
+
+
+[22-Jul-18 10:48 AM] waltor#3519
+And once it begins it will continue on going and getting wetter and better for farming
+
+
+[22-Jul-18 10:48 AM] waltor#3519
+Until we have a rainforest practically
+
+
+[22-Jul-18 10:48 AM] waltor#3519
+Evapotranspiration
+
+
+[22-Jul-18 10:49 AM] waltor#3519
+When we irrigate, some of the water will inevitably leave the plants and rejoin the atmosphere to rain down somewhere else
+
+
+[22-Jul-18 10:49 AM] waltor#3519
+Could be on the area being terraformed, could be on the coast
+
+
+[22-Jul-18 10:50 AM] Youmaton#1190
+🤔
+
+
+[22-Jul-18 10:52 AM] waltor#3519
+Youma i'm not lying
+
+
+[22-Jul-18 04:20 PM] RunasSudo#2416
+@waltor Saw this and thought of you
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/470482637580926986/IMG_20180721_193322.jpg
+
+
+[22-Jul-18 04:20 PM] waltor#3519
+A
+
+
+[22-Jul-18 05:31 PM] waltor#3519
+v = n^-1 * R^2/3 * S^1/2
+
+
+[22-Jul-18 05:34 PM] waltor#3519
+R = (sqrt(3) * sqrt(n) * sqrt(v)) / (sqrt(S)^4
+
+
+[22-Jul-18 05:38 PM] waltor#3519
+H
+
+
+[22-Jul-18 05:40 PM] waltor#3519
+H
+
+
+[22-Jul-18 05:55 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/470506640077094912/tumblr_my1j9fTt3u1s9gsijo1_400.png
+
+
+[22-Jul-18 05:56 PM] Youmaton#1190
+.
+
+
+[22-Jul-18 10:15 PM] waltor#3519
+Ok
+
+
+[22-Jul-18 10:15 PM] waltor#3519
+All the resources of the Mountain Mob need to be put into finding a simulation program
+
+
+[22-Jul-18 10:15 PM] waltor#3519
+For the weather and for the reservoir
+
+
+[23-Jul-18 11:57 AM] waltor#3519
+'[
+
+
+[23-Jul-18 11:58 AM] waltor#3519
+https://www.floodmodeller.com/ Ok this is epic
+
+{Embed}
+https://www.floodmodeller.com/
+Flood Modeller
+Flood Modeller Suite is a leading range of flood simulation software which includes Jacobs' next generation river and floodplain modelling, and real-time flood forecasting software, Flood Modeller Pro. Used across the globe, for over 40 years, it provides unparalleled support...
+https://images-ext-2.discordapp.net/external/bT7zvzF6DzvswV1sdMPEGSECkCisjdEDtawa7CpNAhI/https/www.floodmodeller.com/media/36054/favicon1024.png
+
+
+[23-Jul-18 12:05 PM] waltor#3519
+I've gotten an acc here, hopefully they're helpful
+
+
+[23-Jul-18 12:07 PM] waltor#3519
+>547mb
+
+
+[23-Jul-18 12:07 PM] waltor#3519
+.
+
+
+[23-Jul-18 12:07 PM] waltor#3519
+@RunasSudo if i can't get it to work, could you try running it runas
+
+
+[23-Jul-18 12:13 PM] waltor#3519
+FUVK
+
+
+[23-Jul-18 12:14 PM] waltor#3519
+runas can u please try
+
+
+[23-Jul-18 12:18 PM] RunasSudo#2416
+Jesus Christ
+
+
+[23-Jul-18 12:18 PM] RunasSudo#2416
+What is this 😂
+
+
+[23-Jul-18 12:19 PM] waltor#3519
+Well
+
+
+[23-Jul-18 12:19 PM] waltor#3519
+I found another program
+
+
+[23-Jul-18 12:19 PM] waltor#3519
+But it costs $3800 + GST
+
+
+[23-Jul-18 12:20 PM] waltor#3519
+@RunasSudo Runas can you help
+
+
+[23-Jul-18 12:20 PM] waltor#3519
+We need some sort of simulation software
+
+
+[23-Jul-18 01:00 PM] waltor#3519
+@Deleted User welcome
+
+
+[23-Jul-18 01:00 PM] waltor#3519
+To mountain mob
+
+
+[23-Jul-18 01:01 PM] Deleted User#0000
+xoxo
+
+
+[23-Jul-18 09:45 PM] waltor#3519
+Uh
+
+
+[23-Jul-18 09:45 PM] waltor#3519
+Ok firstly
+
+
+[23-Jul-18 09:45 PM] waltor#3519
+Desalinating soil
+
+
+[23-Jul-18 09:45 PM] waltor#3519
+How
+
+
+[23-Jul-18 09:47 PM] waltor#3519
+🐲
+
+
+[23-Jul-18 09:47 PM] waltor#3519
+So flush the ground with soil, then get rid of the salty water?
+
+
+[23-Jul-18 09:47 PM] waltor#3519
+well
+
+
+[23-Jul-18 09:48 PM] waltor#3519
+Irrigate the ground and pump out the now salty water
+
+
+[23-Jul-18 09:48 PM] waltor#3519
+Ok
+
+
+[23-Jul-18 09:50 PM] waltor#3519
+Wdym by contains a lot of salts
+
+
+[23-Jul-18 09:50 PM] waltor#3519
+I thought we watered them with fresh
+
+
+[23-Jul-18 09:51 PM] waltor#3519
+ah yeah
+
+
+[23-Jul-18 09:53 PM] waltor#3519
+9
+
+
+[23-Jul-18 09:54 PM] waltor#3519
+Uh
+
+
+[23-Jul-18 09:55 PM] waltor#3519
+How do we get water across from the Lake Eyre catchment to the Murray-Darling
+
+
+[23-Jul-18 09:55 PM] waltor#3519
+There isn’t much of a ridge seperating them and there is a way around
+
+
+[23-Jul-18 09:55 PM] waltor#3519
+Because if the range didn’t it’d all drain to lake eyre and do nothing
+
+
+[23-Jul-18 09:57 PM] waltor#3519
+.
+
+
+[23-Jul-18 09:57 PM] waltor#3519
+wdym
+
+
+[23-Jul-18 09:57 PM] waltor#3519
+We aren’t per se pumping
+
+
+[23-Jul-18 09:57 PM] waltor#3519
+Ah i think i know where you got mixed up
+
+
+[23-Jul-18 09:58 PM] waltor#3519
+Boundar inbetween GoC and LE catchments
+
+
+[23-Jul-18 09:58 PM] waltor#3519
+During the extreme dry season it’d still be producing in excess of 10,000 cubic metres per second
+
+
+[23-Jul-18 09:58 PM] waltor#3519
+Murray-darling catchment
+
+
+[23-Jul-18 09:59 PM] waltor#3519
+Not murray river
+
+
+[23-Jul-18 10:00 PM] waltor#3519
+What
+
+
+[23-Jul-18 10:00 PM] waltor#3519
+There’s a reservoir around the range
+
+
+[23-Jul-18 10:00 PM] waltor#3519
+Big dam
+
+
+[23-Jul-18 10:01 PM] waltor#3519
+wdym
+
+
+[23-Jul-18 10:01 PM] waltor#3519
+It’s not really via
+
+
+[23-Jul-18 10:02 PM] waltor#3519
+Yeah, but any other way would help
+
+
+[23-Jul-18 10:02 PM] waltor#3519
+since the reservoir surrounds the entire range by 30 or 50km
+
+
+[23-Jul-18 10:02 PM] waltor#3519
+.
+
+
+[23-Jul-18 10:02 PM] waltor#3519
+No i mean other routes
+
+
+[23-Jul-18 10:02 PM] waltor#3519
+Yeah a canal
+
+
+[23-Jul-18 10:02 PM] waltor#3519
+along a naturally good route to the Darling river
+
+
+[23-Jul-18 10:03 PM] waltor#3519
+What
+
+
+[23-Jul-18 10:06 PM] waltor#3519
+Oh wow
+
+
+[23-Jul-18 10:06 PM] waltor#3519
+You probably could
+
+
+[23-Jul-18 10:07 PM] waltor#3519
+Canal across to the qld coast
+
+
+[23-Jul-18 10:07 PM] waltor#3519
+Cairns, townsville
+
+
+[23-Jul-18 10:08 PM] waltor#3519
+There’s low points p
+
+
+[23-Jul-18 10:08 PM] waltor#3519
+Eh dunno
+
+
+[23-Jul-18 10:09 PM] waltor#3519
+Yeah we want as little pumping as possible
+
+
+[23-Jul-18 10:09 PM] waltor#3519
+All natural flowing down a canal
+
+
+[23-Jul-18 10:10 PM] waltor#3519
+.
+
+
+[23-Jul-18 10:11 PM] waltor#3519
+Anyway we definitely need some simulation software
+
+
+[23-Jul-18 10:12 PM] waltor#3519
+Oof ow
+
+
+[23-Jul-18 10:13 PM] waltor#3519
+Anyway
+
+
+[23-Jul-18 10:13 PM] waltor#3519
+Any simulation software recommendations
+
+
+[23-Jul-18 10:15 PM] waltor#3519
+.
+
+
+[23-Jul-18 10:15 PM] waltor#3519
+ok
+
+
+[23-Jul-18 10:16 PM] waltor#3519
+Gn
+
+
+[28-Jul-18 06:05 PM] droniye✌🏼#0948
+hi
+
+
+[28-Jul-18 06:06 PM] waltor#3519
+This is still in use
+
+
+[29-Jul-18 12:21 PM] waltor#3519
+__TPW (kg/m2 or mm)__
+January - 49
+February - 51
+March - 40
+April - 29
+May - 25
+June - 20
+July - 18
+August - 17
+September - 19
+October - 23
+November - 31
+December - 39
+
+
+[30-Jul-18 10:23 PM] waltor#3519
+!levels
+
+
+[30-Jul-18 10:23 PM] MEE6#4876
+Go check **AustraliaSim**'s leaderboard here https://mee6.xyz/leaderboard/288977553123966976. :WINK6:
+
+
+[30-Jul-18 10:24 PM] waltor#3519
+?afk https://www.com
+
+
+[30-Jul-18 10:24 PM] Dyno#3861
+@waltor I set your AFK: https://www.com
+
+
+[31-Jul-18 06:36 PM] waltor#3519
+🔔 🥊 :rommel: 🤜 💥 🤛 :Dicky: 🥊 🔔
+
+
+[31-Jul-18 10:20 PM] RunasSudo#2416
+@GenericCereal nickname rule
+
+
+[31-Jul-18 10:20 PM] RunasSudo#2416
+must be a mountain man to be a mountain man
+
+
+[31-Jul-18 10:21 PM] RunasSudo#2416
+much appreciated
+
+
+[31-Jul-18 10:22 PM] RunasSudo#2416
+.
+
+
+[31-Jul-18 10:23 PM] RunasSudo#2416
+fixed
+
+
+[01-Aug-18 10:14 AM] droniye✌🏼#0948
+:Dicky: 🤜 🤜 :rommel:
+
+
+[03-Aug-18 07:20 PM] waltor#3519
+.
+
+
+[03-Aug-18 07:21 PM] waltor#3519
+So what do we do now
+
+
+[03-Aug-18 07:21 PM] waltor#3519
+Most of the economics and science has been figured out
+
+
+[03-Aug-18 07:22 PM] waltor#3519
+will they actually do it
+
+
+[03-Aug-18 07:23 PM] waltor#3519
+Yeah but
+
+
+[03-Aug-18 07:23 PM] waltor#3519
+400% GDP growth
+
+
+[04-Aug-18 03:10 PM] waltor#3519
+6th August, 13:00 AEST
+
+Camooweal: 31kph, 15.075kg
+Yelvertoft: 30kph, 14.404kg
+Mt Isa: 30kph, 16.631kg
+Selwyn: 29kph, 18.988kg
+McKinlay: 32kph, 22.533kg
+Tarbrax: 31kph, 24.389kg
+Marathon: 27kph, 25.992kg
+Hugheden: 24kph, 30.291kg
+
+
+[04-Aug-18 03:13 PM] waltor#3519
+Average: 29kph, 21kg
+10.2km3/d
+426.3GL/h
+118,000m3/s
+
+
+[04-Aug-18 03:17 PM] Youmaton#1190
+H
+
+
+[04-Aug-18 03:17 PM] waltor#3519
+That's a lot of water
+
+
+[04-Aug-18 03:17 PM] waltor#3519
+For the wet
+
+
+[04-Aug-18 03:18 PM] waltor#3519
+*dry
+
+
+[04-Aug-18 03:18 PM] waltor#3519
+?Afk 6th August, 13:00 AEST
+
+Camooweal: 31kph, 15.075kg
+Yelvertoft: 30kph, 14.404kg
+Mt Isa: 30kph, 16.631kg
+Selwyn: 29kph, 18.988kg
+McKinlay: 32kph, 22.533kg
+Tarbrax: 31kph, 24.389kg
+Marathon: 27kph, 25.992kg
+Hugheden: 24kph, 30.291kg
+Average: 29kph, 21kg
+10.2km3/d
+426.3GL/h
+118,000m3/s
+
+
+[04-Aug-18 03:18 PM] Dyno#3861
+@waltor I set your AFK: 6th August, 13:00 AEST
+
+Camooweal: 31kph, 15.075kg
+Yelvertoft: 30kph, 14.404kg
+Mt Isa: 30kph, 16.631kg
+Selwyn: 29kph, 18.988kg
+McKinlay: 32kph, 22.533kg
+Tarbrax: 31kph, 24.389kg
+Marathon: 27kph, 25.992kg
+Hugheden: 24kph, 30.291kg
+Average: 29kph, 21kg
+10.2km3/d
+426.3GL/h
+118,000m3/s
+
+
+[04-Aug-18 03:27 PM] ChairmanMeeseeks#8399
+wait
+
+
+[04-Aug-18 03:27 PM] ChairmanMeeseeks#8399
+@waltor
+
+
+[04-Aug-18 03:27 PM] ChairmanMeeseeks#8399
+is the mountain plan canon?
+
+
+[04-Aug-18 08:47 PM] waltor#3519
+@ChairmanMeeseeks potentially
+
+
+[06-Aug-18 06:02 PM] waltor#3519
+@Harold what do you think of the potential for trans-australian shipping
+
+
+[06-Aug-18 06:02 PM] waltor#3519
+using the rivers enlarged by the Carpentarian and Gascoyne Ranges
+
+
+[06-Aug-18 06:02 PM] waltor#3519
+Yeah
+
+
+[06-Aug-18 06:03 PM] waltor#3519
+I mean Mt Isa would be right next to the range
+
+
+[06-Aug-18 06:03 PM] waltor#3519
+And other mines like Olympic Dam and stuff inland
+
+
+[06-Aug-18 06:03 PM] waltor#3519
+Direct shipping to the US, Europe and China
+
+
+[06-Aug-18 06:04 PM] waltor#3519
+Hmm oh dear
+
+
+[06-Aug-18 06:04 PM] waltor#3519
+Those mines could end up underwater
+
+
+[06-Aug-18 06:05 PM] waltor#3519
+.
+
+
+[06-Aug-18 06:05 PM] waltor#3519
+How big do you think the ships could be
+
+
+[06-Aug-18 06:05 PM] waltor#3519
+I mean, we'll have the ability to keep rivers flowing year-round
+
+
+[06-Aug-18 06:05 PM] waltor#3519
+.
+
+
+[06-Aug-18 06:05 PM] waltor#3519
+No shit
+
+
+[06-Aug-18 06:05 PM] Dyno#3861
+https://cdn.discordapp.com/attachments/320876268465946635/438172689912561665/unknown.png
+
+{Embed}
+https://cdn.discordapp.com/attachments/320876268465946635/438172689912561665/unknown.png
+https://media.discordapp.net/attachments/320876268465946635/438172689912561665/unknown.png
+
+
+[06-Aug-18 06:06 PM] waltor#3519
+https://en.wikipedia.org/wiki/Container_ship
+
+{Embed}
+https://en.wikipedia.org/wiki/Container_ship
+Container ship
+Container ships (sometimes spelled containerships) are cargo ships that carry all of their load in truck-size intermodal containers, in a technique called containerization. They are a common means of commercial intermodal freight transport and now carry most seagoing non-bulk...
+https://images-ext-1.discordapp.net/external/8Dv_xTh4xOBgcF_HTFeSGIDSjye-Xk5FwvTG1xxU3gc/https/upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Container_ships_President_Truman_%2528IMO_8616283%2529_and_President_Kennedy_%2528IMO_8616295%2529_at_San_Francisco.jpg/1200px-Container_ships_President_Truman_%2528IMO_8616283%2529_and_President_Kennedy_%2528IMO_8616295%2529_at_San_Francisco.jpg
+
+
+[06-Aug-18 06:06 PM] waltor#3519
+There's different size categories
+
+
+[06-Aug-18 06:06 PM] waltor#3519
+Like New Panamax, ULCV, Feedermax
+
+
+[06-Aug-18 06:06 PM] waltor#3519
+New Panamax has a capacity of about 10,000 containers
+
+
+[06-Aug-18 06:06 PM] waltor#3519
+ULCV about 15,000
+
+
+[06-Aug-18 06:07 PM] waltor#3519
+Feedermax about 2000
+
+
+[06-Aug-18 06:07 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/475945484117082112/MC3A6rsk_Mc-Kinney_MC3B8ller_passing_Port_Said_in_the_Suez_Canal_on_its_maiden_voyage.png
+
+
+[06-Aug-18 06:08 PM] waltor#3519
+An ULCV
+
+
+[06-Aug-18 06:08 PM] waltor#3519
+https://en.wikipedia.org/wiki/OOCL_Hong_Kong
+
+{Embed}
+https://en.wikipedia.org/wiki/OOCL_Hong_Kong
+OOCL Hong Kong
+OOCL Hong Kong is the largest container ship yet built, and the third container ship to surpass the 20,000 Twenty-foot equivalent unit (TEU) threshold. She was built at the Samsung Heavy Industries, Geoje shipyard with yard number 2172 and delivered in May 2017.
+OOCL Hong Kon...
+https://images-ext-2.discordapp.net/external/8re7q3Pt8j2YajJqPc261egWDlDo6gNC3z2iNsy1gVY/https/upload.wikimedia.org/wikipedia/commons/thumb/4/49/OOCL_HONG_KONG_1674.jpg/1200px-OOCL_HONG_KONG_1674.jpg
+
+
+[06-Aug-18 06:08 PM] waltor#3519
+so needs to be at least 100m wide and 20m deep
+
+
+[06-Aug-18 06:08 PM] waltor#3519
+To fit the OOCL Hong Kong barely
+
+
+[06-Aug-18 06:11 PM] droniye✌🏼#0948
+>hong kong
+*sudden pride aroses*
+
+
+[06-Aug-18 06:11 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/475946622967218188/big_ship.png
+
+
+[06-Aug-18 06:12 PM] waltor#3519
+It would be a tight fit
+
+
+[06-Aug-18 06:24 PM] waltor#3519
+https://www.bioregionalassessments.gov.au/assessments/11-context-statement-galilee-subregion/1153-surface-water-flow
+
+{Embed}
+https://www.bioregionalassessments.gov.au/assessments/11-context-statement-galilee-subregion/1153-surface-water-flow
+1.1.5.3 Surface water flow | Bioregional Assessments
+The Galilee subregion contributes surface water to six river basins (Cooper-Bulloo, Diamantina, Flinders, Burdekin, Fitzroy and Warrego) by its numerous headwater streams. Each of these river basins are characterised by large variations in discharge and flow duration. Streamf...
+
+
+[06-Aug-18 06:25 PM] waltor#3519
+so a speed of about 0.2 m/s if we do carpentarian range
+
+
+[06-Aug-18 06:27 PM] waltor#3519
+ULCV:
+Minimal: 100m wide, 20m deep, 500m3/s flow
+Optimal: 500m wide, 50m deep, 5000m3/s flow
+
+
+[06-Aug-18 06:31 PM] ChairmanMeeseeks#8399
+gascoyne range?
+
+
+[06-Aug-18 06:31 PM] ChairmanMeeseeks#8399
+the fuck
+
+
+[06-Aug-18 06:32 PM] waltor#3519
+it's the other range
+
+
+[06-Aug-18 06:32 PM] waltor#3519
+in WA
+
+
+[06-Aug-18 06:32 PM] ChairmanMeeseeks#8399
+.
+
+
+[06-Aug-18 06:32 PM] ChairmanMeeseeks#8399
+how much does that one cost
+
+
+[06-Aug-18 06:32 PM] ChairmanMeeseeks#8399
+is it necessary?
+
+
+[06-Aug-18 06:32 PM] waltor#3519
+less than this one
+
+
+[06-Aug-18 06:32 PM] ChairmanMeeseeks#8399
+what does it give?
+
+
+[06-Aug-18 06:32 PM] waltor#3519
+because it's shorter
+
+
+[06-Aug-18 06:33 PM] waltor#3519
+and also preestablished infrastrucutre
+
+
+[06-Aug-18 06:33 PM] waltor#3519
+if the Carpentarian range is $1t, the Gascoyne will probably be just $200b
+
+
+[06-Aug-18 06:33 PM] waltor#3519
+It'll provide another city, and even more water
+
+
+[06-Aug-18 06:33 PM] waltor#3519
+To flow across the Nullabor and provide shipping all the way out west so ships can head to India and Europe
+
+
+[06-Aug-18 06:35 PM] waltor#3519
+it's the second range to be built
+
+
+[06-Aug-18 06:36 PM] waltor#3519
+not as necessary
+
+
+[06-Aug-18 06:38 PM] waltor#3519
+Carpentarian Range flow (yearly avg): 80,000m3/s
+Gascoyne Range flow (yearly avg): 40,000m3/s
+
+
+[06-Aug-18 06:54 PM] waltor#3519
+I apologise for doing all my working out here
+
+
+[06-Aug-18 06:54 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/475957316202528769/2Q.png
+
+
+[06-Aug-18 06:55 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/475957476853022721/1072461650-australia-geographical-features-map.png
+
+
+[06-Aug-18 06:55 PM] waltor#3519
+jfc
+
+
+[06-Aug-18 06:55 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/475957617575985152/1072461650-australia-geographical-features-map.png
+
+
+[06-Aug-18 06:56 PM] waltor#3519
+Total flow (today): 12574m3/s
+
+
+[06-Aug-18 06:57 PM] waltor#3519
+Timor Sea: 2934m3/s
+Gulf of Carpentaria: 2934m3/s
+Indian Ocean: 126m3/s
+Southwest Coast: 214m3/s
+Western Plateau: 50m3/s
+Lake Eyre: 201m3/s
+Northeast Coast: 2653m3/s
+Bulloo-Bancannia: 38m3/s
+South Australian Gulf: 25m3/s
+Murray-Darling: 767m3/s
+Southeast Coast: 1333m3/s 
+Tasmania: 1672m3/s
+
+
+[06-Aug-18 08:25 PM] waltor#3519
+Hmm one thing that hasn't been taken into consideration is that
+
+
+[06-Aug-18 08:25 PM] waltor#3519
+Irrigation lowers the water level
+
+
+[06-Aug-18 08:25 PM] waltor#3519
+Also evaporation
+
+
+[07-Aug-18 06:37 PM] waltor#3519
+@NotGriffonomics hello
+
+
+[07-Aug-18 06:37 PM] waltor#3519
+Is it possible to turn shitty soils
+
+
+[07-Aug-18 06:37 PM] waltor#3519
+like leptosols
+
+
+[07-Aug-18 06:38 PM] waltor#3519
+into good soils for farming?
+
+
+[07-Aug-18 06:38 PM] waltor#3519
+OK how
+
+
+[07-Aug-18 06:38 PM] waltor#3519
+Apparently leptosol is lumpy and is similar to gravel
+
+
+[07-Aug-18 06:39 PM] waltor#3519
+h
+
+
+[08-Aug-18 07:10 AM] ChairmanMeeseeks#8399
+can we have ricefields instead?
+
+
+[08-Aug-18 07:11 AM] ChairmanMeeseeks#8399
+that will help us fight off foreigners with helicopters
+
+
+[08-Aug-18 11:27 AM] Deleted User#0000
+Insert le eninggggggg papa franku meymey
+
+
+[08-Aug-18 03:43 PM] waltor#3519
+Yes
+
+
+[08-Aug-18 03:43 PM] waltor#3519
+Lots of rice
+
+
+[11-Aug-18 01:20 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/477685301259534336/rnvcan.png
+
+
+[11-Aug-18 03:54 PM] droniye✌🏼#0948
+no shit
+
+
+[11-Aug-18 03:54 PM] Dyno#3861
+https://cdn.discordapp.com/attachments/320876268465946635/438172689912561665/unknown.png
+
+{Embed}
+https://cdn.discordapp.com/attachments/320876268465946635/438172689912561665/unknown.png
+https://media.discordapp.net/attachments/320876268465946635/438172689912561665/unknown.png
+
+
+[11-Aug-18 07:05 PM] ChairmanMeeseeks#8399
+@waltor
+
+
+[11-Aug-18 07:05 PM] ChairmanMeeseeks#8399
+@waltor
+
+
+[11-Aug-18 07:05 PM] ChairmanMeeseeks#8399
+@waltor
+
+
+[11-Aug-18 07:05 PM] waltor#3519
+What
+
+
+[11-Aug-18 07:05 PM] waltor#3519
+Yes
+
+
+[11-Aug-18 07:05 PM] ChairmanMeeseeks#8399
+what if, for the agri stuff, we dont do shit like sugar or rice
+
+
+[11-Aug-18 07:05 PM] ChairmanMeeseeks#8399
+we do
+
+
+[11-Aug-18 07:05 PM] ChairmanMeeseeks#8399
+cocaina
+
+
+[11-Aug-18 07:06 PM] ChairmanMeeseeks#8399
+that would make us a shitton
+
+
+[11-Aug-18 07:06 PM] ChairmanMeeseeks#8399
+Narco state ftw
+
+
+[11-Aug-18 07:06 PM] waltor#3519
+That would deflate the cocaine market
+
+
+[11-Aug-18 07:45 PM] ChairmanMeeseeks#8399
+so, it'd be moral no?
+
+
+[11-Aug-18 07:45 PM] ChairmanMeeseeks#8399
+or we could split it
+
+
+[11-Aug-18 07:45 PM] ChairmanMeeseeks#8399
+like, little bit of coke
+
+
+[11-Aug-18 07:45 PM] ChairmanMeeseeks#8399
+little bit of opium
+
+
+[11-Aug-18 07:45 PM] ChairmanMeeseeks#8399
+cannabis
+
+
+[11-Aug-18 07:46 PM] ChairmanMeeseeks#8399
+and then, you know, normal agriculture
+
+
+[12-Aug-18 02:35 PM] Deleted User 512350472#9529
+why am i in this
+
+
+[12-Aug-18 02:36 PM] waltor#3519
+Who in the fuck deleted this
+
+
+[12-Aug-18 02:37 PM] waltor#3519
+I will end whoever did this
+
+
+[12-Aug-18 02:37 PM] waltor#3519
+@Deleted User 512350472 Did you purge this channel
+
+
+[12-Aug-18 02:37 PM] Deleted User 512350472#9529
+no?
+
+
+[12-Aug-18 02:37 PM] waltor#3519
+Who did]
+
+
+[12-Aug-18 02:37 PM] waltor#3519
+@deleted-role who purged this channel
+
+
+[12-Aug-18 02:38 PM] _slothsworth#4496
+huh
+
+
+[12-Aug-18 02:38 PM] Deleted User 512350472#9529
+BC i bet
+
+
+[12-Aug-18 02:38 PM] waltor#3519
+Let's not be so hasty
+
+
+[12-Aug-18 02:38 PM] waltor#3519
+Whoever the fuck purged this channel come forward
+
+
+[12-Aug-18 02:38 PM] waltor#3519
+Or we will go by eliminating options
+
+
+[12-Aug-18 02:50 PM] waltor#3519
+Test
+
+
+[12-Aug-18 02:50 PM] waltor#3519
+OK it is OK again
+
+
+[13-Aug-18 06:26 PM] waltor#3519
+Tet
+
+
+[13-Aug-18 06:33 PM] waltor#3519
+```Troposphere Profile over Mt Isa
+20.733S, 139.500E
+
+1000hPa/100m: 19.1c, N/A, N/A
+Sfc/980hPa/~300m: 17.2, 33kph southeasterly, 17% 
+850hPa/1500m: 8.7c, 45kph southeasterly, 19%
+700hPa/3500m: 4.4c, 36kph southeasterly, 6%
+500hPa/5000m: -13.8c, 30kph southerly, 3%
+250hPa/10500m: -37.2c, 124kph southerly, 2%
+70hPa/17500m: -71.4c, 15kph southeasterly, 17%
+```
+
+
+[13-Aug-18 06:47 PM] waltor#3519
+```TPW projections over Mt Isa
+20.733S, 139.500E
+
+990hPa-850hPa: 13.0c, 18%, 2.034g/kg, 3mm
+850hPa-700hPa: 6.6c, 13%, 0.980g/kg, 1mm
+700hPa-500hPa: -9.4c, 5%, 0.123g/kg, 0mm
+500hPa-250hPa: -25.5c, 3%, 0.020g/kg, 0mm
+250hPa-70hPA: -54.3c, 10%,  0.004g/kg, 0mm
+
+Estimated TPW: 4.000mm
+Actual TPW: 3.780mm```
+
+
+[13-Aug-18 10:16 PM] Dyno#3861
+https://cdn.discordapp.com/attachments/320876268465946635/438172689912561665/unknown.png
+
+{Embed}
+https://cdn.discordapp.com/attachments/320876268465946635/438172689912561665/unknown.png
+https://media.discordapp.net/attachments/320876268465946635/438172689912561665/unknown.png
+
+
+[13-Aug-18 10:16 PM] Dyno#3861
+https://cdn.discordapp.com/attachments/320876268465946635/438172689912561665/unknown.png
+
+{Embed}
+https://cdn.discordapp.com/attachments/320876268465946635/438172689912561665/unknown.png
+https://media.discordapp.net/attachments/320876268465946635/438172689912561665/unknown.png
+
+
+[14-Aug-18 10:01 PM] waltor#3519
+I think we can let this stay dormant
+
+
+[14-Aug-18 10:01 PM] waltor#3519
+All the meteorology and economics has been figured out
+
+
+[14-Aug-18 10:17 PM] _slothsworth#4496
+no shit
+
+
+[14-Aug-18 10:17 PM] Dyno#3861
+https://cdn.discordapp.com/attachments/320876268465946635/438172689912561665/unknown.png
+
+{Embed}
+https://cdn.discordapp.com/attachments/320876268465946635/438172689912561665/unknown.png
+https://media.discordapp.net/attachments/320876268465946635/438172689912561665/unknown.png
+
+
+[14-Aug-18 10:17 PM] _slothsworth#4496
+what
+
+
+[14-Aug-18 10:21 PM] Dyno#3861
+https://cdn.discordapp.com/attachments/320876268465946635/438172689912561665/unknown.png
+
+{Embed}
+https://cdn.discordapp.com/attachments/320876268465946635/438172689912561665/unknown.png
+https://media.discordapp.net/attachments/320876268465946635/438172689912561665/unknown.png
+
+
+[14-Aug-18 10:31 PM] _slothsworth#4496
+what
+
+
+[16-Aug-18 03:57 PM] waltor#3519
+Historical TPW data
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479536769927217152/similarities-in-total-precipitable-water-and-weather-patterns-at-the-north-pacific-6nov-22dec-2014-i.png
+
+
+[16-Aug-18 04:26 PM] waltor#3519
+Jan 1 2016
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479544084034355230/index.png
+
+
+[16-Aug-18 04:27 PM] waltor#3519
+Jan 5 2016
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479544141030621195/index.png
+
+
+[16-Aug-18 04:27 PM] waltor#3519
+Jan 7 2016
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479544209121083392/index.png
+
+
+[16-Aug-18 04:27 PM] waltor#3519
+Jan 8 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479544250904870912/index.png
+
+
+[16-Aug-18 04:27 PM] waltor#3519
+Jan 9 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479544333687848960/index.png
+
+
+[16-Aug-18 04:28 PM] waltor#3519
+Jan 10 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479544369398153216/index.png
+
+
+[16-Aug-18 04:28 PM] waltor#3519
+Jan 7 2016
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479544461026656256/index.png
+
+
+[16-Aug-18 04:28 PM] waltor#3519
+Jan 11 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479544510762713093/index.png
+
+
+[16-Aug-18 04:29 PM] waltor#3519
+Jan 12 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479544722797625364/index.png
+
+
+[16-Aug-18 04:30 PM] waltor#3519
+Jan 14 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479544867089809408/index.png
+
+
+[16-Aug-18 04:31 PM] waltor#3519
+Jan 11 2016
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479545093494145025/index.png
+
+
+[16-Aug-18 04:31 PM] waltor#3519
+Jan 12 2016
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479545183914950657/index.png
+
+
+[16-Aug-18 04:32 PM] waltor#3519
+Jan 14 2016
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479545356330336259/index.png
+
+
+[16-Aug-18 04:32 PM] waltor#3519
+Jan 21 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479545485720420354/index.png
+
+
+[16-Aug-18 04:32 PM] waltor#3519
+Jan 22 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479545530309935104/index.png
+
+
+[16-Aug-18 04:33 PM] waltor#3519
+Jan 24 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479545640452489216/index.png
+
+
+[16-Aug-18 04:33 PM] waltor#3519
+Jan 22 2016
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479545729048641536/index.png
+
+
+[16-Aug-18 04:33 PM] waltor#3519
+Jan 26 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479545762901131266/index.png
+
+
+[16-Aug-18 04:34 PM] waltor#3519
+Feb 17 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479546086885818369/index.png
+
+
+[16-Aug-18 04:35 PM] waltor#3519
+Feb 18 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479546144930660356/index.png
+
+
+[16-Aug-18 04:35 PM] waltor#3519
+Feb 19 2016
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479546294881484800/index.png
+
+
+[16-Aug-18 04:36 PM] waltor#3519
+Feb 26 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479546375852392449/index.png
+
+
+[16-Aug-18 04:36 PM] waltor#3519
+Feb 28 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479546457016500224/index.png
+
+
+[16-Aug-18 04:36 PM] waltor#3519
+Feb 29 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479546528608944129/index.png
+
+
+[16-Aug-18 04:37 PM] waltor#3519
+Mar 5 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479546663547961355/index.png
+
+
+[16-Aug-18 04:38 PM] waltor#3519
+Mar 25 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479546997045460992/index.png
+
+
+[16-Aug-18 04:38 PM] waltor#3519
+Mar 26 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479547039827361812/index.png
+
+
+[16-Aug-18 04:39 PM] waltor#3519
+Mar 29 2016 forecast
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479547150619901953/index.png
+
+
+[16-Aug-18 04:40 PM] waltor#3519
+I will never stop
+
+
+[16-Aug-18 04:41 PM] waltor#3519
+I am on page 14
+
+
+[16-Aug-18 04:41 PM] waltor#3519
+Out of 23
+
+
+[16-Aug-18 04:43 PM] waltor#3519
+OK I am done now
+
+
+[16-Aug-18 04:43 PM] waltor#3519
+Bask in the glory of TPW data
+
+
+[16-Aug-18 05:54 PM] PineappleCrusher_#3244
+berd
+
+
+[16-Aug-18 05:55 PM] waltor#3519
+OK
+
+
+[16-Aug-18 06:23 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479573385911730176/fast-2016-tpw.gif
+
+
+[16-Aug-18 06:23 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479573414366150656/slow-2016-tpw.gif
+
+
+[16-Aug-18 06:23 PM] waltor#3519
+actually i can do better
+
+
+[16-Aug-18 06:29 PM] waltor#3519
+@GenericCereal hullo porage
+
+
+[16-Aug-18 06:30 PM] waltor#3519
+i would like to ask some meteorology questions
+
+
+[16-Aug-18 06:31 PM] waltor#3519
+Why does the monsoon extend so far north into india (link: https://earth.nullschool.net/#current/wind/surface/level/overlay=total_precipitable_water/orthographic=-255.52,-2.11,653/loc=76.078,21.474)
+
+{Embed}
+https://earth.nullschool.net/
+earth :: a global map of wind, weather, and ocean conditions
+See current wind, weather, ocean, and pollution conditions, as forecast by supercomputers, on an interactive animated map. Updated every three hours.
+https://images-ext-1.discordapp.net/external/Z9lLHeJI7Mi7Ln_JCm8zHQtuo0-Xp8E-JJh_QywBrLc/https/earth.nullschool.net/sample.png
+
+
+[16-Aug-18 06:31 PM] waltor#3519
+But it does not extend far into Australia despite being on similar latitudes somewhat
+
+
+[16-Aug-18 06:31 PM] waltor#3519
+I think something to do with the fact it's desert, so the humidity probably can't get very far
+
+
+[16-Aug-18 06:31 PM] waltor#3519
+because the TPW through the Sahara is patchy
+
+
+[16-Aug-18 06:32 PM] waltor#3519
+ok
+
+
+[16-Aug-18 06:32 PM] waltor#3519
+so if the carpentarian range makes a giant irrigated area
+
+
+[16-Aug-18 06:32 PM] waltor#3519
+that will make the entire area far more humid
+
+
+[16-Aug-18 06:32 PM] waltor#3519
+and therefor the monsoon will be able to reach further inland
+
+
+[16-Aug-18 06:33 PM] waltor#3519
+Yes
+
+
+[16-Aug-18 06:33 PM] waltor#3519
+yeah
+
+
+[16-Aug-18 06:33 PM] waltor#3519
+So it's kind of stagnant humidity
+
+
+[16-Aug-18 06:34 PM] waltor#3519
+And the carp range will do something similar in the GoC
+
+
+[16-Aug-18 06:34 PM] waltor#3519
+there'll be a big stagnant humid area?
+
+
+[16-Aug-18 06:34 PM] waltor#3519
+hm
+
+
+[16-Aug-18 06:34 PM] waltor#3519
+The top end is pretty much monsoonal
+
+
+[16-Aug-18 06:35 PM] waltor#3519
+the intertropical convergence zone reaches down to Darwin during summer
+
+
+[16-Aug-18 06:35 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479576360101085185/slow2016tpw.gif
+
+
+[16-Aug-18 06:35 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/479576388660101120/fast2016tpw.gif
+
+
+[16-Aug-18 06:36 PM] waltor#3519
+this looks satisfying
+
+
+[16-Aug-18 06:36 PM] waltor#3519
+this is for 2016
+
+
+[17-Aug-18 08:28 PM] waltor#3519
+CR
+Jan: 40
+Feb: 50
+Mar: 30
+Apr: 20
+May: 30
+Jun: 30
+Jul: 10
+Aug: 10
+Sep: 15
+Oct: 5
+Nov: 30
+Dec: 20
+
+
+[19-Aug-18 10:07 AM] waltor#3519
+Mt Isa weather analysis: 19/8/2018 10:00 AEST
+
+Non-altitude related:
+3HPA: 0.0mm
+CAPE: 0j/kg
+TPW: 10.324kg/m2
+TCW: 0.000kg/m2
+MSLP: 1023hPa
+MI: 18.3c
+
+1000hPa/200m (for scale):
+Temp: 19.7c
+ALTITUDE: 200m
+
+Sfc/200m:
+Wind: 36kph southeasterly
+Temp: 19.5c 
+RH: 29%
+
+850hPa/1.5km:
+Wind: 32kph southeasterly
+Temp: 11.5c
+RH: 36%
+
+700hPa/3.5km:
+Wind: 33kph southerly
+Temp: 0.8c
+RH: 24%
+
+500hPa/5km:
+Wind: 74kph westerly
+Temp: -4.9c
+RH: 1%
+
+250hPa/5km:
+Wind: 89kph southwesterly
+Temp: -41.4c
+RH: 11%
+
+70hPa/17.5km:
+Wind: 12kph southwesterly
+Temp: -69.8c
+RH: 12%
+
+
+[19-Aug-18 10:16 AM] waltor#3519
+Calculating TPW:
+
+Sfc/1000-850: 34kph, 15.5c, 33% | 4.344g/kg, 7kg/m2
+850-700: 33kph, 6.2c, 30% | 2.202g/kg, 3kg/m2
+700-500: 54kph, -2.1c, 13% | 0.544g/kg, 1kg/m2
+500-250: 82kph, -23.2c, 6% | 0.049g/kg, 0kg/m2
+250-70: 51kph, -55.6c, 12% | 0.004g/kg, 0kg/m2
+
+Calculated TPW: 11kg/m2
+Actual TPW: 10.324kg/m2
+
+
+[19-Aug-18 10:18 AM] waltor#3519
+TPW distribution
+Sfc-850: 64%
+850-700: 27%
+700-500: 9%
+
+
+[19-Aug-18 10:20 AM] waltor#3519
+Actual TPW distribution:
+Sfc-850: 6.607kg/m2
+850-700: 2.787kg/m2
+700-500: 0.929kg/m2
+
+
+[19-Aug-18 10:26 AM] waltor#3519
+Rainfall:
+Sfc-850: 157GL/h, 43,000m3/s
+850-700: 64GL/h, 17,000m3/s
+700-500: 35GL/h, 9000m3/s
+
+TOTAL: 256GL/h, 69,000m3/s
+
+
+[20-Aug-18 07:00 PM] waltor#3519
+@RunasSudo Hello
+
+
+[20-Aug-18 07:00 PM] waltor#3519
+I'd like to start trying to draft a bill to set up the legal framework for the Carpentarian Range
+
+
+[20-Aug-18 07:02 PM] waltor#3519
+Hello yes @waltor
+
+
+[20-Aug-18 07:02 PM] waltor#3519
+.
+
+
+[20-Aug-18 07:02 PM] waltor#3519
+@RunasSudo so how would we go about doing this
+
+
+[20-Aug-18 07:02 PM] RunasSudo#2416
+no clue
+
+
+[20-Aug-18 07:03 PM] waltor#3519
+OK
+
+
+[20-Aug-18 07:03 PM] waltor#3519
+Setting up a government owned corporation?
+
+
+[20-Aug-18 07:03 PM] RunasSudo#2416
+look up the acts for the ABC, etc.
+
+
+[20-Aug-18 07:03 PM] waltor#3519
+I mean would it be a good idea
+
+
+[20-Aug-18 07:04 PM] waltor#3519
+Can we have a head of the Mountain Mob Corporation appointed in sim?
+
+
+[20-Aug-18 07:04 PM] waltor#3519
+Or would we need a commission and stuff to have someone as head
+
+
+[20-Aug-18 07:04 PM] RunasSudo#2416
+could do
+
+
+[20-Aug-18 07:05 PM] waltor#3519
+hm
+
+
+[20-Aug-18 07:05 PM] waltor#3519
+but still, can we have parliament appoint a director for the corporation or something
+
+
+[20-Aug-18 07:05 PM] RunasSudo#2416
+yeah if that's what the act says
+
+
+[20-Aug-18 07:05 PM] waltor#3519
+Oh wow
+
+
+[20-Aug-18 07:06 PM] waltor#3519
+What irl Acts could I look at that have that strucutre
+
+
+[20-Aug-18 07:08 PM] RunasSudo#2416
+hmm good question
+
+
+[20-Aug-18 07:08 PM] RunasSudo#2416
+I can't think of any actually
+
+
+[20-Aug-18 07:08 PM] RunasSudo#2416
+but shouldn't be too hard to modify an existing one
+
+
+[20-Aug-18 07:08 PM] waltor#3519
+OK
+
+
+[20-Aug-18 07:09 PM] waltor#3519
+So a corporation will have the full authority to get funds appropriated to it and spend it and buy shit and build the range and stuff
+
+
+[20-Aug-18 07:09 PM] RunasSudo#2416
+should be
+
+
+[20-Aug-18 07:09 PM] RunasSudo#2416
+like the ABC
+
+
+[20-Aug-18 07:09 PM] waltor#3519
+OK
+
+
+[22-Aug-18 04:21 PM] waltor#3519
+OK it is now time to figure out yearly TPW
+
+
+[22-Aug-18 04:22 PM] waltor#3519
+Alice springs avg = 24mm
+
+
+[22-Aug-18 04:23 PM] waltor#3519
+Avg RH = 25%
+Avg afternoon temp = 28.8c
+
+
+[22-Aug-18 04:24 PM] waltor#3519
+Avg g/kg water = 6.094
+
+
+[22-Aug-18 04:24 PM] waltor#3519
+TPW (1000hPa-100hPa) = 56mm
+
+
+[22-Aug-18 04:25 PM] waltor#3519
+so over by 2.333
+
+
+[22-Aug-18 04:25 PM] waltor#3519
+TPW = calcTPW / 2.333
+
+
+[22-Aug-18 04:31 PM] waltor#3519
+Mt Isa
+avg RH = 27%
+avg afternoon temp = 31.9
+avg g/kg water = 7.877g
+calcTPW = 72mm
+TPW = 31mm
+
+
+[22-Aug-18 04:33 PM] waltor#3519
+Newman
+avg RH = 24%
+avg afternoon temp = 32.1
+avg g/kg water = 7.072
+calcTPW = 65mm
+TPW = 28mm
+
+
+[22-Aug-18 04:34 PM] waltor#3519
+hm how accurate is this
+
+
+[22-Aug-18 04:34 PM] waltor#3519
+so perth is 18.5
+
+
+[22-Aug-18 04:35 PM] waltor#3519
+Perth
+avg RH = 47
+avg afternoon temp = 25.1
+avg g/kg water = 9.274
+calcTPW = 85mm
+TPW = 36mm
+
+
+[22-Aug-18 04:35 PM] waltor#3519
+nowhere near accurate wew
+
+
+[22-Aug-18 04:36 PM] waltor#3519
+Accurate in the tropics
+
+
+[22-Aug-18 04:37 PM] Deleted User#0000
+Hot
+
+
+[22-Aug-18 05:47 PM] waltor#3519
+Gascoyne Irrigation Area - 600,000km2
+Nullarbor Irrigation Area - 150,000km2
+Channel Country Irrigation Area - 700,000km2
+Carpentaria Irrigation Area - 200,000km2
+Darling Irrigation Area - 300,000km2
+
+
+[22-Aug-18 05:58 PM] waltor#3519
+evapotranspiration
+
+
+[22-Aug-18 06:01 PM] waltor#3519
+Areal potential evapotranspiration annually
+GIA - 1700mm
+NIA - 1300mm
+CCIA - 1600mm
+CIA - 2000mm
+DIA - 1400mm
+
+
+[22-Aug-18 06:02 PM] waltor#3519
+Rain annually
+GIA - 200m
+NIA - 100mm
+CCIA - 100mm
+CIA - 400mm
+DIA - 200mm
+
+
+[22-Aug-18 06:03 PM] waltor#3519
+Water needed annually
+GIA - 1500mm
+NIA - 1200mm
+CCIA - 1500mm
+CIA - 1600mm
+DIA - 1200mm
+
+
+[23-Aug-18 05:58 PM] waltor#3519
+Water needed 
+GIA - 29,000m3/s
+NIA - 6,000m3/s
+CCIA - 33,000m3/s
+CIA - 10,000m3/s
+DIA - 11,000m3/s
+
+
+[26-Aug-18 07:19 PM] waltor#3519
+@RunasSudo hello
+
+
+[26-Aug-18 07:19 PM] waltor#3519
+https://github.com/cambecc/earth
+
+{Embed}
+https://github.com/cambecc/earth
+cambecc/earth
+earth - a project to visualize global weather conditions
+https://images-ext-2.discordapp.net/external/1UOelaP3QrYLnrm_zCbrbyeh5dGqH0P2fh4uVA_jTzM/%3Fs%3D400%26v%3D4/https/avatars0.githubusercontent.com/u/3368530
+
+
+[26-Aug-18 07:19 PM] waltor#3519
+would you have any idea where to look to find uh
+
+
+[26-Aug-18 07:19 PM] waltor#3519
+the colours for different amounts of a value
+
+
+[26-Aug-18 07:20 PM] RunasSudo#2416
+oof that sounds hard
+
+{Reactions}
+⭐ (2) 
+
+[26-Aug-18 07:20 PM] waltor#3519
+its got to be in there somewhere
+
+
+[26-Aug-18 07:21 PM] waltor#3519
+i searched "color" in the repo and didn't really find anything
+
+
+[26-Aug-18 07:21 PM] ChairmanMeeseeks#8399
+phrasing, boom
+
+
+[26-Aug-18 07:21 PM] RunasSudo#2416
+https://github.com/cambecc/earth/search?utf8=%E2%9C%93&q=gradient&type=
+
+{Embed}
+https://github.com/cambecc/earth/search?utf8=%E2%9C%93&q=gradient&type=
+cambecc/earth
+earth - a project to visualize global weather conditions
+https://images-ext-2.discordapp.net/external/1UOelaP3QrYLnrm_zCbrbyeh5dGqH0P2fh4uVA_jTzM/%3Fs%3D400%26v%3D4/https/avatars0.githubusercontent.com/u/3368530
+
+
+[26-Aug-18 07:21 PM] waltor#3519
+/
+
+
+[26-Aug-18 07:22 PM] RunasSudo#2416
+looks like it's just a rainbow?
+
+
+[26-Aug-18 07:22 PM] RunasSudo#2416
+or something
+
+
+[26-Aug-18 07:22 PM] waltor#3519
+hm
+
+
+[26-Aug-18 07:23 PM] waltor#3519
+``` gradient: µ.segmentedColorScale([
+                            [193,     [37, 4, 42]],
+                            [206,     [41, 10, 130]],
+                            [219,     [81, 40, 40]],
+                            [233.15,  [192, 37, 149]],  // -40 C/F
+                            [255.372, [70, 215, 215]],  // 0 F
+                            [273.15,  [21, 84, 187]],   // 0 C
+                            [275.15,  [24, 132, 14]],   // just above 0 C
+                            [291,     [247, 251, 59]],
+                            [298,     [235, 167, 21]],
+                            [311,     [230, 71, 39]],
+                            [328,     [88, 27, 67]]```
+
+
+[26-Aug-18 07:23 PM] waltor#3519
+haha yes i found it
+
+
+[26-Aug-18 07:24 PM] RunasSudo#2416
+oh
+
+
+[26-Aug-18 07:24 PM] waltor#3519
+dw gradient helped me
+
+
+[26-Aug-18 07:24 PM] waltor#3519
+``` gradient:
+                            µ.segmentedColorScale([
+                                [0, [230, 165, 30]],
+                                [10, [120, 100, 95]],
+                                [20, [40, 44, 92]],
+                                [30, [21, 13, 193]],
+                                [40, [75, 63, 235]],
+                                [60, [25, 255, 255]],
+                                [70, [150, 255, 255]]
+                            ])```
+
+
+[26-Aug-18 07:24 PM] waltor#3519
+ok this is for tpw
+
+
+[26-Aug-18 07:29 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/483213957755305984/colours.png
+
+
+[26-Aug-18 07:36 PM] waltor#3519
+50kg/m2 = 50, 159, 245
+
+
+[28-Aug-18 06:16 PM] waltor#3519
+Evapotranspiration in the Channel Country Irrigation Area
+December - 210mm
+January - 210mm
+February - 165mm
+March - 150mm
+April - 105mm
+May - 60mm
+June - 45mm
+July - 60mm
+August - 75mm
+September - 105mm
+October - 150mm
+November - 180mm
+
+
+[28-Aug-18 06:20 PM] waltor#3519
+Ok time to figure out year round TPW for Mt Isa
+
+
+[28-Aug-18 06:20 PM] waltor#3519
+since the last ones have been incorrect
+
+
+[30-Aug-18 07:30 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/484663764789231618/300px-2010-2011_Australian_region_cyclone_season_summary.png
+
+
+[30-Aug-18 07:31 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/484663843851862028/300px-2011-2012_Australian_region_cyclone_season_summary.png
+
+
+[30-Aug-18 07:31 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/484663881076047872/300px-2012-2013_Australian_region_cyclone_season_summary.png
+
+
+[30-Aug-18 07:31 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/484663918468530186/300px-2013-2014_Australian_region_cyclone_season_summary.png
+
+
+[30-Aug-18 07:31 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/484663964983099401/300px-2014-2015_Australian_region_cyclone_season_summary.png
+
+
+[30-Aug-18 07:39 PM] waltor#3519
+2010-11
+Severe Tropical Cyclone Yasi - Carpentarian, 930hPa, 75mm, 2 days, 126km3
+
+2011-12
+Severe Tropical Cyclone Heidi - Gascoyne, 960hPa, 75mm, 2 days, 90km3
+Tropical Low 10U - Carpentarian, 995hPa, 70mm, 1 day, 59km3
+Severe Tropical Cyclone Lua - Gascoyne, 935hPa, 75mm, 1 day, 45km3
+Tropical Low 17U - Carpentarian, 990hPa, 70mm, 2 days, 118km3
+
+2012-13
+Tropical Cyclone Peta - Gascoyne, 990hPa, 70mm, 2 days, 84km3
+Severe Tropical Cyclone Rusty - Gascoyne, 945hPa, 75mm, 1 day, 45km3
+
+2013-14
+Severe Tropical Cyclone Christine - Gascoyne, 950hPa, 75mm, 2 days, 90km3
+Tropical Low 05U - Gascoyne, 990hPa, 70mm, 2 days, 84km3
+Tropical Low Fletcher - Carpentarian, 990hPa, 70mm, 3 days, 176km3
+Tropical Cyclone 09U - Gascoyne, 980hPa, 70mm, 1 day, 42km3
+
+2014-15
+Severe Tropical Cyclone Quang - Gascoyne, 950hPa, 75mm, 1 day, 45km3
+
+
+[30-Aug-18 07:39 PM] waltor#3519
+Wow there's a lot of cyclones over the Gascoyne
+
+
+[30-Aug-18 07:41 PM] waltor#3519
+Ok so Typhoon Jebi has 950hPa at the eye, and 80mm tpw in the middle
+
+
+[30-Aug-18 07:43 PM] waltor#3519
+Hurricane Mirriam has about 990hPa and 75mm
+
+
+[30-Aug-18 07:47 PM] waltor#3519
+We can probably say 
+1000 - 70mm
+950 - 75mm
+900 - 80mm
+
+
+[30-Aug-18 08:02 PM] waltor#3519
+yasi - 729,000m3/s
+
+
+[30-Aug-18 08:02 PM] waltor#3519
+wow that's a lot of water
+
+
+[30-Aug-18 08:06 PM] ChairmanMeeseeks#8399
+Csid
+
+
+[30-Aug-18 08:06 PM] waltor#3519
+Yes
+
+
+[30-Aug-18 08:06 PM] ChairmanMeeseeks#8399
+For the agriculture
+
+
+[30-Aug-18 08:06 PM] waltor#3519
+I have nothing to do that's why I'm doing this
+
+
+[30-Aug-18 08:06 PM] ChairmanMeeseeks#8399
+Have you considered doing livestock?
+
+
+[30-Aug-18 08:06 PM] waltor#3519
+Throw me all your questions and problems
+
+
+[30-Aug-18 08:06 PM] waltor#3519
+I guess we could
+
+
+[30-Aug-18 08:06 PM] ChairmanMeeseeks#8399
+Like sheep?
+
+
+[30-Aug-18 08:07 PM] droniye✌🏼#0948
+can we deport all cane toads to manus island?
+
+
+[30-Aug-18 08:07 PM] ChairmanMeeseeks#8399
+Because you know our wool is like American cotton
+
+
+[30-Aug-18 08:07 PM] ChairmanMeeseeks#8399
+It's the reason for our existence
+
+
+[30-Aug-18 08:07 PM] waltor#3519
+Precipitable water would increase inland vastly, and there'd probably be lots of convection
+
+
+[30-Aug-18 08:07 PM] ChairmanMeeseeks#8399
+It's also a significant part of our economy
+
+
+[30-Aug-18 08:07 PM] waltor#3519
+so thunderstorms -> more rain -> the interior will go from red to yellow
+
+
+[30-Aug-18 08:07 PM] waltor#3519
+and you could probably graze on that
+
+
+[30-Aug-18 08:07 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/484673110155722763/23855-004-DB8875C1.png
+
+
+[30-Aug-18 08:08 PM] waltor#3519
+A lot of the soil is terrible, like leptosols, only fit for forestry
+
+
+[30-Aug-18 08:08 PM] waltor#3519
+But it could probably also be used for grazing
+
+
+[30-Aug-18 08:08 PM] waltor#3519
+@NotGriffonomics am I correct on leptosols being shit
+
+
+[30-Aug-18 08:08 PM] ChairmanMeeseeks#8399
+Motherfucker let's do sheep
+
+
+[30-Aug-18 08:08 PM] waltor#3519
+If the sheep are down on the nullabor it won't be anywhere near as hot as inland or in the GoC
+
+
+[30-Aug-18 08:08 PM] waltor#3519
+so it'd probably be the best place
+
+
+[30-Aug-18 08:09 PM] waltor#3519
+we could make an artifical rainforest in the GoC
+
+
+[30-Aug-18 08:09 PM] ChairmanMeeseeks#8399
+Also, that could spawn domestic textiles manufacturing so we can export raw wool as well as processed
+
+
+[30-Aug-18 08:09 PM] waltor#3519
+"Leptosols are unattractive soils for rainfed agriculture because of their inability to hold water,[1] but may sometimes have potential for tree crops or extensive grazing. Leptosols are best kept under forest."
+
+
+[30-Aug-18 08:09 PM] waltor#3519
+ok looks good for grazing
+
+
+[30-Aug-18 08:09 PM] waltor#3519
+and if we have sheep on it they can shit on it
+
+
+[30-Aug-18 08:09 PM] waltor#3519
+and fertilise it
+
+
+[30-Aug-18 08:10 PM] waltor#3519
+leptosol wouldn't be easy tho
+
+
+[30-Aug-18 08:10 PM] waltor#3519
+shallow and gravelly
+
+
+[30-Aug-18 08:10 PM] droniye✌🏼#0948
+tobalt
+
+
+[30-Aug-18 08:10 PM] waltor#3519
+you couldn't grow deep crops like uh
+
+
+[30-Aug-18 08:10 PM] waltor#3519
+corn
+
+
+[30-Aug-18 08:11 PM] waltor#3519
+@NotGriffonomics if we get sand, add silt, clay and humus, aerate and hydrate
+
+
+[30-Aug-18 08:11 PM] waltor#3519
+will it be good soil
+
+
+[30-Aug-18 08:12 PM] ChairmanMeeseeks#8399
+@waltor what's the climate like
+
+
+[30-Aug-18 08:12 PM] waltor#3519
+where
+
+
+[30-Aug-18 08:12 PM] waltor#3519
+nullabor?
+
+
+[30-Aug-18 08:12 PM] ChairmanMeeseeks#8399
+Cause humidity causes bad shit in sheep
+
+
+[30-Aug-18 08:12 PM] ChairmanMeeseeks#8399
+Just anywhere you want to do grazing
+
+
+[30-Aug-18 08:12 PM] ChairmanMeeseeks#8399
+Cause you gotta keep humidity in mind
+
+
+[30-Aug-18 08:13 PM] waltor#3519
+ok so ceduna is a coastal town
+
+
+[30-Aug-18 08:13 PM] waltor#3519
+in the eastern nullabor
+
+
+[30-Aug-18 08:13 PM] waltor#3519
+relative humidity year round is around 50%
+
+
+[30-Aug-18 08:13 PM] waltor#3519
+doesnt change too much
+
+
+[30-Aug-18 08:15 PM] waltor#3519
+@ChairmanMeeseeks how much wool does a sheep make
+
+
+[30-Aug-18 08:15 PM] waltor#3519
+and how expensive is the wool
+
+
+[30-Aug-18 08:15 PM] ChairmanMeeseeks#8399
+Uhhh
+
+
+[30-Aug-18 08:15 PM] droniye✌🏼#0948
+go to NZ to investigate
+
+
+[30-Aug-18 08:15 PM] waltor#3519
+yes
+
+
+[30-Aug-18 08:15 PM] ChairmanMeeseeks#8399
+50% is too much
+
+
+[30-Aug-18 08:16 PM] waltor#3519
+well further inland it's more like 30% in summer, and 50% in winter
+
+
+[30-Aug-18 08:16 PM] ChairmanMeeseeks#8399
+25% for marino
+
+
+[30-Aug-18 08:16 PM] ChairmanMeeseeks#8399
+I'm double checking that
+
+
+[30-Aug-18 08:16 PM] ChairmanMeeseeks#8399
+But 25% is optimum
+
+
+[30-Aug-18 08:16 PM] waltor#3519
+can you eat merino
+
+
+[30-Aug-18 08:17 PM] waltor#3519
+🍖
+
+
+[30-Aug-18 08:17 PM] ChairmanMeeseeks#8399
+Yes
+
+
+[30-Aug-18 08:17 PM] waltor#3519
+hm
+
+
+[30-Aug-18 08:18 PM] waltor#3519
+@ChairmanMeeseeks
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/484675793893589004/rh15an.png
+
+
+[30-Aug-18 08:18 PM] waltor#3519
+looks like we're grazing merino out in the desert
+
+
+[30-Aug-18 08:20 PM] ChairmanMeeseeks#8399
+Semi arid works for em
+
+
+[30-Aug-18 08:28 PM] waltor#3519
+100 sheep per km2
+
+
+[30-Aug-18 08:28 PM] waltor#3519
+10kg wool/y
+
+
+[30-Aug-18 08:30 PM] waltor#3519
+10 years of sheep
+
+
+[30-Aug-18 08:32 PM] waltor#3519
+500kg/y food
+5000l/y water
+
+
+[30-Aug-18 08:32 PM] waltor#3519
+so 100,000km2 of sheep hm
+
+
+[30-Aug-18 08:33 PM] ChairmanMeeseeks#8399
+what do you need me to calculate?
+
+
+[30-Aug-18 08:33 PM] waltor#3519
+5MT of wheat
+50GL of water
+
+
+[30-Aug-18 08:33 PM] waltor#3519
+nothing rn
+
+
+[30-Aug-18 08:33 PM] ChairmanMeeseeks#8399
+you asked me a question earlier tho
+
+
+[30-Aug-18 08:33 PM] waltor#3519
+ok this is entirely doable
+
+
+[30-Aug-18 08:34 PM] waltor#3519
+so 100,000t of merino wool a year
+
+
+[30-Aug-18 08:34 PM] waltor#3519
+$10/kg holy shit
+
+
+[30-Aug-18 08:35 PM] waltor#3519
+aand nevermind
+
+
+[30-Aug-18 08:35 PM] waltor#3519
+only $1b/y
+
+
+[30-Aug-18 08:36 PM] waltor#3519
+and when the sheep have to be **retired** after 10 years it'll only be $1b/y from meat
+
+
+[30-Aug-18 08:36 PM] waltor#3519
+eh it;s a good way to introduce organics to the soil
+
+
+[30-Aug-18 08:36 PM] ChairmanMeeseeks#8399
+yeah, but thats still pretty good compared to the other shit
+
+
+[30-Aug-18 08:37 PM] ChairmanMeeseeks#8399
+and its making use of useless soil
+
+
+[30-Aug-18 08:37 PM] waltor#3519
+hm
+
+
+[30-Aug-18 08:37 PM] ChairmanMeeseeks#8399
+like, what would you otherwise use it for?
+
+
+[30-Aug-18 08:37 PM] waltor#3519
+trees
+
+
+[30-Aug-18 08:37 PM] ChairmanMeeseeks#8399
+what type
+
+
+[30-Aug-18 08:37 PM] waltor#3519
+eucalypt
+
+
+[30-Aug-18 08:37 PM] waltor#3519
+i dunno
+
+
+[30-Aug-18 08:37 PM] ChairmanMeeseeks#8399
+and what would you do
+
+
+[30-Aug-18 08:38 PM] waltor#3519
+what do you think about planting a rainforest in the GoC coast
+
+
+[30-Aug-18 08:38 PM] ChairmanMeeseeks#8399
+you are actually insane
+
+
+[30-Aug-18 08:38 PM] waltor#3519
+why not tho
+
+
+[30-Aug-18 08:38 PM] waltor#3519
+the land is pretty mediocre, and we'd get to say we have big rainforest
+
+
+[30-Aug-18 08:38 PM] ChairmanMeeseeks#8399
+but seriously what would you do
+
+
+[30-Aug-18 08:38 PM] waltor#3519
+i dunno
+
+
+[30-Aug-18 08:38 PM] ChairmanMeeseeks#8399
+with the eucalypt
+
+
+[30-Aug-18 08:38 PM] waltor#3519
+mulch it
+
+
+[30-Aug-18 08:39 PM] waltor#3519
+turn it into fertiliser
+
+
+[30-Aug-18 08:39 PM] ChairmanMeeseeks#8399
+and sell the mulch
+
+
+[30-Aug-18 08:39 PM] waltor#3519
+extract the oils
+
+
+[30-Aug-18 08:39 PM] ChairmanMeeseeks#8399
+whats the rate?
+
+
+[30-Aug-18 08:39 PM] waltor#3519
+make biofuel
+
+
+[30-Aug-18 08:39 PM] waltor#3519
+i dunno and honestly it'll be such a shit return i'm not even calculating it
+
+
+[30-Aug-18 08:40 PM] ChairmanMeeseeks#8399
+yeah so dont do it
+
+
+[30-Aug-18 08:40 PM] ChairmanMeeseeks#8399
+do the sheep
+
+
+[30-Aug-18 08:40 PM] waltor#3519
+What do youu think of a bill that introduces a government owned corporation
+
+
+[30-Aug-18 08:41 PM] waltor#3519
+that builds the range
+
+
+[30-Aug-18 08:41 PM] ChairmanMeeseeks#8399
+yes
+
+
+[30-Aug-18 08:41 PM] waltor#3519
+and we appropriate funds to it and get it built
+
+
+[30-Aug-18 08:41 PM] waltor#3519
+then I resign from the pmship 👀 and become director
+
+
+[30-Aug-18 08:41 PM] ChairmanMeeseeks#8399
+dont just do it for carp though
+
+
+[30-Aug-18 08:41 PM] waltor#3519
+i will build both
+
+
+[30-Aug-18 08:41 PM] ChairmanMeeseeks#8399
+do it for all megaprojects
+
+
+[30-Aug-18 08:41 PM] waltor#3519
+hyperidoo
+
+
+[30-Aug-18 08:41 PM] waltor#3519
+halal snack rail
+
+
+[30-Aug-18 08:41 PM] ChairmanMeeseeks#8399
+like the Nationalised Megaproject company
+
+
+[30-Aug-18 08:42 PM] waltor#3519
+Dicky Knee National Supersonic Airline
+
+
+[30-Aug-18 08:42 PM] ChairmanMeeseeks#8399
+with subsidiaries for each megaproject contract
+
+
+[30-Aug-18 09:02 PM] ChairmanMeeseeks#8399
+right
+
+
+[30-Aug-18 09:02 PM] ChairmanMeeseeks#8399
+hold on
+
+
+[30-Aug-18 09:02 PM] ChairmanMeeseeks#8399
+i know this isnt mountain men but still
+
+
+[30-Aug-18 09:02 PM] ChairmanMeeseeks#8399
+by my estimates
+
+
+[30-Aug-18 09:03 PM] ChairmanMeeseeks#8399
+and this is EXTREMELY crude
+
+
+[30-Aug-18 09:03 PM] ChairmanMeeseeks#8399
+30 Billion dollars to build a ridiculously massive shipyard in SA
+
+
+[30-Aug-18 09:03 PM] ChairmanMeeseeks#8399
+like
+
+
+[30-Aug-18 09:03 PM] ChairmanMeeseeks#8399
+biggest by far in the world
+
+
+[30-Aug-18 09:03 PM] ChairmanMeeseeks#8399
+thats a combination of what i think it would cost to build Newport News AND Norfolk Shipyards combined
+
+
+[30-Aug-18 09:04 PM] ChairmanMeeseeks#8399
+bearing in mind those two are the biggest in the world
+
+
+[30-Aug-18 09:04 PM] ChairmanMeeseeks#8399
+like by far
+
+
+[30-Aug-18 09:04 PM] ChairmanMeeseeks#8399
+im legit just putting this here so i can access it later
+
+
+[30-Aug-18 09:04 PM] ChairmanMeeseeks#8399
+also
+
+
+[30-Aug-18 09:04 PM] ChairmanMeeseeks#8399
+Ending world poverty. To end extreme poverty worldwide in 20 years, Sachs calculated that the total cost per year would be about $175 billion. This represents less than one percent of the combined income of the richest countries in the world.
+
+
+[30-Aug-18 09:04 PM] ChairmanMeeseeks#8399
+fun fact
+
+
+[30-Aug-18 09:04 PM] ChairmanMeeseeks#8399
+20 years of about 175 bill
+
+
+[30-Aug-18 09:05 PM] ChairmanMeeseeks#8399
+would end global poverty
+
+
+[30-Aug-18 09:10 PM] droniye✌🏼#0948
+John 1:1
+
+
+[30-Aug-18 09:13 PM] ChairmanMeeseeks#8399
+@waltor what do you think about building a massive manufactory like Elon is doing in Arizona for SpaceX but for a National Australian Electric Car manufacturing? Or space or legit anything
+
+
+[30-Aug-18 09:13 PM] Dyno#3861
+Your Honour CSID🗻Rat Abattoir is AFK: AFK - 23 minutes ago
+
+
+[30-Aug-18 09:30 PM] waltor#3519
+Yes
+
+
+[30-Aug-18 09:37 PM] waltor#3519
+@ChairmanMeeseeks massive shipyard on lake eyre
+
+
+[30-Aug-18 09:37 PM] waltor#3519
+After its flooded
+
+
+[30-Aug-18 09:37 PM] ChairmanMeeseeks#8399
+can lake eyre head out to sea?
+
+
+[30-Aug-18 09:38 PM] waltor#3519
+well it will be filled until it’s around 20m above sea level
+
+
+[30-Aug-18 09:38 PM] waltor#3519
+And that would be enough, with some minor digging, to overflow into the gulf
+
+
+[30-Aug-18 09:38 PM] waltor#3519
+I think
+
+
+[30-Aug-18 09:40 PM] ChairmanMeeseeks#8399
+it needs to overflow by a lot to have ships come through
+
+
+[30-Aug-18 09:40 PM] ChairmanMeeseeks#8399
+also
+
+
+[30-Aug-18 09:40 PM] ChairmanMeeseeks#8399
+thoughts on the manufactory thing
+
+
+[30-Aug-18 09:40 PM] waltor#3519
+Diggy diggy
+
+
+[30-Aug-18 09:40 PM] waltor#3519
+Eh why not
+
+
+[30-Aug-18 09:41 PM] ChairmanMeeseeks#8399
+but do we do it for space or for electric cars
+
+
+[30-Aug-18 09:41 PM] waltor#3519
+We’ll just abolish the government and declare australia 1 massive commune
+
+
+[30-Aug-18 09:41 PM] waltor#3519
+Both
+
+
+[30-Aug-18 09:41 PM] ChairmanMeeseeks#8399
+but we have to specialise
+
+
+[30-Aug-18 09:41 PM] ChairmanMeeseeks#8399
+because elons thing is one manufactory just for space
+
+
+[30-Aug-18 09:41 PM] ChairmanMeeseeks#8399
+as opposed to hybrid
+
+
+[30-Aug-18 09:41 PM] ChairmanMeeseeks#8399
+if we hybrid it'll suck ass
+
+
+[30-Aug-18 09:41 PM] ChairmanMeeseeks#8399
+maybe we just do electric cars in carp
+
+
+[30-Aug-18 09:42 PM] ChairmanMeeseeks#8399
+and space in the manufactorum
+
+
+[30-Aug-18 09:42 PM] waltor#3519
+Do both
+
+
+[30-Aug-18 09:42 PM] waltor#3519
+Make 2 factories
+
+
+[30-Aug-18 09:43 PM] ChairmanMeeseeks#8399
+actually
+
+
+[30-Aug-18 09:43 PM] ChairmanMeeseeks#8399
+hes only doing it for the lithium ion batteries
+
+
+[30-Aug-18 09:43 PM] ChairmanMeeseeks#8399
+and he has two
+
+
+[30-Aug-18 09:43 PM] ChairmanMeeseeks#8399
+at about 5 billion a pop
+
+
+[30-Aug-18 09:43 PM] ChairmanMeeseeks#8399
+so we could make like
+
+
+[30-Aug-18 09:43 PM] ChairmanMeeseeks#8399
+4
+
+
+[30-Aug-18 09:44 PM] ChairmanMeeseeks#8399
+and have two of em produce electric cars
+
+
+[30-Aug-18 09:44 PM] ChairmanMeeseeks#8399
+and the other two produce rockets and shit
+
+
+[30-Aug-18 09:44 PM] ChairmanMeeseeks#8399
+but while its not producing rockets
+
+
+[30-Aug-18 09:44 PM] ChairmanMeeseeks#8399
+it can produce f35's or some shit
+
+
+[30-Aug-18 09:45 PM] ChairmanMeeseeks#8399
+and then maybe like a 15 billion dollar huge factory (like, megagigafactory)
+
+
+[30-Aug-18 09:45 PM] ChairmanMeeseeks#8399
+and that'll just be so we can build like warp powered ships
+
+
+[30-Aug-18 09:45 PM] ChairmanMeeseeks#8399
+speaking of
+
+
+[30-Aug-18 09:47 PM] ChairmanMeeseeks#8399
+we should totally build like a whole new complex in carpentaria for csiro to fuck around in
+
+
+[30-Aug-18 09:47 PM] ChairmanMeeseeks#8399
+with crazy shit
+
+
+[30-Aug-18 09:47 PM] ChairmanMeeseeks#8399
+like cold fusion and warp drives
+
+
+[30-Aug-18 09:47 PM] ChairmanMeeseeks#8399
+and then the manufactorum can legit build fucking warpships
+
+
+[30-Aug-18 09:47 PM] ChairmanMeeseeks#8399
+and then we'll have a space force
+
+
+[30-Aug-18 09:49 PM] ChairmanMeeseeks#8399
+nope
+
+
+[30-Aug-18 09:49 PM] ChairmanMeeseeks#8399
+getting too ahead of myself
+
+
+[30-Aug-18 09:49 PM] ChairmanMeeseeks#8399
+although, the megagigafactory would be great
+
+
+[30-Aug-18 09:53 PM] waltor#3519
+Wm
+
+
+[01-Sep-18 04:39 PM] waltor#3519
+CR
+Jan 50
+Feb 50
+Mar 20
+Apr 10
+May 30
+Jun 35
+Jul 10
+Aug 10
+Sep 25
+Oct 5
+Nov 30
+Dec 30
+
+
+[02-Sep-18 09:24 AM] waltor#3519
+CR 40 25 10 20 
+Average 23.75
+DJF 170%
+MAM 105%
+JJA 40%
+SON 85%
+
+GR 35 25 10 20
+Average 22.5
+DJF 155%
+MAM 110%
+JJA 45%
+SON 90%
+
+
+[02-Sep-18 09:33 AM] waltor#3519
+CR - 30 avg
+DJF 50
+MAM 30
+JJA 10
+SON 25
+
+GR - 25 avg
+DJF 40
+MAM 30
+JJA 10 
+SON 25
+
+
+[02-Sep-18 09:35 AM] waltor#3519
+CR
+DJF 146,000m3/s
+MAM 88,000m3/s
+JJA 29,000m3/s
+SON 73,000m3/s
+
+
+[02-Sep-18 09:39 AM] waltor#3519
+GR
+DJF 83,000m3/s
+MAM 63,000m3/s
+JJA 21,000m3/s
+SON 52,000m3/s
+
+
+[02-Sep-18 10:24 AM] waltor#3519
+CCIA
+100 million tonnes of wheat: 125,000km2, 200km3 water, 6000m3/s
+100 million tonnes of rice: 100,000km2, 160km3 water, 5000m3/s
+
+
+[02-Sep-18 10:25 AM] waltor#3519
+------------
+
+
+[02-Sep-18 10:26 AM] waltor#3519
+1.3 million km2 needs 2080km3
+
+
+[02-Sep-18 10:26 AM] waltor#3519
+So you could grow 1040MT of wheat (@$300/t = $312b), 1300MT of rice (@$500/t = $650b)
+
+
+[02-Sep-18 10:36 AM] waltor#3519
+__**Theoretical MMP Agriculture Possibilities**__
+Gascoyne Irrigation Area - 600,000km2, double cropped wheat and rice
+Nullarbor Irrigation Area - 150,000km2, 2/3 to cattle,1/3 to merino sheep
+Channel Country Irrigation Area - 700,000km2, double cropped wheat and rice
+Carpentaria Irrigation Area - 200,000km2, half-half sugarcane and bananas
+Darling Irrigation Area - 300,000km2, double cropped potatoes and tomatoes
+
+
+[02-Sep-18 10:40 AM] waltor#3519
+__**Annual Yields**__
+Wheat: 8t/ha ($200/t)
+Rice: 10t/ha ($400/t)
+Sugar: 80t/ha ($300/t)
+Bananas: 30t/ha ($1400/t)
+Potatoes: 30t/ha ($1500/t)
+Tomatoes: 50t/ha ($500/t)
+Cattle: 1/ha @200kg/y = 200kg/ha BEEF ($4/kg)
+Sheep: 5/ha @10kg/y = 50kg/ha MERINO WOOL ($20/kg)
+
+
+[02-Sep-18 10:40 AM] PineappleCrusher_#3244
+***sees CSID type***
+
+
+[02-Sep-18 10:40 AM] waltor#3519
+I really am bored today
+
+
+[02-Sep-18 10:47 AM] waltor#3519
+uh
+
+
+[02-Sep-18 10:47 AM] waltor#3519
+I am doing a more in depth analysis of the agricultural benefits
+
+
+[02-Sep-18 11:00 AM] waltor#3519
+__**Annual Harvests**__
+Wheat over 1,300,000km2: 1040MT = $208b
+Rice over 1,300,000km2: 1300MT = $520b
+Sugar over 100,000km2: 800MT = $240b
+Bananas over 100,000km2: 300MT = $420b
+Potatoes over 300,000km2: 900MT = $1350b
+Tomatoes over 300,000km2: 1500MT = $750b
+Beef over 100,000km2: 2MT = $8b
+Wool over 50,000km2: 0.25MT = $5b
+**TOTAL: $3501b**
+
+
+[02-Sep-18 11:00 AM] waltor#3519
+Wow that's a lot of food
+
+
+[02-Sep-18 11:01 AM] waltor#3519
+It would make our gdp $4706b/y
+
+
+[02-Sep-18 11:02 AM] waltor#3519
+We would be #5 largest gdp by PP according to the IMF
+
+
+[02-Sep-18 11:06 AM] waltor#3519
+__**Food per person around the world (Pop 7.7b)**__
+Wheat: 135kg, 400g daily
+Rice: 169kg, 500g daily
+Sugar: 104kg, 300g daily
+Bananas: 39kg, 100g daily
+Potatoes: 117kg, 300g daily
+Tomatoes: 195kg, 500g daily
+Beef: 1kg, none daily
+
+
+[02-Sep-18 11:20 AM] waltor#3519
+15,000kj a day, so we could feed probably 15 billion people with the MMP
+
+
+[06-Sep-18 04:16 PM] waltor#3519
+2017 TPW (CR)
+Jan: 55mm
+Feb: 50mm (no data)
+Mar: 40mm
+Apr: 20mm
+May: 20mm
+Jun: 20mm
+Jul: 20mm
+Aug: 15mm
+Sep: 25mm
+Oct: 30mm
+Nov: 10mm
+Dec: 50mm
+AVG: 30
+
+
+[06-Sep-18 04:27 PM] waltor#3519
+2017 TPW (GR)
+Jan: 20mm
+Feb: 35mm
+Mar: 15mm
+Apr: 15mm (no data)
+May: 15mm
+Jun: 15mm
+Jul: 15mm
+Aug: 5mm
+Sep: 15mm
+Oct: 15mm
+Nov: 15mm
+Dec: 20mm
+AVG: 15
+
+
+[09-Sep-18 04:31 PM] ChairmanMeeseeks#8399
+csid
+
+
+[09-Sep-18 04:31 PM] ChairmanMeeseeks#8399
+can you do me a massive favour
+
+
+[09-Sep-18 04:31 PM] ChairmanMeeseeks#8399
+and answer me this
+
+
+[09-Sep-18 04:32 PM] waltor#3519
+Ok
+
+
+[09-Sep-18 04:32 PM] waltor#3519
+I am cooking rn, but i should still be able to answer
+
+
+[09-Sep-18 04:38 PM] waltor#3519
+@ChairmanMeeseeks yes?
+
+
+[09-Sep-18 04:39 PM] ChairmanMeeseeks#8399
+right
+
+
+[09-Sep-18 04:39 PM] ChairmanMeeseeks#8399
+megaprojects bank
+
+
+[09-Sep-18 04:39 PM] ChairmanMeeseeks#8399
+for carpentaria and other things
+
+
+[09-Sep-18 04:39 PM] ChairmanMeeseeks#8399
+how much would be a good idea
+
+
+[09-Sep-18 04:39 PM] ChairmanMeeseeks#8399
+cause you remember how we were talking about a national megaprojects company
+
+
+[09-Sep-18 04:39 PM] ChairmanMeeseeks#8399
+earlier up
+
+
+[09-Sep-18 04:39 PM] ChairmanMeeseeks#8399
+how much would be needed to get it started
+
+
+[09-Sep-18 04:40 PM] ChairmanMeeseeks#8399
+@waltor im referring to this, so maybe not a bank but just a general megaprojects company
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/488244853570928650/Screen_Shot_2018-09-09_at_5.10.09_pm.png
+
+
+[09-Sep-18 04:56 PM] waltor#3519
+Not sure
+
+
+[09-Sep-18 09:35 PM] waltor#3519
+Nowhere near because I have been busy with irl shit
+
+
+[09-Sep-18 09:35 PM] waltor#3519
+I haven't even been writing anything up for the past week
+
+
+[13-Sep-18 02:36 PM] droniye✌🏼#0948
+hello mountain mob i am forming a lobbyist group called United for Carpentaria
+
+
+[16-Sep-18 02:07 PM] waltor#3519
+No
+
+
+[16-Sep-18 02:07 PM] waltor#3519
+He is very useful
+
+
+[22-Sep-18 02:56 PM] AnswerMeNow2#5463
+i love mmp
+
+
+[25-Sep-18 06:41 AM] waltor#3519
+But what about *the* MMP
+
+
+[25-Sep-18 11:21 AM] waltor#3519
+phase 1 - carpentarian range (2 years)
+ - build dams n shit
+ - build the range
+ - farming
+phase 2 - darling canal (?)
+ - build canal
+ - farming
+phase 3 - gascoyne range (1 year)
+ - build dams n shit
+ - build the range
+ - farming
+phase 4 - nullabor canal (?)
+ - build canal
+ - farming
+phase 5 (a long time afterward) - navigabilitify coastal rivers (?)
+ - build dams n shit
+
+
+[26-Sep-18 11:36 PM] Rat#1042
+hello
+
+
+[26-Sep-18 11:40 PM] waltor#3519
+Welcome to the irrigation area of the real
+
+
+[26-Sep-18 11:40 PM] Rat#1042
+just to clarify that i will not support this project until i am confirmed
+
+
+[26-Sep-18 11:42 PM] waltor#3519
+Well you should critically support it until a report is released which may be a while
+
+
+[26-Sep-18 11:42 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/494511516989784105/image.png
+
+
+[26-Sep-18 11:42 PM] Deleted User#0000
+indeed
+
+
+[26-Sep-18 11:47 PM] Deleted User#0000
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/494512758679797760/Screenshot_9.png
+
+
+[26-Sep-18 11:47 PM] waltor#3519
+Ecuadorian embassy
+
+
+[01-Oct-18 11:13 AM] waltor#3519
+Tom Price - JFM
+Wittenoom - JFM
+Newman - JF
+Rockhampton - NDJFM
+Roebourne - JF
+Port Hedland - JF
+Mount Isa - DJFM
+Mackay - NDJFMAMJ
+Townsville - DJFMA
+Charters Towers - NDJFM
+Bowen - DJFMA
+Cairns - NDJFMAM
+Broome - DJFM
+Kalumburu - NDJFM
+Halls Creek - DJFM
+Kununurra - DJFM
+Lajamanu - DJFM
+Wave Hill - DJFM
+Victoria River Downs - NDJFM
+Daly Waters - DJFM
+Tennant Creek - DJF
+Darwin - ONDJFMA
+Katherine - NDJFM
+Oenpelli - NDJFMA
+Maningrida - DJFMA
+Nhulunbuy - DJFMAM
+Burketown - DJFM
+Croydon - DJFM
+
+
+[01-Oct-18 11:13 AM] Ash#8178
+Glen Florrie
+Ashburton Downs
+Tom Price
+Wittenoom
+Newman
+Morella
+Aramac
+Rockhampton
+Roebourne
+Port Hedland
+Tanami
+Willowra
+Barrow Creek
+Utopia
+Ammaroo
+Lucy Creek
+Argadargada
+Mount Isa
+Mackay
+Townsville
+Charters Towers
+Bowen
+Innisfail
+Cairns
+Iron Range
+Moreton
+Broome
+Port Warrender
+Kalumburu
+Gibb River
+Halls Creek
+Kununurra
+Lajamanu
+Wave Hill
+Victoria River Downs
+Daly Waters
+Tennant Creek
+Darwin
+Katherine
+Oenpelli
+Mainoru
+Maningrida
+Nhulunbuy
+Burketown
+Croydon
+Vanrook
+
+
+[01-Oct-18 04:54 PM] Rat#1042
+the MMP is silly
+
+
+[01-Oct-18 04:58 PM] waltor#3519
+Get out immediately
+
+
+[01-Oct-18 05:01 PM] Rat#1042
+no
+
+
+[01-Oct-18 07:33 PM] RunasSudo#2416
+wEsT mElBoUrNe
+
+
+[07-Oct-18 05:12 PM] waltor#3519
+This channel is important
+
+
+[07-Oct-18 05:34 PM] waltor#3519
+Camooweal: 34.1mm 10kph
+Yelvertoft: 34.6mm 11kph
+Mt Isa: 34.7mm 16kph
+Selwyn: 37.3mm 19kph
+McKinlay: 36.3mm 5kph
+Tarbrax: 35.7mm 13kph
+Marathon: 36.4mm 36kph
+Hugheden: 38.3mm 43kph
+
+AVG 35.9mm 19kph
+133000m3/s
+
+
+[11-Oct-18 09:27 PM] waltor#3519
+Mountain Mob Climacti
+
+
+[11-Oct-18 09:28 PM] ChairmanMeeseeks#8399
+CSID
+
+
+[11-Oct-18 09:28 PM] ChairmanMeeseeks#8399
+how much does the hydro produce
+
+
+[11-Oct-18 09:28 PM] waltor#3519
+i dunno
+
+
+[11-Oct-18 09:28 PM] ChairmanMeeseeks#8399
+cause
+
+
+[11-Oct-18 09:28 PM] ChairmanMeeseeks#8399
+i was thinking
+
+
+[11-Oct-18 09:28 PM] ChairmanMeeseeks#8399
+i wanna build a massive fuckoff laser
+
+
+[11-Oct-18 09:29 PM] ChairmanMeeseeks#8399
+but it requires a tenth of the energy of the sun
+
+
+[11-Oct-18 09:29 PM] ChairmanMeeseeks#8399
+and i wonder if carp could help
+
+
+[11-Oct-18 09:29 PM] ChairmanMeeseeks#8399
+maybe at the least help build a fusion reactor in space
+
+
+[11-Oct-18 09:29 PM] ChairmanMeeseeks#8399
+OOOOH
+
+
+[11-Oct-18 09:29 PM] waltor#3519
+44 gigawatts
+
+
+[11-Oct-18 09:29 PM] ChairmanMeeseeks#8399
+can we have a particle accelerator in carp?
+
+
+[11-Oct-18 09:29 PM] ChairmanMeeseeks#8399
+TERRAWATTS
+
+
+[11-Oct-18 09:29 PM] ChairmanMeeseeks#8399
+THE FUCK
+
+
+[11-Oct-18 09:29 PM] waltor#3519
+no
+
+
+[11-Oct-18 09:29 PM] waltor#3519
+giga
+
+
+[11-Oct-18 09:29 PM] ChairmanMeeseeks#8399
+oh
+
+
+[11-Oct-18 09:29 PM] ChairmanMeeseeks#8399
+k
+
+
+[11-Oct-18 09:35 PM] ChairmanMeeseeks#8399
+right so thats nowhere near enough
+
+
+[11-Oct-18 09:35 PM] ChairmanMeeseeks#8399
+we need 23 to the power of 17 gigawatts
+
+
+[11-Oct-18 10:27 PM] waltor#3519
+Um no
+
+
+[15-Oct-18 07:15 AM] Deleted User#0000
+Ur mom
+
+
+[15-Oct-18 10:33 AM] Rat#1042
+The MMP is a neutral goodness
+
+
+[15-Oct-18 10:44 AM] Deleted User#0000
+hhhahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahhahahahahahhahahahaahhaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahhahahahahaahahahahahhahahaha
+
+
+[15-Oct-18 04:06 PM] Ash#8178
+....
+
+
+[15-Oct-18 04:07 PM] waltor#3519
+LieselttttaaaaToday at 11:14 AM
+hhhahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahhahahahahahhahahahaahhaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahhahahahahaahahahahahhahahaha
+LieselttttaaaaToday at 11:14 AM
+hhhahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahhahahahahahhahahahaahhaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahhahahahahaahahahahahhahahaha
+LieselttttaaaaToday at 11:14 AM
+hhhahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahhahahahahahhahahahaahhaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahhahahahahaahahahahahhahahaha
+LieselttttaaaaToday at 11:14 AM
+hhhahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahhahahahahahhahahahaahhaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahhahahahahaahahahahahhahahaha
+LieselttttaaaaToday at 11:14 AM
+hhhahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahhahahahahahhahahahaahhaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahhahahahahaahahahahahhahahaha
+LieselttttaaaaToday at 11:14 AM
+hhhahahahahahahahahahaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahhahahahahahhahahahaahhaahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahhahahahahaahahahahahhahahaha
+
+
+[26-Oct-18 09:44 PM] waltor#3519
+Carpentarian Range
+Carpentarian Reservoir
+Carpentarian Irrigation area
+Channel Country Irrigation Area
+Darling Irrigation Area Dam
+Darling Canal
+Darling Irrigation Area
+Lake Eyre Dam
+Torrens Canal
+Lake Torrens Dam
+
+Gascoyne Range
+Gascoyne Reservoir
+Gascoyne Irrigation Area
+Nullabor Canal
+Nullabor Irrigation Area
+
+
+[26-Oct-18 09:53 PM] Rat#1042
+Seaside
+
+
+[26-Oct-18 09:53 PM] Rat#1042
+I support your proposal to make the Range 99.9% air
+
+
+[26-Oct-18 09:56 PM] waltor#3519
+OK
+
+
+[26-Oct-18 09:56 PM] waltor#3519
+Well if the CSIRO does some nice research and get it up to 99.9% air it'd be nice
+
+
+[26-Oct-18 09:57 PM] waltor#3519
+But at the moment it is 99.8%
+
+
+[26-Oct-18 09:58 PM] waltor#3519
+@GenericCereal fund CSIRO pls
+
+
+[26-Oct-18 10:01 PM] waltor#3519
+Actually can we have a press release from the CSIRO
+
+
+[27-Oct-18 01:46 PM] waltor#3519
+Carpentarian Irrigation Area: 200000km2, 1/2 vertisols 1/2 leptosols, 1000mm needed
+Channel Country Irrigation Area: 700000km2, 3/7 calcisols 4/7 vertisols, 1400mm needed
+Darling Irrigation Area: 300000km2, 2/3 durisols 1/3 solonetz, 1100mm needed
+Gascoyne Irrigation Area: 600000km2, 4/6 durisols 2/6 leptosols, 1200mm needed
+Nullabor Irrigation Area: 200000km2, 1/2 leptosols 1/2 calcisols, 1000mm needed
+
+
+[27-Oct-18 02:00 PM] waltor#3519
+REINSERT SOMEWHERE ELSE
+Eucalyptus trees weight around 400kg at age 6, and can be grown at a density of 50,000 trees per km2. Eucalypt wood is worth around $60 a tonne, so every year, after 6 years, if grown properly, 2 billion tonnes of eucalyptus wood would be grown every year, worth $120 billion.
+
+
+[27-Oct-18 02:03 PM] waltor#3519
+INSERT SOMEWHERE ELSE Irrigated wheat in Australia has good yields of around 8 tonnes per hectare, and has a price of around $200/t. If the 400,000km2 of vertisols was used for wheat production, 320 million tonnes of wheat would be grown annually – worth $64 billion.
+
+
+[27-Oct-18 03:46 PM] AnswerMeNow2#5463
+mmp
+
+
+[27-Oct-18 10:37 PM] waltor#3519
+TODO - remove benefit estimates, and add in a later section
+
+
+[28-Oct-18 11:33 AM] ChairmanMeeseeks#8399
+yes father
+
+
+[28-Oct-18 11:33 AM] waltor#3519
+wtf mee6 was removed from here
+
+
+[28-Oct-18 11:33 AM] waltor#3519
+@RunasSudo readd mee6
+
+
+[28-Oct-18 11:33 AM] ChairmanMeeseeks#8399
+UGHHH THE COMMIE
+
+
+[28-Oct-18 11:33 AM] waltor#3519
+anyway
+
+
+[28-Oct-18 11:33 AM] waltor#3519
+so this is kinda how i'm doing it
+
+
+[28-Oct-18 11:34 AM] waltor#3519
+there's 2 phases, the carp and gasc
+
+
+[28-Oct-18 11:34 AM] ChairmanMeeseeks#8399
+the fuck is a gasc
+
+
+[28-Oct-18 11:34 AM] ChairmanMeeseeks#8399
+and is it edible
+
+
+[28-Oct-18 11:34 AM] waltor#3519
+for each phase, there's an overview, projects and costs in detail, and then potential benefits
+
+
+[28-Oct-18 11:34 AM] waltor#3519
+gascoyne
+
+
+[28-Oct-18 11:34 AM] RunasSudo#2416
+@MEE6 🤷
+
+
+[28-Oct-18 11:34 AM] waltor#3519
+Oh
+
+
+[28-Oct-18 11:34 AM] waltor#3519
+Thank you oh runas
+
+
+[28-Oct-18 11:34 AM] waltor#3519
+@ChairmanMeeseeks so what do you think of that format
+
+
+[28-Oct-18 11:35 AM] waltor#3519
+costs are somewhat fixed, but benefits are a bit more fluid depending on the configuration
+
+
+[28-Oct-18 11:35 AM] waltor#3519
+and also costs are for each project, but benefits come from the whole phase
+
+
+[28-Oct-18 11:36 AM] ChairmanMeeseeks#8399
+that works
+
+
+[28-Oct-18 11:37 AM] ChairmanMeeseeks#8399
+id do the various possible benefit outcomes as their own things
+
+
+[28-Oct-18 11:37 AM] ChairmanMeeseeks#8399
+so
+
+
+[28-Oct-18 11:37 AM] ChairmanMeeseeks#8399
+if we do x benefit is y
+
+
+[28-Oct-18 11:37 AM] ChairmanMeeseeks#8399
+if we do a benefit is z
+
+
+[28-Oct-18 11:37 AM] ChairmanMeeseeks#8399
+or do a ballpark estimate
+
+
+[28-Oct-18 11:37 AM] ChairmanMeeseeks#8399
+depends on how detailed you want to be
+
+
+[28-Oct-18 11:37 AM] waltor#3519
+well there'll only really be one benefit outcome since it's a bit of a waste to go through dozens of scenarios with just different crop configs
+
+
+[28-Oct-18 11:37 AM] ChairmanMeeseeks#8399
+you could just simply do your recommendation
+
+
+[28-Oct-18 11:37 AM] ChairmanMeeseeks#8399
+yeah thats fine
+
+
+[28-Oct-18 11:37 AM] ChairmanMeeseeks#8399
+ok cool
+
+
+[28-Oct-18 11:37 AM] waltor#3519
+the recommendation comes to the end
+
+
+[28-Oct-18 11:37 AM] ChairmanMeeseeks#8399
+dont forget the hydro
+
+
+[28-Oct-18 11:37 AM] waltor#3519
+*at the end
+
+
+[28-Oct-18 11:38 AM] waltor#3519
+yeah haven't forgotten
+
+
+[28-Oct-18 11:38 AM] ChairmanMeeseeks#8399
+and the city costs
+
+
+[28-Oct-18 11:38 AM] waltor#3519
+the carpentarian reservoir gives us $4b/y worth of hydro
+
+
+[28-Oct-18 11:38 AM] waltor#3519
+at $10/mWh
+
+
+[28-Oct-18 11:38 AM] ChairmanMeeseeks#8399
+yeah but whats the uhh power output
+
+
+[28-Oct-18 11:38 AM] waltor#3519
+a bit
+
+
+[28-Oct-18 11:38 AM] ChairmanMeeseeks#8399
+like is it the master solution as you hoped
+
+
+[28-Oct-18 11:39 AM] waltor#3519
+monetary benefits will go in the possible outcomes
+
+
+[28-Oct-18 11:39 AM] waltor#3519
+physical benefits i.e. hydro, crop area, will go in the project outline and costs
+
+
+[28-Oct-18 11:39 AM] waltor#3519
+uh not really
+
+
+[28-Oct-18 11:40 AM] waltor#3519
+`Given the year-round average runoff from the Carpentarian Range being 106,000m3/s and the 50m head of the reservoir, around 47gW of hydropower is possible to be made.`
+
+
+[28-Oct-18 11:46 AM] waltor#3519
+Summary of construction costs
+•    Carpentarian Range: $518 billion
+•    Carpentarian Reservoir: $20 billion
+•    Carpentarian Irrigation Area: $20 billion
+•    Channel Country Irrigation Area: $70 billion
+•    Darling Dam: $1 billion
+•    Darling Canal: $40 billion
+•    Darling Irrigation Area: $30 billion
+•    Lake Eyre Dam: $1 billion
+•    Torrens Canal: $20 billion
+•    Lake Torrens Dam: $1 billion
+•    TOTAL COST: $721 billion
+
+
+[28-Oct-18 11:48 AM] ChairmanMeeseeks#8399
+actually thats almost what Saudi arabia is spending on neom
+
+
+[28-Oct-18 11:49 AM] ChairmanMeeseeks#8399
+saudi is spending about 705 bil aud
+
+
+[28-Oct-18 11:49 AM] waltor#3519
+well this doesn't even account for the city
+
+
+[28-Oct-18 11:49 AM] waltor#3519
+I have literally no idea how to do the city
+
+
+[28-Oct-18 11:50 AM] waltor#3519
+which is mainly why I came here
+
+
+[28-Oct-18 11:50 AM] waltor#3519
+I'd think the city would be phase 3 of the Range
+
+
+[28-Oct-18 11:52 AM] waltor#3519
+@ChairmanMeeseeks do you have any ideas for it
+
+
+[28-Oct-18 11:53 AM] waltor#3519
+i literally have no idea how to calculate anything regarding manufacturing or stuff
+
+
+[28-Oct-18 11:54 AM] ChairmanMeeseeks#8399
+umm
+
+
+[28-Oct-18 11:54 AM] ChairmanMeeseeks#8399
+nope
+
+
+[28-Oct-18 11:54 AM] ChairmanMeeseeks#8399
+not really
+
+
+[28-Oct-18 11:54 AM] ChairmanMeeseeks#8399
+i trust your better judgement
+
+
+[28-Oct-18 11:54 AM] ChairmanMeeseeks#8399
+dont forget my city pla
+
+
+[28-Oct-18 11:55 AM] waltor#3519
+If the Range had 500m tall “storeys” up to 4000m and used 80% of the potential floor area, the range would have approximately 120,000 square kilometres of inhabitable floor area. If this was settled at medium density – around 5000 dwellings per square km, there would be 600 million dwellings. At a reasonable rent of $100 per week per dwelling, this would bring in around $3 trillion annually.
+
+If 2 people live in a dwelling, using 100,000 litres of water and 10,000kWh of electricity annually, 60 cubic kilometres of water and 6000tWh of electricity will be needed. This can be easily supplied by runoff from the Range (only 2000m3/s of water is needed) and a combination of solar and hydroelectric power (around 700gW is needed).
+If these 600 million people all worked an average job, earning around $80,000 annually, taxed at 20%, and contributed $50,000 to the GDP, they would produce $9.6 trillion in tax revenue, and $30 trillion to the GDP.
+
+
+[28-Oct-18 11:55 AM] waltor#3519
+i wrote this but have no idea about it
+
+
+[28-Oct-18 11:57 AM] ChairmanMeeseeks#8399
+right well
+
+
+[28-Oct-18 11:57 AM] ChairmanMeeseeks#8399
+werent you going for 10 million people?
+
+
+[28-Oct-18 11:58 AM] waltor#3519
+uh well we could fit 600 million
+
+
+[28-Oct-18 11:58 AM] waltor#3519
+and considering the impending population boom in africa, we could have mass immigration or something like that
+
+
+[28-Oct-18 11:59 AM] ChairmanMeeseeks#8399
+OH SHIT
+
+
+[28-Oct-18 11:59 AM] ChairmanMeeseeks#8399
+SORRY
+
+
+[28-Oct-18 11:59 AM] ChairmanMeeseeks#8399
+SORRY
+
+
+[28-Oct-18 11:59 AM] ChairmanMeeseeks#8399
+IM SMART
+
+
+[28-Oct-18 11:59 AM] ChairmanMeeseeks#8399
+shitty shitty shit shit
+
+
+[28-Oct-18 11:59 AM] ChairmanMeeseeks#8399
+i misread the million
+
+
+[28-Oct-18 11:59 AM] ChairmanMeeseeks#8399
+it didnt fully click
+
+
+[28-Oct-18 11:59 AM] ChairmanMeeseeks#8399
+ok wow
+
+
+[28-Oct-18 11:59 AM] ChairmanMeeseeks#8399
+uhhh
+
+
+[28-Oct-18 11:59 AM] ChairmanMeeseeks#8399
+yeah
+
+
+[28-Oct-18 11:59 AM] ChairmanMeeseeks#8399
+no thats umm
+
+
+[28-Oct-18 11:59 AM] ChairmanMeeseeks#8399
+holy shit
+
+
+[28-Oct-18 12:00 PM] waltor#3519
+we *could* fit that much
+
+
+[28-Oct-18 12:00 PM] waltor#3519
+but do we really want to?
+
+
+[28-Oct-18 12:00 PM] ChairmanMeeseeks#8399
+no
+
+
+[28-Oct-18 12:00 PM] ChairmanMeeseeks#8399
+and you have to account for suburban housing
+
+
+[28-Oct-18 12:00 PM] waltor#3519
+i think a better idea is breaking it down into 1000km2 area spaces
+
+
+[28-Oct-18 12:00 PM] ChairmanMeeseeks#8399
+it cant all be dense skyscrapers
+
+
+[28-Oct-18 12:00 PM] waltor#3519
+and design from there
+
+
+[28-Oct-18 12:00 PM] waltor#3519
+no like that isn't dense skyscrapers
+
+
+[28-Oct-18 12:01 PM] waltor#3519
+actually it might be hm
+
+
+[28-Oct-18 12:02 PM] waltor#3519
+@ChairmanMeeseeks would you think 1000 people per km2 is sensible?
+
+
+[28-Oct-18 12:02 PM] ChairmanMeeseeks#8399
+umm
+
+
+[28-Oct-18 12:02 PM] ChairmanMeeseeks#8399
+well
+
+
+[28-Oct-18 12:02 PM] waltor#3519
+that's like 1000 m2 per person
+
+
+[28-Oct-18 12:02 PM] waltor#3519
+30x30m area roughly
+
+
+[28-Oct-18 12:03 PM] waltor#3519
+probably more than enough
+
+
+[28-Oct-18 12:03 PM] ChairmanMeeseeks#8399
+well
+
+
+[28-Oct-18 12:03 PM] ChairmanMeeseeks#8399
+on average or at its most dense?
+
+
+[28-Oct-18 12:03 PM] waltor#3519
+on average
+
+
+[28-Oct-18 12:04 PM] waltor#3519
+there'd still be plenty of space
+
+
+[28-Oct-18 12:04 PM] waltor#3519
+and this is assuming we don't build up at all
+
+
+[28-Oct-18 12:04 PM] ChairmanMeeseeks#8399
+i mean yeah that sounds fine
+
+
+[28-Oct-18 12:04 PM] waltor#3519
+how much do houses actually cost to build him
+
+
+[28-Oct-18 12:04 PM] waltor#3519
+hm
+
+
+[28-Oct-18 12:04 PM] ChairmanMeeseeks#8399
+as i said, in order to do roughly 20 mil you want a whole bunch of skyscrapers coupled in with small homes
+
+
+[28-Oct-18 12:05 PM] ChairmanMeeseeks#8399
+you could also reserve it for manufacturing
+
+
+[28-Oct-18 12:05 PM] waltor#3519
+you could do way more than 20 mil
+
+
+[28-Oct-18 12:05 PM] ChairmanMeeseeks#8399
+yeah you also need to account for commercial space
+
+
+[28-Oct-18 12:05 PM] waltor#3519
+there's still 6000m of space above that could be used for manufacturing
+
+
+[28-Oct-18 12:05 PM] ChairmanMeeseeks#8399
+so peoples jobs etc
+
+
+[28-Oct-18 12:05 PM] ChairmanMeeseeks#8399
+like office towers
+
+
+[28-Oct-18 12:05 PM] ChairmanMeeseeks#8399
+malls
+
+
+[28-Oct-18 12:05 PM] waltor#3519
+it's uninhabitable for humans, but machines could work up there, and humans oversee them from below
+
+
+[28-Oct-18 12:05 PM] waltor#3519
+hm
+
+
+[01-Nov-18 06:16 PM] waltor#3519
+DP 4.5
+0km - 35.1c 15% 5.208g/kg 
+1km - 25.3c 26%
+2km - 15.5c 48%
+3km - 5.7c 92%
+3.1km - 4.5c 100% 5.208g/kg MLR 5.9c/km
+4km - -0.8c 100% 3.559g/kg MLR 6.6c/km
+5km - -7.4c 100% 2.164g/kg MLR 7.4c/km
+6km - -14.8 100% 1.197g/kg MLR  8.2c/km
+7km - -23.0 100% 0.593g/kg MLR 8.8c/km
+8km - -31.8 100% 0.262g/kg MLR 9.3c/km
+9km - -41.1 100% 0.103g/kg MLR 9.6c/km
+10km - -50.7c 0% (effectively)
+9km - -40.9c
+8km - -31.1c
+7km - -21.3c
+6km - -11.5c
+5km - -1.7c
+4km - 8.1c
+3km - 17.9c
+2km - 27.7c
+1km - 37.5c
+0km - 47.3c
+
+
+[02-Nov-18 06:01 PM] waltor#3519
+Range - Windward, Summit, Leeward
+
+Carpentarian Range - Cloncurry, Summit, Mount Isa
+Gascoyne Range - Newman, Summit, Leeward
+
+
+[02-Nov-18 06:49 PM] waltor#3519
+Melbourne Olympic Park
+
+Record high: 37.8 36.0 33.5 28.1 20.5 19.0 18.1 20.1 30.6 30.9 25.8 37.6
+Average high: 26.5 25.9 26.9 20.8 17.2 14.9 14.5 14.8 17.8 20.7 25.9 25.0
+Average low: 16.4 14.8 16.4 12.3 9.2 6.8 6.6 7.4 9.0 11.1 14.9 15.3
+Record low: 11.0 10.0 10.1 8.2 5.6 3.4 0.8 3.1 3.7 6.8 6.4 10.8
+Rainfall: 31.6 40.2 26.4 123.4 25.0 16.8 30.4 53.8 39.6 40.4 46.0 128.4
+
+
+[02-Nov-18 06:56 PM] waltor#3519
+Summer: 313mm
+Winter: 289mm
+
+
+[02-Nov-18 06:56 PM] waltor#3519
+roughly even
+
+
+[02-Nov-18 09:34 PM] waltor#3519
+Jan high - cloncurry windward
+0 36.7c 35% 13.319g/kg (DP 18.5)
+1 26.9c 60% 
+1.9 18.5c 100% (LR 8.4c/km)
+2 17.7c 100% 12.628g/kg (LR 8.4c/km)
+3 9.3c 100% 7.258g/kg (LR 8.9c/km)
+4 0.4c 100% 3.885g/kg (LR 9.2c/km)
+5 -8.8c 100% 1.940g/kg (LR 9.5c/km)
+6 -18.3c 100% 0.893g/kg (LR 9.6c/km)
+7 -27.9c 100% 0.380g/kg (LR 9.7c/km)
+8 -37.6c 100% 0.148g/kg (LR 9.7c/km)
+9 -47.3c 100% 0.052g/kg (LR 9.8c/km = DLR)
+10 -57.1c 100% 0.016g/kg
+9 -47.3c 31%
+8 -37.5c 11%
+7 -27.7c 4%
+6 -17.9c 2%
+5 -8.1c 1%
+4 1.7c 0%
+3 11.5c
+2 21.3c
+1 31.1c
+0 40.9c
+
+
+[02-Nov-18 09:36 PM] waltor#3519
+I will do one more because I hate myself
+
+
+[02-Nov-18 09:52 PM] waltor#3519
+Jan low - cloncurry windward
+0 24.9c 74% 14.549g/kg (DP 19.9c)
+0.5 19.9c 100% 14.549g/kg (LR 8.3c/km)
+1 15.7c 100% 11.100g/kg (LR 8.6c/km)
+2 7.1c 100% 6.243g/kg (LR 9.0c/km)
+3 -1.9c 100% 3.281g/kg (LR 9.3c/km)
+4 -11.2 100% 1.604g/kg (LR 9.5c/km)
+5 -20.7 100% 0.726g/kg (LR 9.6c/km)
+6 -30.3 100% 0.303g/kg (LR 9.7c/km)
+7 -40.0 100% 0.115g/kg (LR 9.7c/km)
+8 -49.7c 100% 0.040g/kg (LR 9.8c/km = DLR)
+9 -59.5c 100% 0.012g/kg
+10 -69.3c 100% 0.003g/kg
+9 -59.5 27%
+8 -49.7c 8%
+7 -39.9c 3%
+6 -30.1c 1%
+5 -20.3c 0%
+4 -10.5c
+3 -0.7c
+2 9.1c
+1 18.9c
+0 28.7c
+
+
+[02-Nov-18 09:53 PM] waltor#3519
+https://www.fxsolver.com/browse/formulas/Saturated+Adiabatic+Lapse+Rate
+
+{Embed}
+https://www.fxsolver.com/browse/formulas/Saturated+Adiabatic+Lapse+Rate
+Saturated Adiabatic Lapse Rate - calculator
+The lapse rate is defined as the rate at which atmospheric temperature decreases with increase in altitude. The terminology arises from the word lapse in the sense of a decrease or decline. While most often applied to Earth's troposphere, the concept can be extended to any gr...
+https://images-ext-2.discordapp.net/external/D30zW_o0rRt6U_N_jwDmqG1mfAt03gHfmvNSPvycLnU/https/www.fxsolver.com/s/img/logo-large.png
+
+
+[02-Nov-18 09:53 PM] waltor#3519
+https://www.ready.noaa.gov/READYmoistcal.php
+
+
+[02-Nov-18 09:53 PM] waltor#3519
+http://www.bom.gov.au/climate/averages/tables/cw_029141_All.shtml
+
+
+[02-Nov-18 09:53 PM] waltor#3519
+http://www.bom.gov.au/climate/averages/tables/cw_029127_All.shtml
+
+
+[02-Nov-18 09:53 PM] waltor#3519
+https://docs.google.com/spreadsheets/d/13gy2yiOaEqVLHlwqFSYmSrpQEuA5by9omeC_LZp0B_c/edit?usp=sharing
+
+{Embed}
+https://docs.google.com/spreadsheets/d/13gy2yiOaEqVLHlwqFSYmSrpQEuA5by9omeC_LZp0B_c/edit?usp=sharing
+Untitled spreadsheet
+Sheet1
+
+
+ Wind direction, Northerly, Neutral-north, Neutral-north, Neutral-south, Southerly, Southerly, Southerly, Southerly, Neutral-south, Neutral-north, Neutral-north, Northerly
+ CLONCURRY, Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec
+ Average high, 36. 7, 36...
+https://images-ext-1.discordapp.net/external/CZgLV3OGzF1RMAHuNKWM2NntP5jfBI1nGqbjBwUNDto/https/lh5.googleusercontent.com/cYpqGqFLWh7WfZDIgDftc5ThuRRK3lTJ3YUP7KYM3IAxdTUEjd3sU5CGKypSha1CUg_2SQ%3Dw1200-h630-p
+
+
+[09-Nov-18 05:29 PM] Deleted User#0000
+HEIL HITLER
+
+
+[09-Nov-18 05:29 PM] Deleted User#0000
+THE GREAT JEW
+
+
+[09-Nov-18 05:30 PM] Ash#8178
+Wtf
+
+
+[09-Nov-18 05:30 PM] Deleted User#0000
+shut up ash
+
+
+[09-Nov-18 05:30 PM] Deleted User#0000
+you aryan
+
+
+[09-Nov-18 05:33 PM] Ash#8178
+You play with them balls like it’s fifa
+
+
+[09-Nov-18 05:33 PM] ChairmanMeeseeks#8399
+Oh shit we got a code vermillion
+
+
+[09-Nov-18 05:33 PM] ChairmanMeeseeks#8399
+initiate operation vengeful turkish fursuit
+
+
+[09-Nov-18 05:35 PM] Deleted User#0000
+.
+
+
+[09-Nov-18 05:59 PM] waltor#3519
+Get the fuck out you troglodyte
+
+
+[09-Nov-18 06:00 PM] waltor#3519
+You're not funny in any way
+
+
+[20-Nov-18 09:38 PM] waltor#3519
+250,000km2 durisols - corn
+120,000km2 tropical leptosols - sugarcane
+160,000km2 temperate leptosols - grazing
+125,000km2 solonetz - wheat
+80,000km2 calcisols - wheat
+
+
+[23-Nov-18 12:46 PM] Deleted User#0000
+mountain mob jews
+
+
+[23-Nov-18 04:22 PM] waltor#3519
+I'll fucken castrate you with a rusty carburettor
+
+
+[23-Nov-18 04:30 PM] Ash#8178
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/515406160648601602/image0.png
+
+
+[11-Dec-18 01:31 PM] Rat#1042
+@waltor I have become a member of the mountain mob
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/521884154674020372/unknown.png
+
+
+[11-Dec-18 01:34 PM] waltor#3519
+Good rat
+
+
+[11-Dec-18 01:52 PM] BHjr132#2979
+Good rat
+
+
+[11-Dec-18 01:59 PM] waltor#3519
+This poll will probably determine whether the MMP will be a MMC thing or whether I just introduce the MMP bill
+
+
+[01-Jan-19 11:23 AM] waltor#3519
+Mountain Mob
+
+
+[01-Jan-19 11:24 AM] BHjr132#2979
+MMP
+
+
+[01-Jan-19 11:24 AM] waltor#3519
+@Plupsnup OK
+
+
+[01-Jan-19 11:24 AM] waltor#3519
+it is a very ambitious and probably insane plan, but it has turned out half viable
+
+
+[01-Jan-19 11:24 AM] waltor#3519
+We have spent many months looking at things and figuring out if it is viable or not
+
+
+[01-Jan-19 11:25 AM] Plupsnup#9685
+What is it?
+
+
+[01-Jan-19 11:25 AM] waltor#3519
+And shockingly it looks like it will work
+
+
+[01-Jan-19 11:27 AM] waltor#3519
+A mountain range constructed up north (round Mount Isa) produces rainfall
+
+
+[01-Jan-19 11:27 AM] waltor#3519
+This rain is dammed, and sent north or south or whatever direction it's needed
+
+
+[01-Jan-19 11:27 AM] waltor#3519
+Since the range is just about on a catchment boundary
+
+
+[01-Jan-19 11:28 AM] waltor#3519
+Enormous agricultural potential from all this water
+
+
+[01-Jan-19 11:28 AM] waltor#3519
+Inland Australia isn't inherently unfarmable, it just does not have enough water
+
+
+[01-Jan-19 11:29 AM] waltor#3519
+https://drive.google.com/open?id=1LMXKdph23wfjRQP0_4sPPmVGPf0Y81JG&usp=sharing
+
+
+[01-Jan-19 11:30 AM] waltor#3519
+that's the whole thing
+
+
+[01-Jan-19 11:30 AM] waltor#3519
+There is a badly written report that I will probably need to revise
+
+
+[01-Jan-19 11:30 AM] Plupsnup#9685
+How much will it cost to make?  @waltor
+
+
+[01-Jan-19 11:30 AM] waltor#3519
+sorry i'm a bit slow, just gotten back from perth, checking notes now
+
+
+[01-Jan-19 11:31 AM] waltor#3519
+and my internet has close to carked it
+
+
+[01-Jan-19 11:32 AM] waltor#3519
+Phase 1 costs $662 billion, creates 1.2 million jobs, adds $910 billion to the GDP, and $121 billion of annual revenue to the government entity that oversees the whole thing (the Mountain Mob Corporation)
+
+
+[01-Jan-19 11:37 AM] waltor#3519
+these are calculated figures, and while they may not be terribly accurate they are far from guesses
+
+
+[01-Jan-19 11:37 AM] Plupsnup#9685
+Holy shit
+
+
+[01-Jan-19 11:38 AM] Plupsnup#9685
+That's amazing
+
+
+[01-Jan-19 11:38 AM] Plupsnup#9685
+A canal to Lake Eyre is cheaper, only costs $20 billion
+
+
+[01-Jan-19 11:39 AM] waltor#3519
+job numbers are probably the shakiest
+
+
+[01-Jan-19 11:39 AM] waltor#3519
+but yeah was a bit of a shock when some fever daydream idea turned out viable
+
+
+[01-Jan-19 11:39 AM] waltor#3519
+holy kek my internet is playing up
+
+
+[01-Jan-19 11:40 AM] waltor#3519
+will defs be able to talk alter, have to do irl stuff
+
+
+[01-Jan-19 11:40 AM] waltor#3519
+hopefully it recovers, cya
+
+
+[01-Jan-19 11:58 AM] ChairmanMeeseeks#8399
+Actually im pretty sure it literally includes some kind of river thing to near lake eyre @Plupsnup
+
+
+[01-Jan-19 11:58 AM] waltor#3519
+.
+
+
+[01-Jan-19 11:59 AM] ChairmanMeeseeks#8399
+does it not?
+
+
+[01-Jan-19 11:59 AM] waltor#3519
+oop
+
+
+[01-Jan-19 11:59 AM] ChairmanMeeseeks#8399
+i remember seeing that
+
+
+[01-Jan-19 11:59 AM] ChairmanMeeseeks#8399
+in the repor
+
+
+[01-Jan-19 11:59 AM] waltor#3519
+yeah has some canal system to get ships from pt augusta to lake eyre, some canals
+
+
+[01-Jan-19 11:59 AM] waltor#3519
+also lake torrens and lake eyre will be desalinated so they are actually useable
+
+
+[01-Jan-19 11:59 AM] ChairmanMeeseeks#8399
+oh shit lmao there we go
+
+
+[01-Jan-19 12:04 PM] ChairmanMeeseeks#8399
+@waltor see
+
+
+[01-Jan-19 12:04 PM] ChairmanMeeseeks#8399
+now i can't use twitter, canon, general or generaler
+
+
+[01-Jan-19 12:04 PM] ChairmanMeeseeks#8399
+now if i unban
+
+
+[01-Jan-19 12:04 PM] ChairmanMeeseeks#8399
+?banme
+
+
+[01-Jan-19 12:04 PM] waltor#3519
+?banme
+
+
+[01-Jan-19 12:05 PM] waltor#3519
+.
+
+
+[01-Jan-19 12:05 PM] ChairmanMeeseeks#8399
+?unbanme
+
+
+[01-Jan-19 12:05 PM] waltor#3519
+Oh this is epic
+
+
+[01-Jan-19 12:05 PM] ChairmanMeeseeks#8399
+?banme
+
+
+[01-Jan-19 12:29 PM] Plupsnup#9685
+We have some new people
+
+
+[01-Jan-19 01:57 PM] Plupsnup#9685
+How does the Nullabor River work?
+
+
+[01-Jan-19 02:01 PM] waltor#3519
+It flows from the Gascoyne Reservoir to Lake Eyre along a path that naturally flows downhill
+
+
+[01-Jan-19 02:02 PM] waltor#3519
+Some minor works will probably have to be done, but bar that it flows all the way fine
+
+
+[01-Jan-19 02:23 PM] AnswerMeNow2#5463
+@waltor How do we pay for it?
+
+
+[01-Jan-19 02:23 PM] waltor#3519
+Magic
+
+
+[01-Jan-19 02:24 PM] waltor#3519
+No probably bonds
+
+
+[01-Jan-19 02:36 PM] waltor#3519
+This place is like a messy office
+
+
+[01-Jan-19 02:36 PM] waltor#3519
+Disregard many of the messages
+
+
+[02-Jan-19 05:51 AM] Plupsnup#9685
+Maybe me get large loan from either the  US, EU or China. That can pay for it
+
+
+[02-Jan-19 11:37 AM] waltor#3519
+Unsecured bonds would not have us quite as economically in the shit and anyone could buy them - china, the eu, the us, rich people, working Australians
+
+
+[02-Jan-19 11:38 AM] waltor#3519
+It probably would not work canonically unless a good prospectus was written and there were media releases about interest in the bonds
+
+
+[02-Jan-19 11:49 AM] ChairmanMeeseeks#8399
+There's no way anyone has one trillion dollars they can loan
+
+
+[02-Jan-19 11:50 AM] ChairmanMeeseeks#8399
+And there's no way you'd wanna loan from China
+
+
+[02-Jan-19 11:50 AM] ChairmanMeeseeks#8399
+You know what they do with infrastructure loans
+
+
+[02-Jan-19 11:50 AM] AnswerMeNow2#5463
+Fair point
+
+
+[02-Jan-19 11:51 AM] waltor#3519
+this is why unsecured bonds
+
+
+[02-Jan-19 11:52 AM] waltor#3519
+probably would still fuck us over in every other way if it didnt pay back
+
+
+[02-Jan-19 12:22 PM] Plupsnup#9685
+Where is does all the dirt and rock to build the mountains come from?
+
+
+[02-Jan-19 12:23 PM] Deleted User#0000
+It's 98% hot air
+
+
+[02-Jan-19 12:23 PM] Plupsnup#9685
+@Deleted User What?
+
+
+[02-Jan-19 12:23 PM] Deleted User#0000
+Yes
+
+
+[02-Jan-19 12:23 PM] Deleted User#0000
+Read the report
+
+
+[02-Jan-19 12:23 PM] Plupsnup#9685
+I don't understand
+
+
+[02-Jan-19 12:23 PM] waltor#3519
+It is 99.8% air inside
+
+
+[02-Jan-19 12:23 PM] waltor#3519
+Thanks to the strength of carbon nanotube it can be hollow
+
+
+[02-Jan-19 12:24 PM] Plupsnup#9685
+Does anyone have any link to the report?
+
+
+[02-Jan-19 12:24 PM] waltor#3519
+u
+
+
+[02-Jan-19 12:24 PM] waltor#3519
+h
+
+
+[02-Jan-19 12:24 PM] waltor#3519
+let me find
+
+
+[02-Jan-19 12:24 PM] waltor#3519
+not extremely well written, but outlines the basic estimation methods
+
+
+[02-Jan-19 12:25 PM] waltor#3519
+if anything is objectionable please say so so it can be revised for the next edition
+
+
+[02-Jan-19 12:25 PM] waltor#3519
+https://docs.google.com/document/d/1OsajEMQQ2nzPDUvuMYgJ5TpQnKqGRfOWviEklLKoa_M/edit#
+
+{Embed}
+https://docs.google.com/document/d/1OsajEMQQ2nzPDUvuMYgJ5TpQnKqGRfOWviEklLKoa_M/edit
+Mountain Mob Plan Report
+Mountain Mob Plan Report A report on the economic and environmental viability of the Mountain Mob Plan Image: Artist’s conception of the Carpentarian Irrigation Area (M: some things may be edited if errors are found) Executive summary The Mountain Mob Plan is an enormous in...
+https://images-ext-2.discordapp.net/external/uXnTTt6vx6sVwiycsS3hf1ZaKND8AGZch7wDg6aSbas/https/lh3.googleusercontent.com/cp345xNBkT5DcZdhPvDAN4G1xTUDRjyJ65hlnzLE2qnwQ4yUxihILz0FvVXLhgmsi8S0iA%3Dw1200-h630-p
+
+
+[02-Jan-19 04:27 PM] Plupsnup#9685
+I have an idea, why not civilians voluntarily have their tax increases? That's get funding
+
+
+[02-Jan-19 04:27 PM] Plupsnup#9685
+*That'd
+
+
+[02-Jan-19 04:28 PM] waltor#3519
+Or they could buy bonds
+
+
+[02-Jan-19 04:28 PM] Plupsnup#9685
+What are bonds? @waltor
+
+
+[02-Jan-19 04:29 PM] waltor#3519
+"Bonds are loans, or IOUs, but you serve as the bank. You loan your money to a company, a city, the government – and they promise to pay you back in full, with regular interest payments. A city may sell bonds to raise money to build a bridge, while the federal government issues bonds to finance its spiraling debts."
+
+
+[02-Jan-19 04:29 PM] Plupsnup#9685
+Ok
+
+
+[02-Jan-19 04:29 PM] Plupsnup#9685
+That sounds better
+
+
+[02-Jan-19 04:29 PM] Plupsnup#9685
+How about both at the same time?
+
+
+[02-Jan-19 04:30 PM] waltor#3519
+Well there's not much point
+
+
+[02-Jan-19 04:30 PM] waltor#3519
+But i guess we could accept donations
+
+
+[02-Jan-19 04:30 PM] Plupsnup#9685
+Yeah
+
+
+[02-Jan-19 04:30 PM] waltor#3519
+I wouldn't expect there to be much however
+
+
+[02-Jan-19 04:31 PM] Plupsnup#9685
+Donations from rich people 🤑
+
+
+[02-Jan-19 04:31 PM] waltor#3519
+kek
+
+
+[02-Jan-19 06:44 PM] Plupsnup#9685
+How about we tax fossil fuels. People will switch to clean energy
+
+
+[02-Jan-19 06:53 PM] ChairmanMeeseeks#8399
+I mean thats a carbon tax aint it
+
+
+[02-Jan-19 07:10 PM] waltor#3519
+None of this is anywhere near enough to pay for it
+
+
+[02-Jan-19 07:10 PM] waltor#3519
+Bonds are the only option
+
+
+[03-Jan-19 10:23 AM] Plupsnup#9685
+@ChairmanMeeseeks Could you introduce a Mountain Mob bill? Since your apart of the government
+
+
+[03-Jan-19 10:31 AM] Deleted User#0000
+there will be no MMP bill.
+
+
+[03-Jan-19 10:31 AM] Deleted User#0000
+from the LC
+
+
+[03-Jan-19 10:31 AM] Deleted User#0000
+I think
+
+
+[03-Jan-19 10:31 AM] Deleted User#0000
+nor CA
+
+
+[03-Jan-19 10:32 AM] Deleted User#0000
+ask a Liberal to
+
+
+[03-Jan-19 10:40 AM] BHjr132#2979
+v sad
+
+
+[03-Jan-19 10:40 AM] BHjr132#2979
+youma has the mountains on lockdown
+
+
+[03-Jan-19 10:41 AM] ChairmanMeeseeks#8399
+Both Youma and tbyrn are anti it
+
+
+[03-Jan-19 10:42 AM] BHjr132#2979
+lets spill then
+
+
+[03-Jan-19 10:42 AM] BHjr132#2979
+CM prime minister
+
+
+[03-Jan-19 10:52 AM] Youmaton#1190
+:yeahok:
+
+
+[03-Jan-19 01:15 PM] BHjr132#2979
+Why are you here
+
+
+[03-Jan-19 01:31 PM] Ash#8178
+The liberals endorse the MMP
+
+
+[03-Jan-19 01:32 PM] Plupsnup#9685
+@Ash Good
+
+
+[03-Jan-19 01:34 PM] Ash#8178
+@BHjr132 spill Youma
+
+
+[03-Jan-19 01:34 PM] Ash#8178
+Pussy, no balls
+
+
+[03-Jan-19 02:30 PM] waltor#3519
+Pls not now
+
+
+[03-Jan-19 02:30 PM] waltor#3519
+I was not part of this
+
+
+[10-Jan-19 12:20 PM] waltor#3519
+Melbourne-Sydney: 9.1m
+Brisbane-Sydney: 4.7m
+Brisbane-Melbourne: 3.5m
+Gold Coast-Sydney: 2.7m
+Adelaide-Melbourne: 2.5m
+Gold Coast-Melbourne: 2.0m
+Adelaide-Sydney: 1.9m
+Brisbane-Cairns: 1.4m
+Canberra-Melbourne: 1.1m
+Cairns-Sydney: 1.1m
+Brisbane-Townsville: 1.0m
+Canberra-Sydney: 0.9m
+Adelaide-Brisbane: 0.8m
+Cairns-Melbourne: 0.8m
+Brisbane-Mackay: 0.7m
+Brisbane-Canberra: 0.6m
+Sunshine Coast-Sydney: 0.6m
+Brisbane-Rockhampton: 0.5m
+Melbourne-Sunshine Coast: 0.5m
+Melbourne-Newcastle: 0.5m
+
+
+[10-Jan-19 12:22 PM] waltor#3519
+9.1 million passengers
+
+
+[10-Jan-19 12:59 PM] waltor#3519
+72 people per car per floor
+
+
+[10-Jan-19 01:02 PM] waltor#3519
+Melbourne-Sydney: 25k
+Brisbane-Sydney: 13k
+Brisbane-Melbourne: 10k
+Gold Coast-Sydney: 7k
+Adelaide-Melbourne:7k
+Gold Coast-Melbourne: 5k
+Adelaide-Sydney: 5k
+Brisbane-Cairns: 4k
+Canberra-Melbourne: 3k
+Cairns-Sydney: 3k
+Brisbane-Townsville: 3k
+Canberra-Sydney: 2k
+Adelaide-Brisbane: 2k
+Cairns-Melbourne: 2k
+Brisbane-Mackay: 2k
+Brisbane-Canberra: 2k
+Sunshine Coast-Sydney: 2k
+Brisbane-Rockhampton: 1k
+Melbourne-Sunshine Coast: 1k
+Melbourne-Newcastle: 1k
+
+
+[10-Jan-19 01:05 PM] waltor#3519
+14 cars
+
+
+[10-Jan-19 01:05 PM] waltor#3519
+7 cars
+
+
+[10-Jan-19 01:05 PM] waltor#3519
+5 double deck cars, 4 single deck cars with automobiles
+
+
+[10-Jan-19 01:06 PM] waltor#3519
+4 cars will travel per automobile car
+
+
+[10-Jan-19 01:08 PM] waltor#3519
+Minimum 1 train daily, maximum 1 train every hour
+
+
+[10-Jan-19 01:16 PM] waltor#3519
+at 350kph
+
+Melbourne-Sydney: 141m yes
+Brisbane-Sydney: 141m yes
+Gold Coast-Sydney: 127m yes
+Adelaide-Melbourne: 117m yes
+Canberra-Melbourne: 109m yes
+Canberra-Sydney: 52m yes
+Brisbane-Mackay: 145m yes
+Sunshine Coast-Sydney: 155m yes
+Brisbane-Rockhampton: 96m yes
+
+
+[10-Jan-19 01:28 PM] waltor#3519
+annual ridership: max 22.8m
+
+
+[10-Jan-19 01:32 PM] waltor#3519
+Melbourne-Sydney: 77% 7.0m
+Brisbane-Sydney: 77% 3.6m
+Gold Coast-Sydney: 81% 2.2m
+Adelaide-Melbourne: 83% 2.1m
+Canberra-Melbourne: 85% 0.9m
+Canberra-Sydney: 93% 0.8m
+Brisbane-Mackay: 76% 0.5m
+Sunshine Coast-Sydney: 73% 0.4m
+Brisbane-Rockhampton: 88% 0.4m
+
+
+[10-Jan-19 01:35 PM] waltor#3519
+probable ridership: 17.9m
+
+
+[10-Jan-19 07:15 PM] ChairmanMeeseeks#8399
+@waltor what in godsname are you doing
+
+
+[10-Jan-19 07:16 PM] waltor#3519
+Ohhh there's a transport channel too
+
+
+[10-Jan-19 07:17 PM] ChairmanMeeseeks#8399
+no but what in gods name are you doing
+
+
+[10-Jan-19 07:21 PM] waltor#3519
+Halal Snack Rail ridership calculations
+
+
+[10-Jan-19 07:21 PM] waltor#3519
+And holy shit would it not support itself
+
+
+[10-Jan-19 07:24 PM] ChairmanMeeseeks#8399
+.
+
+
+[10-Jan-19 07:24 PM] ChairmanMeeseeks#8399
+ok csid
+
+
+[10-Jan-19 07:24 PM] ChairmanMeeseeks#8399
+here's the thing
+
+
+[10-Jan-19 07:24 PM] waltor#3519
+OR idk it might
+
+
+[10-Jan-19 07:24 PM] ChairmanMeeseeks#8399
+TRAINS BORING
+
+
+[10-Jan-19 07:24 PM] ChairmanMeeseeks#8399
+MONORAIL
+
+
+[10-Jan-19 07:24 PM] waltor#3519
+Your argument is literally that they are boring
+
+
+[10-Jan-19 07:24 PM] waltor#3519
+Trains are cool
+
+
+[10-Jan-19 07:24 PM] waltor#3519
+400kph
+
+
+[10-Jan-19 07:25 PM] ChairmanMeeseeks#8399
+why not 800
+
+
+[10-Jan-19 07:25 PM] ChairmanMeeseeks#8399
+hyperloop
+
+
+[10-Jan-19 07:25 PM] ChairmanMeeseeks#8399
+baddabing
+
+
+[10-Jan-19 07:26 PM] ChairmanMeeseeks#8399
+get fucked
+
+
+[10-Jan-19 07:26 PM] waltor#3519
+Hyperloop is elon musk filth
+
+
+[10-Jan-19 07:26 PM] waltor#3519
+We cannot allow it
+
+
+[10-Jan-19 07:32 PM] Deleted User#0000
+Hyperloop is cancer
+
+
+[10-Jan-19 07:33 PM] waltor#3519
+This
+
+
+[08-Feb-19 04:06 PM] waltor#3519
+
+{Attachments}
+https://cdn.discordapp.com/attachments/468994639462924321/543304017544085506/6c28b9428b719a4d82832133297a578aa58b4100.webp
+
+
+[08-Feb-19 05:06 PM] waltor#3519
+@Harold were you good at maths
+
+
+[02-Mar-19 12:12 PM] waltor#3519
+Why is youma here
+
+
+[02-Mar-19 12:13 PM] Deleted User#0000
+Youmatown
+
+
+[02-Mar-19 12:18 PM] Youmaton#1190
+@waltor you added me
+
+
+[02-Mar-19 12:19 PM] waltor#3519
+Ok
+
+
+[02-Mar-19 12:44 PM] ChairmanMeeseeks#8399
+wew
+
+
+[04-Mar-19 06:19 PM] waltor#3519
+OK time to see how the wind works
+
+
+[04-Mar-19 06:22 PM] Rat#1042
+*whistling noise in the air*
+
+
+[04-Mar-19 06:22 PM] waltor#3519
+January - Monsoon
+February - Monsoon
+March - Monsoon
+April - Builddown
+May - Dry
+June - Dry
+July - Dry
+August - Dry
+September - Buildup
+October - Buildup
+November - Monsoon
+December - Monsoon
+
+
+[06-Mar-19 06:31 PM] waltor#3519
+Buildup - avg 500mm
+Dry - avg 100mm
+Monsoon - 5000mm
+
+
+[10-Mar-19 04:36 PM] waltor#3519
+Clarence River, 700m, 160m3/s
+Fitzroy River (QLD), 900m, 187m3/s
+Burdekin River, 1.7km, 380m3/s
+Daintree River, 300m, 40m3/s
+
+
+[13-Mar-19 05:46 PM] Deleted User#0000
+hi
+
+
+[13-Mar-19 05:49 PM] waltor#3519
+Why are you doing this to me
+
+
+[13-Mar-19 05:49 PM] waltor#3519
+This is my lifes work
+
+
+[13-Mar-19 05:49 PM] Ash#8178
+He left
+
+
+[13-Mar-19 05:49 PM] waltor#3519
+The stuff in here is of little value and does not come close to the true depth of the MMP
+
+
+[13-Mar-19 05:49 PM] waltor#3519
+The true MMP is something that is so shockingly powerful it could work in real life
+
+
+[13-Mar-19 06:11 PM] waltor#3519
+NKG supports MMP
+
+
+[13-Mar-19 06:11 PM] waltor#3519
+CASE CLOSED
+
+
+[16-Mar-19 08:55 PM] waltor#3519
+WOrm
+
+
+[22-Mar-19 02:43 PM] waltor#3519
+Carpentarian Irrigation Area Climate
+
+CLONCURRY (Foothills)
+Dry: 15-25, 50mm
+Buildup: 20-35, 500mm
+Wet: 25-30, 5000mm
+Builddown: 20-30, 500mm
+
+DONORS HILL (Inland)
+Dry: 15-30, 10mm
+Buildup: 20-40, 100mm
+Wet: 25-35, 300mm
+Builddown, 20-30, 100mm
+
+BURKETOWN (Coastal)
+Dry: 15-30, 10mm
+Buildup: 20-35, 100mm
+Wet: 25-30, 500mm
+Builddown: 20-30, 100mm
+
+
+[22-Mar-19 02:59 PM] waltor#3519
+January - Monsoon
+February - Monsoon
+March - Monsoon
+April - Builddown
+May - Dry
+June - Dry
+July - Dry
+August - Dry
+September - Buildup
+October - Buildup
+November - Monsoon
+December - Monsoon
+
+(Monsoon begins 1 month early inland and coastal)
+
+
+[22-Mar-19 05:44 PM] Ash#8178
+Ok
+
+
+==============================================================
+Exported 1,721 message(s)
+==============================================================

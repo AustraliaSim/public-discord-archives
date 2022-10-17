@@ -1,0 +1,2163 @@
+==============================================================
+Guild: AustraliaSim
+Channel: +archives 2 / minecraft
+==============================================================
+
+[10-May-21 12:59 PM] Youmaton#1190
+Hia everyone,
+
+We are hoping to get the server open tonight (if things go all according to plan).
+
+
+[10-May-21 01:00 PM] Youmaton#1190 (pinned)
+Server Details:
+
+IP: TBA
+
+Modpack: 1.12.2 pack - https://www.technicpack.net/modpack/the-1122-pack.1406454
+
+Launcher: Twitch or Technic
+
+
+[10-May-21 01:00 PM] Youmaton#1190
+Pinned a message.
+
+
+[10-May-21 01:00 PM] Youmaton#1190
+-
+
+
+[10-May-21 01:01 PM] Youmaton#1190
+Do note that the 1.12.2 pack is a big pack, so it will be worth downloading it before we begin if you wish to take part. This is a test of things and seeing how many people would be interested, if there are enough people wanting to play but unable to play this specific pack we can always move across to a different one.
+
+
+[10-May-21 01:01 PM] Youmaton#1190
+@deleted-role
+
+
+[10-May-21 01:04 PM] Deleted User#0000
+Oooooo
+
+
+[10-May-21 01:04 PM] Lach#9842
+oh jeez, that's a big modpack
+
+
+[10-May-21 01:04 PM] Deleted User#0000
+IC2 and Buildcraft 😍
+
+
+[10-May-21 01:05 PM] Plupsnup#9685
+Bruh
+
+
+[10-May-21 01:05 PM] Perekai#6805
+I'll try get the server up tonight, though keep in mind that the IP address will not be static, and will change each time it restarts. 
+I'll try implement a status return in this channel so that it will tell you what the new IP is each time.
+
+I'll keep ya all posted 👍
+
+{Reactions}
+👍 (3) 
+
+[10-May-21 01:22 PM] Lach#9842
+aight time to see if i can even run this thing lol
+
+
+[10-May-21 01:32 PM] Lach#9842
+Took 10 minutes just to get from launch to the main menu :agony:
+
+
+[10-May-21 01:40 PM] дётrivøre#5054
+F
+
+
+[10-May-21 01:41 PM] Plupsnup#9685
+This is so big
+
+
+[10-May-21 01:41 PM] Plupsnup#9685
+Can't we just play vanilla?
+
+
+[10-May-21 01:46 PM] Lach#9842
+omg, the menus hurt my eyes lol
+
+
+[10-May-21 01:46 PM] Plupsnup#9685
+yea
+
+
+[10-May-21 01:46 PM] Plupsnup#9685
+I'm not interested in playing this
+
+
+[10-May-21 01:46 PM] Plupsnup#9685
+sorry Youma
+
+
+[10-May-21 01:56 PM] Youmaton#1190
+have removed you
+
+
+[10-May-21 01:56 PM] Youmaton#1190
+@NotGriffonomics would you be interested?
+
+
+[10-May-21 02:00 PM] kyōsantō#0087
+I cannot play modded 😐
+
+
+[10-May-21 02:09 PM] Deleted User#0000
+It's java i assume
+
+
+[10-May-21 02:11 PM] Lach#9842
+yes, Minecraft is java
+
+
+[10-May-21 02:20 PM] Youmaton#1190
+ye
+
+
+[10-May-21 02:32 PM] Perekai#6805
+I want you to all know that I started launching the Minecraft server about five minutes ago, and it's still launching whilst throwing angry walls of text at me.
+
+
+[10-May-21 02:33 PM] Perekai#6805
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/841178517113929748/unknown.png
+
+
+[10-May-21 02:33 PM] Lach#9842
+lmao
+
+
+[10-May-21 02:39 PM] Perekai#6805
+Okay, if anyone has the mods installed, I just need someone to test and see if the server is up.
+
+
+[10-May-21 02:44 PM] Deleted User#0000
+I am just downloading it now
+
+
+[10-May-21 03:00 PM] Perekai#6805
+It lives.
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/841185323991171082/unknown.png
+
+
+[10-May-21 03:00 PM] Youmaton#1190
+@deleted-role The server is now up, if anyone would be interested in stress testing it please join!
+
+
+[10-May-21 03:00 PM] Youmaton#1190 (pinned)
+3.25.89.165:25565
+
+
+[10-May-21 03:00 PM] Youmaton#1190
+Pinned a message.
+
+
+[10-May-21 03:01 PM] Perekai#6805
+It'll be up for about an hour before I shut it down. It'll be back up later tonight once I get home and tweak it 🙂
+
+
+[10-May-21 03:03 PM] Lach#9842
+Redownloading onto my SSD to see if I can get my launch time down
+
+
+[10-May-21 03:08 PM] Deleted User#0000
+I need to update Java
+
+
+[10-May-21 03:08 PM] Deleted User#0000
+🙃
+
+
+[10-May-21 03:08 PM] Lach#9842
+Lol
+
+
+[10-May-21 03:12 PM] Deleted User#0000
+Christ why do computers do this to me
+
+
+[10-May-21 03:12 PM] Youmaton#1190
+Im running around testing the world (though leaving it be as I dont want to start without everyone), the spawn seems like a decent area
+
+
+[10-May-21 03:13 PM] Youmaton#1190
+Do we want to keep it, or start a brand new one once its time for the formal opening
+
+
+[10-May-21 03:14 PM] Lach#9842
+> loading recipies
+> 211k
+
+
+[10-May-21 03:14 PM] Lach#9842
+:meafter3minsofaussim:
+
+
+[10-May-21 03:18 PM] Youmaton#1190
+:rommelingonthefloor:
+
+
+[10-May-21 03:24 PM] Youmaton#1190
+how goes java? @Deleted User
+
+
+[10-May-21 03:24 PM] Deleted User#0000
+Annoying
+
+
+[10-May-21 03:25 PM] Deleted User#0000
+But I get the impression it may not be the issue
+
+
+[10-May-21 03:26 PM] Deleted User#0000
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/841191852526796830/Error.PNG
+
+
+[10-May-21 03:26 PM] Deleted User#0000
+HMM
+
+
+[10-May-21 03:26 PM] Deleted User#0000
+So Java is fine now
+
+
+[10-May-21 03:26 PM] Deleted User#0000
+But I should have plenty of RAM
+
+
+[10-May-21 03:27 PM] Youmaton#1190
+@Deleted User go to your launcher settings
+
+
+[10-May-21 03:27 PM] Youmaton#1190
+go to java
+
+
+[10-May-21 03:27 PM] Youmaton#1190
+change from 1gb to your preferred setting
+
+
+[10-May-21 03:27 PM] Youmaton#1190
+i put it on 6
+
+
+[10-May-21 03:30 PM] Deleted User#0000
+Hmm
+
+
+[10-May-21 03:30 PM] Deleted User#0000
+It's not bringing up the 64-bit version to allow me to increase my RAM
+
+
+[10-May-21 03:30 PM] Youmaton#1190
+🤔
+
+
+[10-May-21 03:30 PM] Youmaton#1190
+screenshot it for me
+
+
+[10-May-21 03:31 PM] Youmaton#1190
+launcher options
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/841193155737944074/unknown.png
+
+
+[10-May-21 03:31 PM] Youmaton#1190
+java settings
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/841193192182513684/unknown.png
+
+
+[10-May-21 03:31 PM] Youmaton#1190
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/841193238269263902/unknown.png
+
+
+[10-May-21 03:32 PM] Deleted User#0000
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/841193416968110110/Error.PNG
+
+
+[10-May-21 03:32 PM] Deleted User#0000
+So I was right in what was the issue, but for some reason I cannot get the 64
+
+
+[10-May-21 03:34 PM] Youmaton#1190
+odd
+
+
+[10-May-21 03:34 PM] Youmaton#1190
+uninstall java and reinstall?
+
+
+[10-May-21 03:34 PM] Deleted User#0000
+I'll try that again
+
+
+[10-May-21 03:41 PM] Deleted User#0000
+Crap
+
+
+[10-May-21 03:41 PM] Deleted User#0000
+Still not working
+
+
+[10-May-21 03:42 PM] Youmaton#1190
+thats really odd
+
+
+[10-May-21 03:43 PM] Deleted User#0000
+So I am clearly doing something wrong
+
+
+[10-May-21 03:44 PM] Deleted User#0000
+But I don't really have the technical knowledge to figure it out
+
+
+[10-May-21 03:45 PM] Deleted User#0000
+Hmm
+
+
+[10-May-21 03:45 PM] Youmaton#1190
+i assume you computer is 64 bit?
+
+
+[10-May-21 03:45 PM] Deleted User#0000
+Yes
+
+
+[10-May-21 03:45 PM] Deleted User#0000
+Let me try something else
+
+
+[10-May-21 03:48 PM] Deleted User#0000
+AH HA
+
+
+[10-May-21 03:48 PM] Deleted User#0000
+Figured it out @Youmaton
+
+
+[10-May-21 03:48 PM] Youmaton#1190
+you fixed it?
+
+
+[10-May-21 03:48 PM] Youmaton#1190
+all i could find online was "get 64 bit java"
+
+
+[10-May-21 03:48 PM] Deleted User#0000
+So what it was
+
+
+[10-May-21 03:49 PM] Deleted User#0000
+Is that when I clicked on the "download Java 64" button it downloaded Java 32 instead
+
+
+[10-May-21 03:49 PM] Youmaton#1190
+.
+
+
+[10-May-21 03:50 PM] Deleted User#0000
+To download Java 64 I had to find a very specific link that said Java 64
+
+
+[10-May-21 03:50 PM] Deleted User#0000
+Took a little bit of digging but at least I figured it out
+
+
+[10-May-21 03:57 PM] Perekai#6805
+Proud of you.
+
+
+[10-May-21 04:14 PM] Lach#9842
+Yep, crashed
+
+
+[10-May-21 04:15 PM] Lach#9842
+nvm, no crash
+
+
+[10-May-21 04:20 PM] Youmaton#1190
+@Minato Namikaze
+
+
+[10-May-21 04:30 PM] Lach#9842
+@Perekai crashed
+
+
+[10-May-21 04:30 PM] Lach#9842
+oh nvm
+
+
+[10-May-21 04:34 PM] Minato Namikaze#7891
+is the server down?
+
+
+[10-May-21 04:36 PM] Youmaton#1190
+it is atm
+
+
+[10-May-21 04:36 PM] Youmaton#1190
+perekai mustve gotten home
+
+
+[10-May-21 04:36 PM] Youmaton#1190
+Ill ping everyone when its back up
+
+
+[10-May-21 04:38 PM] Minato Namikaze#7891
+why dont we buy a host or something
+
+
+[10-May-21 04:38 PM] Minato Namikaze#7891
+or Matt could open his checkbook
+
+
+[10-May-21 04:39 PM] Youmaton#1190
+Perekai is hosting it
+
+
+[10-May-21 04:39 PM] Youmaton#1190
+It's just he is working on fixing a couple of things atm
+
+
+[10-May-21 04:43 PM] Perekai#6805
+Oh sorry, did it go down? I’m home now. I’ll have a look.
+
+
+[10-May-21 04:43 PM] Perekai#6805
+Should be a process that keeps it running when no one is logged in. Must not have worked.
+
+
+[10-May-21 04:47 PM] Youmaton#1190
+It closed when the three of us were on there
+
+
+[10-May-21 04:50 PM] Youmaton#1190
+@deleted-role 2nd last ping for the night (next one will be the server launch)
+
+What time would want the server to be launched?
+
+
+[10-May-21 04:50 PM] Youmaton#1190
+(thinking 7pm or something atm, up to everyone here)
+
+
+[10-May-21 04:51 PM] Perekai#6805
+It's back up now for whomever wants to jump on.
+
+
+[10-May-21 04:51 PM] Deleted User#0000
+I am in meeting from 7:30
+
+
+[10-May-21 04:51 PM] Deleted User#0000
+But can jump on after
+
+
+[10-May-21 04:53 PM] Youmaton#1190
+Are you free before said meeting, or only after?
+
+
+[10-May-21 04:54 PM] Youmaton#1190
+Another question, do we want to do this as a community or in teams?
+
+
+[10-May-21 04:54 PM] Perekai#6805
+Community is always fun. I wouldn't mind if people just did whatever they felt like.
+
+
+[10-May-21 05:15 PM] Minato Namikaze#7891
+I would want teams
+
+
+[10-May-21 05:15 PM] Minato Namikaze#7891
+I be setting up a adp group base
+
+
+[10-May-21 05:22 PM] Lach#9842
+I would much prefer a community thing
+
+
+[10-May-21 05:25 PM] Minato Namikaze#7891
+mmm
+
+
+[10-May-21 05:29 PM] Minato Namikaze#7891
+does anyone get lag whenever they move
+
+
+[10-May-21 05:29 PM] Minato Namikaze#7891
+or is it just me
+
+
+[10-May-21 05:30 PM] Youmaton#1190
+what did you set your ram to? @Minato Namikaze
+
+
+[10-May-21 05:30 PM] Minato Namikaze#7891
+5 i think
+
+
+[10-May-21 05:31 PM] Youmaton#1190
+how much does your computer have?
+
+
+[10-May-21 05:31 PM] Minato Namikaze#7891
+32
+
+
+[10-May-21 05:31 PM] Youmaton#1190
+I would recommend uping it to 6, it makes it a bit smoother for me
+
+
+[10-May-21 05:31 PM] Youmaton#1190
+@Perekai have there been any issues server-side?
+
+
+[10-May-21 05:32 PM] Minato Namikaze#7891
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/841223657094643712/unknown.png
+
+
+[10-May-21 05:33 PM] Perekai#6805
+@Youmaton No, not particularly. It falls behind the tick count a little. This is probably due to the fact that this modpack is particularly massive. I imagine it might get worse the more people put things in game though.
+
+
+[10-May-21 05:33 PM] Minato Namikaze#7891
+mmm
+
+
+[10-May-21 05:33 PM] Minato Namikaze#7891
+idk how to fix it
+
+
+[10-May-21 05:34 PM] Minato Namikaze#7891
+I was going to put revenge in
+
+
+[10-May-21 05:34 PM] Minato Namikaze#7891
+xd
+
+
+[10-May-21 05:34 PM] Youmaton#1190
+it was working smoothly with 3 people before
+
+
+[10-May-21 05:34 PM] Minato Namikaze#7891
+@Sleet how do I put songs on
+
+
+[10-May-21 05:34 PM] Youmaton#1190
+why did you ping edible
+
+
+[10-May-21 05:35 PM] Youmaton#1190
+hmm
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/841224407632052224/unknown.png
+
+
+[10-May-21 05:35 PM] Perekai#6805
+Yeah players aren't the issue, it's more to do with objects in game. Things like quarries and pipes etc etc will slow things down. We'll see, I think it should be okay for a little while.
+
+
+[10-May-21 05:35 PM] Youmaton#1190
+@Minato Namikaze put it to 6 or 7
+
+
+[10-May-21 05:36 PM] Youmaton#1190
+oh
+
+
+[10-May-21 05:36 PM] Youmaton#1190
+11 is far better than those
+
+
+[10-May-21 05:36 PM] Youmaton#1190
+is your java up to date?
+
+
+[10-May-21 05:36 PM] Perekai#6805
+It's also all the mods currently loaded.
+
+
+[10-May-21 05:36 PM] Perekai#6805
+Just be prepared that if it gets particularly bad, we might just go for a smaller modpack. We'll see though. I think we'll be fine for a while.
+
+
+[10-May-21 05:36 PM] Deleted User#0000
+How does mine craft work
+
+
+[10-May-21 05:36 PM] Deleted User#0000
+Like what’s the point of it
+
+
+[10-May-21 05:37 PM] Youmaton#1190
+you dig and build stuff
+
+
+[10-May-21 05:37 PM] Deleted User#0000
+Is that it?
+
+
+[10-May-21 05:37 PM] Youmaton#1190
+no
+
+
+[10-May-21 05:37 PM] Youmaton#1190
+you honestly decide what you want to do with it
+
+
+[10-May-21 05:37 PM] Youmaton#1190
+If you want to go to space, we have a mod for that
+
+
+[10-May-21 05:38 PM] Youmaton#1190
+if you want to be a wizard, we have a mod for that
+
+
+[10-May-21 05:38 PM] Youmaton#1190
+if you want to be a farmer, weve expanded the number of crops you can use
+
+
+[10-May-21 05:38 PM] Deleted User#0000
+Can you shoot people
+
+
+[10-May-21 05:38 PM] Youmaton#1190
+in this modpack yes
+
+
+[10-May-21 05:38 PM] Deleted User#0000
+Can you drive cars
+
+
+[10-May-21 05:39 PM] Youmaton#1190
+we dont have the mod
+
+
+[10-May-21 05:39 PM] Deleted User#0000
+Mod?
+
+
+[10-May-21 05:39 PM] Youmaton#1190
+Modification
+
+
+[10-May-21 05:39 PM] Youmaton#1190
+additions to the base game
+
+
+[10-May-21 05:39 PM] Deleted User#0000
+Right
+
+
+[10-May-21 05:39 PM] Youmaton#1190
+we have about 300 additions
+
+
+[10-May-21 05:39 PM] Deleted User#0000
+.
+
+
+[10-May-21 05:39 PM] Deleted User#0000
+That’s a lot
+
+
+[10-May-21 05:39 PM] Deleted User#0000
+Can you fly a helicopter
+
+
+[10-May-21 05:40 PM] Youmaton#1190
+If you have the mod for it you can, we dont have it though
+
+
+[10-May-21 05:40 PM] Minato Namikaze#7891
+its not a very good mod
+
+
+[10-May-21 05:40 PM] Deleted User#0000
+Are there any missions
+
+
+[10-May-21 05:40 PM] Youmaton#1190
+You choose what you want to do
+
+
+[10-May-21 05:40 PM] Deleted User#0000
+That’s slightly boring
+
+
+[10-May-21 05:41 PM] Deleted User#0000
+Intriguing
+
+
+[10-May-21 05:41 PM] Youmaton#1190
+Surprisingly its not
+
+
+[10-May-21 05:41 PM] Youmaton#1190
+Even in the base game, theres a lot to do
+
+
+[10-May-21 05:41 PM] Youmaton#1190
+you could just go and beat the boss of the game
+
+
+[10-May-21 05:41 PM] Youmaton#1190
+or you could build a city
+
+
+[10-May-21 05:41 PM] Youmaton#1190
+create a rail network
+
+
+[10-May-21 05:41 PM] Youmaton#1190
+make a working computer
+
+
+[10-May-21 05:41 PM] Deleted User#0000
+What is the boss
+
+
+[10-May-21 05:41 PM] Youmaton#1190
+the ender dragon
+
+
+[10-May-21 05:41 PM] Deleted User#0000
+That's one of them
+
+
+[10-May-21 05:41 PM] Deleted User#0000
+What does that do
+
+
+[10-May-21 05:41 PM] Deleted User#0000
+But that is getting technical
+
+
+[10-May-21 05:42 PM] Deleted User#0000
+Maybe Griffo you can get the base game and can do a crash course with myself, Youma, probs Lach and anyone else that want's to educate you
+
+
+[10-May-21 05:42 PM] Deleted User#0000
+Maybe even get @RookWilt on board
+
+
+[10-May-21 05:42 PM] Deleted User#0000
+How much is it
+
+
+[10-May-21 05:42 PM] Youmaton#1190
+$35 atm iirc
+
+
+[10-May-21 05:42 PM] Deleted User#0000
+Bruh
+
+
+[10-May-21 05:43 PM] Deleted User#0000
+I will look into it
+
+
+[10-May-21 05:43 PM] Deleted User#0000
+But it’s probably not for me
+
+
+[10-May-21 05:43 PM] Youmaton#1190
+easily the game that ive put the most time into
+
+
+[10-May-21 05:44 PM] Deleted User#0000
+Yes this is also why
+
+
+[10-May-21 05:44 PM] Youmaton#1190
+As you can do whatever you like
+
+
+[10-May-21 05:44 PM] Deleted User#0000
+Can say the same
+
+
+[10-May-21 05:44 PM] Deleted User#0000
+Another distraction
+
+
+[10-May-21 05:44 PM] Deleted User#0000
+It's just the best
+
+
+[10-May-21 05:44 PM] Deleted User#0000
+Griffo
+
+
+[10-May-21 05:44 PM] Youmaton#1190
+thats fair
+
+
+[10-May-21 05:44 PM] Deleted User#0000
+Remember
+
+
+[10-May-21 05:44 PM] Deleted User#0000
+*opens chequebook*
+
+
+[10-May-21 05:44 PM] Dyno#3861
+Spin the wheel, make a wish, see what Mr Caesar has picked
+
+
+[10-May-21 05:44 PM] Deleted User#0000
+I accept petitions
+
+
+[10-May-21 05:44 PM] Youmaton#1190
+buy the democrats a senate seat
+
+
+[10-May-21 05:44 PM] Deleted User#0000
+It’s $35 for something I will either a) not use, b) get distracted with
+
+
+[10-May-21 05:45 PM] Youmaton#1190
+tbf thats one of the things of games
+
+
+[10-May-21 05:48 PM] Deleted User#0000
+@inactive @djello @Russian Hacker name your price
+
+
+[10-May-21 05:48 PM] inactive#6974
+donation towards and campaign for the victorian greens in the 2022 election.
+
+
+[10-May-21 05:49 PM] Deleted User#0000
+:pip:
+
+
+[10-May-21 05:49 PM] Deleted User#0000
+But that is tax deductable
+
+
+[10-May-21 05:49 PM] Deleted User#0000
+I'll send you the receipt
+
+
+[10-May-21 05:49 PM] inactive#6974
+cheers
+
+
+[10-May-21 05:57 PM] Youmaton#1190
+@deleted-role if anyone is free at the moment, please try getting on the server
+
+
+[10-May-21 06:02 PM] Deleted User#0000
+Iv got a huge one on my world i drew it up a few hours ago
+
+
+[10-May-21 06:03 PM] RookWilt#6643
+Look I won’t stop you
+
+
+[10-May-21 06:03 PM] Deleted User#0000
+Hahaha
+
+
+[10-May-21 06:03 PM] RookWilt#6643
+But I really really really want you to think this through
+
+
+[10-May-21 06:04 PM] Youmaton#1190
+~~dew it~~
+
+
+[10-May-21 06:04 PM] Youmaton#1190
+^ the above is a joke
+
+
+[10-May-21 06:04 PM] Deleted User#0000
+How is griffo not even vaguely familair with the game
+
+
+[10-May-21 06:09 PM] Deleted User#0000
+https://tenor.com/view/joke-dumb-you-gif-8906255
+
+{Embed}
+https://tenor.com/view/joke-dumb-you-gif-8906255
+https://images-ext-2.discordapp.net/external/M24oVqPmNPu2O5ugyFtZEPa-9OfjnvnuPh6EzbzlpZs/https/media.tenor.co/images/50b8b7b6bf4b34faabeb9207b110ab38/tenor.png
+
+
+[10-May-21 06:14 PM] Deleted User#0000
+Still waiting on that membership application
+
+
+[10-May-21 06:18 PM] Deleted User#0000
+@NGSpy
+
+
+[10-May-21 06:30 PM] Youmaton#1190
+@deleted-role 
+
+Final ping of the day. Tis 7pm, the server is open, please come join!
+
+
+[10-May-21 06:31 PM] kyōsantō#0087
+@Youmaton is your name pav
+
+
+[10-May-21 06:46 PM] Gribble#5287
+PING
+
+
+[10-May-21 08:38 PM] Hagrid#3801
+what modpack yall playing?
+
+
+[10-May-21 08:53 PM] Lach#9842
+in pinned messages
+
+
+[10-May-21 09:00 PM] Hagrid#3801
+sad no nuclearcraft or immersive engineering.
+
+doesnt matter tho, the last thing i need at the moment is another distraction from uni
+
+
+[10-May-21 09:22 PM] Russian Hacker#7290
+Please be joking lol
+
+
+[10-May-21 09:27 PM] Russian Hacker#7290
+Also @Youmaton how do I get the Minecraft role?
+
+
+[10-May-21 09:27 PM] Youmaton#1190
+added
+
+
+[10-May-21 09:28 PM] Russian Hacker#7290
+Thanks
+
+
+[10-May-21 09:28 PM] Russian Hacker#7290
+I'll be pretty busy with school stuff over the next week or so, but I'll try to hop on the server maybe this weekend or something
+
+
+[10-May-21 09:29 PM] Youmaton#1190
+all good
+
+
+[10-May-21 10:00 PM] Perekai#6805
+Just give me the heads up if there is no one left on the server and I'll take it down.
+
+
+[10-May-21 10:45 PM] Youmaton#1190
+@Minato Namikaze ^
+
+
+[10-May-21 10:45 PM] Youmaton#1190
+Also update for folks
+
+
+[10-May-21 10:45 PM] Youmaton#1190
+We now have a 2 layer smeltery so people can double their ores
+
+
+[10-May-21 10:45 PM] Minato Namikaze#7891
+I was on it
+
+
+[10-May-21 10:45 PM] Minato Namikaze#7891
+lol
+
+
+[10-May-21 10:46 PM] Youmaton#1190
+We also have solar power for a pulveriser and a metallurgic infuser
+
+
+[10-May-21 10:46 PM] Youmaton#1190
+If anyone wants to use them feel free
+
+
+[10-May-21 10:46 PM] Youmaton#1190
+I'm hoping to make a dedicated area for those in the future
+
+
+[11-May-21 07:32 AM] Sleet#6678
+Do you mean for Discord or Minecraft? Discord would need a bot like Rhythm or something. Dunno about Minecraft music
+
+
+[11-May-21 12:33 PM] Minato Namikaze#7891
+I meant to ping tbyrn sorry
+
+
+[11-May-21 02:53 PM] Minato Namikaze#7891
+@Perekai  is the server up
+
+
+[11-May-21 02:56 PM] Perekai#6805
+Not at the moment, no.
+
+
+[11-May-21 02:56 PM] Minato Namikaze#7891
+okay
+
+
+[11-May-21 02:56 PM] Perekai#6805
+It'll be up later this evening, around 6pm/6:30pm.
+
+
+[11-May-21 05:11 PM] Youmaton#1190
+@deleted-role 
+
+Minecraft server should be up soon if 2 or more people wish to play.
+
+Is anyone else interested in going on the server?
+
+
+[11-May-21 05:48 PM] Minato Namikaze#7891
+Why couldn't the server be up 24/7
+
+
+[11-May-21 05:49 PM] Youmaton#1190
+it costs perekai per hour its open @Minato Namikaze
+
+
+[11-May-21 05:49 PM] Perekai#6805
+@Minato Namikaze Runs on a spot instance that is paid for by the hour. It's cheaper than hosting a 24/7 server. Costs me like $10 - $15 a month.
+
+
+[11-May-21 05:49 PM] Minato Namikaze#7891
+Monka
+
+
+[11-May-21 05:50 PM] Perekai#6805
+Not even that, really.
+
+
+[11-May-21 05:50 PM] Minato Namikaze#7891
+I be down to put money  towards it so it's 24/7
+
+
+[11-May-21 05:50 PM] Minato Namikaze#7891
+And get a pro hosting server
+
+
+[11-May-21 05:52 PM] Perekai#6805
+@deleted-role Server IP is 54.206.186.128
+It's booting up now, should be available in about five minutes.
+
+
+[11-May-21 05:52 PM] Minato Namikaze#7891
+Would you like me to look into it perekai
+
+
+[11-May-21 05:53 PM] Perekai#6805
+I'm happy to keep the current system, because I can make a Discord bot that will allow you guys to start and stop at the server at will.
+
+
+[11-May-21 05:53 PM] Minato Namikaze#7891
+Yea I be down
+
+
+[11-May-21 05:53 PM] Minato Namikaze#7891
+I just wish to play the server  whenever
+
+
+[11-May-21 05:53 PM] Perekai#6805
+Give me the weekend and I'll set it up that way.
+
+
+[11-May-21 05:56 PM] Youmaton#1190
+@Minato Namikaze server is now up
+
+
+[11-May-21 05:56 PM] Minato Namikaze#7891
+I am away
+
+
+[11-May-21 05:56 PM] Minato Namikaze#7891
+I be home around 10
+
+
+[11-May-21 07:16 PM] Youmaton#1190
+@Perekai @Minato Namikaze 🎉
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/841612153593397288/unknown.png
+
+
+[11-May-21 07:17 PM] Youmaton#1190
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/841612424124956692/unknown.png
+
+
+[11-May-21 07:18 PM] Perekai#6805
+👏
+
+
+[11-May-21 07:19 PM] Youmaton#1190
+will you be on tonight? @Perekai
+
+
+[11-May-21 07:26 PM] Perekai#6805
+I will be a bit later, yes.
+
+
+[11-May-21 07:51 PM] Minato Namikaze#7891
+Well done youma
+
+
+[11-May-21 10:48 PM] Deleted User#0000
+Soz Youma, I did plan on joining but wine was more interesting
+
+
+[11-May-21 11:00 PM] Youmaton#1190
+@Minato Namikaze will rejoin soon
+
+
+[11-May-21 11:01 PM] Minato Namikaze#7891
+OKAY
+
+
+[12-May-21 02:22 PM] bromo | cchap88#0060
+Very nice
+
+
+[12-May-21 04:48 PM] Minato Namikaze#7891
+@Perekai  do you have a time period for the mc server coming up
+
+
+[12-May-21 04:48 PM] Perekai#6805
+I'll be home in about twenty minutes. I can put it up then.
+
+
+[12-May-21 04:50 PM] Minato Namikaze#7891
+sweet
+
+
+[12-May-21 05:13 PM] Perekai#6805
+@Minato Namikaze Server is starting up. Should be up in five minutes.
+
+
+[12-May-21 05:16 PM] Youmaton#1190
+will join you alex
+
+
+[12-May-21 05:17 PM] Youmaton#1190
+@deleted-role Relevant ping, server is opening up
+
+
+[12-May-21 05:17 PM] Youmaton#1190
+Perekai will put the ip here once its up
+
+
+[12-May-21 05:19 PM] Deleted User#0000
+Kewl I may be on tonight
+
+
+[12-May-21 05:28 PM] Youmaton#1190
+@Perekai any luck?
+
+
+[12-May-21 05:48 PM] Perekai#6805
+oops sorry
+
+
+[12-May-21 05:48 PM] Perekai#6805
+54.252.251.79
+
+
+[12-May-21 05:48 PM] Perekai#6805
+@Youmaton
+
+
+[12-May-21 05:49 PM] Youmaton#1190
+@Minato Namikaze
+
+
+[12-May-21 05:49 PM] Youmaton#1190
+ty perekai
+
+
+[12-May-21 05:49 PM] Minato Namikaze#7891
+thanks Youma
+
+
+[12-May-21 05:49 PM] Minato Namikaze#7891
+and thanks Perekai
+
+
+[12-May-21 06:54 PM] Youmaton#1190
+Power to all of the machines will be down for a bit, remodeling the house and moving things around
+
+
+[12-May-21 07:34 PM] lily!#2908
+@Youmaton are you still playing?
+
+
+[12-May-21 07:34 PM] Youmaton#1190
+yes
+
+
+[12-May-21 07:43 PM] Youmaton#1190
+if you need any help with getting the pack to work, let me know @lily!
+
+
+[12-May-21 10:31 PM] Youmaton#1190
+@Deleted User how did the wine go?
+
+
+[12-May-21 11:00 PM] Deleted User#0000
+Haven’t played with it yet, my evenings just get filled with other stuff. With any luck I’ll jump on and sort it all out! What’s the mod they’re in again I might do some research
+
+
+[12-May-21 11:01 PM] Youmaton#1190
+was referring to irl wine
+
+
+[12-May-21 11:01 PM] Youmaton#1190
+and ill check
+
+
+[12-May-21 11:04 PM] Youmaton#1190
+@Deleted User binnie core
+
+
+[12-May-21 11:05 PM] Youmaton#1190
+and growthcraft
+
+
+[12-May-21 11:06 PM] Youmaton#1190 (pinned)
+NETHER FORTRESS: -580 -605
+
+
+[12-May-21 11:06 PM] Youmaton#1190
+Pinned a message.
+
+
+[13-May-21 05:00 AM] Deleted User#0000
+Irl wine is good as well
+
+
+[13-May-21 05:08 PM] Perekai#6805
+@deleted-role Server is up. IP is 13.211.137.129
+
+
+[13-May-21 05:22 PM] Youmaton#1190
+Will join a bit later
+
+
+[13-May-21 05:32 PM] Minato Namikaze#7891
+Youma do you have steel on you
+
+
+[13-May-21 05:37 PM] Youmaton#1190
+Not on me, but it's reasonably easy to make
+
+
+[13-May-21 05:37 PM] Youmaton#1190
+@Minato Namikaze
+
+
+[13-May-21 05:37 PM] Minato Namikaze#7891
+erh
+
+
+[13-May-21 05:37 PM] Minato Namikaze#7891
+I dont know how to make it
+
+
+[13-May-21 05:39 PM] Youmaton#1190
+Use the metallurgic infuser, put 2 coal in the left side and then use an iron ingot in it
+
+
+[13-May-21 05:39 PM] Minato Namikaze#7891
+oh
+
+
+[13-May-21 05:39 PM] Minato Namikaze#7891
+that easy
+
+
+[13-May-21 05:40 PM] Youmaton#1190
+Put the iron through twice and then smelt the steel dust
+
+
+[13-May-21 05:46 PM] Minato Namikaze#7891
+the power iis gone Youma
+
+
+[13-May-21 05:47 PM] Minato Namikaze#7891
+@Youmaton
+
+
+[13-May-21 05:48 PM] Youmaton#1190
+Aa I forgot I moved it
+
+
+[13-May-21 05:48 PM] Youmaton#1190
+@Minato Namikaze there should be 2 batteries in the infusers, you should be able to use those
+
+
+[13-May-21 05:51 PM] Minato Namikaze#7891
+the cables are gone too
+
+
+[13-May-21 05:52 PM] Youmaton#1190
+I realise, I was using them for the quarry
+
+
+[13-May-21 05:54 PM] Minato Namikaze#7891
+where is the quarry
+
+
+[13-May-21 06:50 PM] Youmaton#1190
+Poll: Should flying using morphs be banned?
+
+{Reactions}
+👍 (3) 👎 (2) 🤷 (2) 
+
+[13-May-21 06:50 PM] Youmaton#1190
+@deleted-role
+
+
+[13-May-21 06:51 PM] Youmaton#1190
+There is quite a bit of benefit out of it, however it does feel somewhat cheaty to just kill a mob and get the ability to fly
+
+
+[13-May-21 08:03 PM] Youmaton#1190
+@deleted-role 
+
+Final ping for the night
+
+Perekai has made a server that will allow you to turn on/off the server, please join it if you are interested 
+https://discord.gg/dgngzSWQ
+
+
+[13-May-21 08:26 PM] Youmaton#1190
+@lily! @Minato Namikaze ive left a present in both of your houses
+
+
+[13-May-21 08:30 PM] Minato Namikaze#7891
+I am scared
+
+
+[13-May-21 08:30 PM] Minato Namikaze#7891
+Mrs youma
+
+
+[14-May-21 05:40 PM] Youmaton#1190
+@deleted-role 
+
+Server is up - 3.104.228.69:25565
+
+
+[14-May-21 06:38 PM] Youmaton#1190
+@Perekai have moved all of the ores and metals into a single chest so we can actually find all of it
+
+
+[14-May-21 06:38 PM] Youmaton#1190
+tis labeled
+
+
+[14-May-21 06:39 PM] Youmaton#1190
+:rommelsmile:
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/842689956777426974/unknown.png
+
+
+[14-May-21 06:39 PM] Lach#9842
+very nice
+
+
+[14-May-21 06:50 PM] Youmaton#1190
+despite everything we still dont have any aluminium
+
+
+[14-May-21 06:50 PM] Deleted User#0000
+Well done
+
+
+[14-May-21 07:10 PM] Perekai#6805
+Very nice.
+
+
+[14-May-21 07:55 PM] Minato Namikaze#7891
+@Perekai    so I got a Mekanism jetpack
+
+
+[14-May-21 07:55 PM] Minato Namikaze#7891
+and its super slow
+
+
+[14-May-21 07:55 PM] Minato Namikaze#7891
+I think mobs should be enabled again
+
+
+[14-May-21 07:56 PM] Minato Namikaze#7891
+you can have a go at my jetpack if you dont believe me
+
+
+[14-May-21 07:56 PM] Perekai#6805
+Sure haha
+
+
+[14-May-21 07:56 PM] Minato Namikaze#7891
+so I can use the super fast mobs again
+
+
+[14-May-21 08:08 PM] Youmaton#1190
+The first test of the program
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/842712483894394900/unknown.png
+
+
+[14-May-21 09:10 PM] Youmaton#1190
+@Deleted User we can make a wine world
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/842728042219831326/unknown.png
+
+
+[14-May-21 09:10 PM] Youmaton#1190
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/842728095085756416/unknown.png
+
+
+[14-May-21 10:11 PM] Deleted User#0000
+Oh great
+
+
+[14-May-21 10:16 PM] Youmaton#1190
+desert oil field
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/842744649227305010/unknown.png
+
+
+[14-May-21 10:42 PM] Youmaton#1190
+Server is now off, please ping myself/caesar/perekai/alex if you would like it turned back on
+
+
+[15-May-21 07:29 PM] Minato Namikaze#7891
+@Youmaton  I have a issue
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/843065105364549672/2021-05-15_19.58.56.png
+
+
+[15-May-21 07:34 PM] Youmaton#1190
+? @Minato Namikaze
+
+
+[15-May-21 07:39 PM] Minato Namikaze#7891
+I have a me system now @Youmaton
+
+
+[15-May-21 07:41 PM] Youmaton#1190
+👏
+
+
+[15-May-21 07:43 PM] doctor#0002
+I’m getting like 50 fps and stuttering on minecraft now for some reason
+
+
+[15-May-21 07:43 PM] doctor#0002
+on low settings
+
+
+[15-May-21 07:43 PM] doctor#0002
+I haven’t played it in like 6 months
+
+
+[15-May-21 07:43 PM] doctor#0002
+Might need a reinstall innit
+
+
+[15-May-21 08:03 PM] Deleted User#0000
+Fun
+
+
+[15-May-21 08:55 PM] Youmaton#1190
+@deleted-role turning the server on, will send over the ip once its loaded
+
+
+[15-May-21 08:58 PM] Youmaton#1190
+13.211.237.65
+
+
+[15-May-21 08:58 PM] Youmaton#1190
+If that doesnt work, try 13.211.237.65:25565
+
+
+[15-May-21 09:22 PM] Youmaton#1190
+@Russian Hacker did you ever have any luck downloading the pack?
+
+
+[15-May-21 09:23 PM] Russian Hacker#7290
+I haven't had time to hop on Minecraft this week
+
+
+[15-May-21 09:23 PM] Russian Hacker#7290
+I would've earlier today but I legit forgot 😂
+
+
+[15-May-21 09:24 PM] Russian Hacker#7290
+I'll try tomorrow
+
+
+[16-May-21 05:12 PM] Russian Hacker#7290
+@Youmaton I think the server may be off
+
+
+[16-May-21 05:12 PM] Russian Hacker#7290
+I put the ip in
+
+
+[16-May-21 05:13 PM] Youmaton#1190
+Will turn the server on
+
+
+[16-May-21 05:13 PM] Youmaton#1190
+And the IP changes every time it's turned on/off
+
+
+[16-May-21 05:15 PM] Youmaton#1190
+3.25.134.0
+
+
+[16-May-21 05:15 PM] Russian Hacker#7290
+Ohhh
+
+
+[16-May-21 05:15 PM] Youmaton#1190
+@Russian Hacker
+
+
+[16-May-21 05:15 PM] Youmaton#1190
+Give it 5 mins or so to load up
+
+
+[16-May-21 05:15 PM] Russian Hacker#7290
+Ok
+
+
+[16-May-21 05:16 PM] Youmaton#1190
+@deleted-role 3.25.134.0
+
+
+[16-May-21 05:16 PM] Youmaton#1190
+Will join when I'm able to
+
+
+[16-May-21 05:17 PM] Youmaton#1190
+If you're still on when I join, I'll give you a tour @Russian Hacker
+
+
+[16-May-21 05:17 PM] Minato Namikaze#7891
+3.25.134.0:25565
+
+
+[16-May-21 05:17 PM] Russian Hacker#7290
+Ok
+
+
+[16-May-21 05:23 PM] Russian Hacker#7290
+Argh
+
+
+[16-May-21 05:23 PM] Russian Hacker#7290
+@Youmaton says I need to download Forge
+
+
+[16-May-21 05:26 PM] Youmaton#1190
+It's a Modpack, you'll need to download it
+
+
+[16-May-21 05:26 PM] Youmaton#1190
+https://www.technicpack.net/download
+
+
+[16-May-21 05:26 PM] Youmaton#1190
+Download your relevant operating system's one
+
+
+[16-May-21 05:26 PM] Youmaton#1190
+@Russian Hacker
+
+
+[16-May-21 05:26 PM] Russian Hacker#7290
+Ok
+
+
+[16-May-21 05:28 PM] Youmaton#1190
+Once that is downloaded and loaded, go to modpacks
+
+
+[16-May-21 05:28 PM] Youmaton#1190
+https://www.technicpack.net/modpack/the-1122-pack.1406454
+
+
+[16-May-21 05:28 PM] Youmaton#1190
+Paste this in the top left
+
+
+[16-May-21 05:28 PM] Youmaton#1190
+And let it install
+
+
+[16-May-21 05:43 PM] Russian Hacker#7290
+Ok
+
+
+[16-May-21 07:52 PM] Russian Hacker#7290
+I think it's downloaded @Youmaton
+
+
+[16-May-21 07:52 PM] Youmaton#1190
+the modpack or the launcher?
+
+
+[16-May-21 07:52 PM] Russian Hacker#7290
+Bothh?
+
+
+[16-May-21 07:53 PM] Russian Hacker#7290
+Just put the server online and we'll see
+
+
+[16-May-21 07:54 PM] Youmaton#1190
+the server is online
+
+
+[16-May-21 07:54 PM] Youmaton#1190
+press play, wait for it to load, and ill meet you on there
+
+
+[16-May-21 08:00 PM] Russian Hacker#7290
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/843435126297329694/20210516_202933.jpg
+
+
+[16-May-21 08:00 PM] Russian Hacker#7290
+@Youmaton
+
+
+[16-May-21 08:00 PM] Youmaton#1190
+do you have 64 bit java?
+
+
+[16-May-21 08:01 PM] Russian Hacker#7290
+I have no idea
+
+
+[16-May-21 08:10 PM] Russian Hacker#7290
+Lol
+
+
+[16-May-21 08:10 PM] Russian Hacker#7290
+That's a big rip I guess
+
+
+[16-May-21 08:24 PM] Youmaton#1190
+sorry, back
+
+
+[16-May-21 08:24 PM] Youmaton#1190
+go to your java, and check the version
+
+
+[16-May-21 08:24 PM] Youmaton#1190
+if its not 64 bit, uninstall it, and go to the java website and download 64 bit java
+
+
+[16-May-21 08:30 PM] Russian Hacker#7290
+I'll do that another time sorry I gotta go
+
+
+[16-May-21 08:31 PM] Youmaton#1190
+all good
+
+
+[16-May-21 10:47 PM] Cam T#6441
+Can u collect goats in minecraft
+
+
+[16-May-21 11:09 PM] Minato Namikaze#7891
+Or Youma
+
+
+[16-May-21 11:09 PM] Minato Namikaze#7891
+I will be joining
+
+
+[16-May-21 11:30 PM] Youmaton#1190
+the launch pad 🎉
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/843488169605201950/unknown.png
+
+
+[16-May-21 11:31 PM] Youmaton#1190
+there arent any goats in this modpack unfortunately
+
+
+[17-May-21 12:59 AM] Youmaton#1190
+@Perekai @Deleted User
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/843510365124034560/unknown.png
+
+
+[17-May-21 01:41 AM] Youmaton#1190
+Nearly done with the space stuff
+
+
+[17-May-21 01:41 AM] Youmaton#1190
+Might be able to launch the first flight tomorrow
+
+
+[17-May-21 07:49 AM] Deleted User#0000
+Exciting
+
+
+[17-May-21 03:39 PM] Youmaton#1190
+@deleted-role 
+
+The first space mission will be beginning tonight, who would be interested in being a part of it?
+
+
+[17-May-21 03:40 PM] Minato Namikaze#7891
+yes
+
+
+[17-May-21 03:43 PM] Youmaton#1190
+(and if so what time would everyone be free)
+
+
+[17-May-21 03:45 PM] Deleted User#0000
+Maybe
+
+
+[17-May-21 03:45 PM] Deleted User#0000
+No idea
+
+
+[17-May-21 03:56 PM] Youmaton#1190
+Another thing to consider, do we want to allow teleportation via mystcraft books to the moon, or should we only allow transportation via rocket?
+
+
+[17-May-21 04:16 PM] Perekai#6805
+I'll be there. Any time works for me.
+
+
+[17-May-21 06:19 PM] Cam T#6441
+That’s ok thanks for letting me no
+
+
+[17-May-21 06:21 PM] Youmaton#1190
+@Perekai would 8pm work for you?
+
+
+[17-May-21 06:27 PM] Perekai#6805
+Yeah that's fine by me.
+
+
+[17-May-21 07:13 PM] Youmaton#1190
+@deleted-role 54.206.255.167
+
+
+[17-May-21 07:13 PM] Youmaton#1190
+space stuff is happening at 8
+
+
+[17-May-21 08:48 PM] Youmaton#1190
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/843809627249836062/unknown.png
+
+
+[17-May-21 08:48 PM] Youmaton#1190
+@Deleted User
+
+
+[17-May-21 08:48 PM] Deleted User#0000
+Odd flag
+
+
+[18-May-21 05:08 PM] Youmaton#1190
+@deleted-role 54.66.17.98
+
+
+[18-May-21 05:09 PM] Minato Namikaze#7891
+54.66.17.98:25565
+
+
+[18-May-21 07:28 PM] Youmaton#1190
+@deleted-role 
+
+Late notice, however the rocket launch will be at 8:20pm
+
+
+[19-May-21 06:09 PM] Youmaton#1190
+taking a break from the game tonight, if anyone wants the server up let me know and I will do that
+
+
+[29-May-21 04:51 PM] Ascari#4541
+What mod pack is this?
+
+
+[29-May-21 04:51 PM] Ascari#4541
+I might start on Monday
+
+
+[29-May-21 04:52 PM] Ascari#4541
+@Youmaton
+
+
+[29-May-21 05:23 PM] Youmaton#1190
+@Ascari 1.12.2 pack
+
+
+[29-May-21 05:23 PM] Ascari#4541
+Sweet
+
+
+[29-May-21 05:23 PM] Ascari#4541
+Mind if Duck joins?
+
+
+[29-May-21 06:52 PM] Youmaton#1190
+@Perekai
+
+
+[29-May-21 06:58 PM] Perekai#6805
+Go for it.
+
+
+[29-May-21 06:58 PM] Perekai#6805
+If you need access to start the server, just let me know.
+
+
+[01-Jun-21 12:13 PM] BHjr132#2979
+Anyone got a copy of the old Pen Island rail map? Kinda lost access to my Madison account at the moment lmao
+
+
+[01-Jun-21 12:36 PM] Gregor The Beggar#0808
+Bruh
+
+
+[01-Jun-21 12:36 PM] Gregor The Beggar#0808
+@FTMP  Fart man
+
+
+[01-Jun-21 01:02 PM] kyōsantō#0087
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/849128257713340446/image0.png
+
+
+[01-Jun-21 01:53 PM] BHjr132#2979
+based thanks
+
+
+[01-Jun-21 01:54 PM] BHjr132#2979
+bigger than I remember lol
+
+
+[01-Jun-21 02:48 PM] FTMP#7284
+🚋
+
+
+[01-Jun-21 05:45 PM] Ascari#4541
+We should set up a rail network in the modded server @Youmaton
+
+
+[01-Jun-21 05:45 PM] Ascari#4541
+We have Railcraft so we can do v cool things with it
+
+
+[01-Jun-21 05:46 PM] Youmaton#1190
+that would be good, however where would the rail go to
+
+
+[01-Jun-21 05:46 PM] Youmaton#1190
+the rail network was so effective in the ftmpcraft server because it went to where people actually lived
+
+
+[01-Jun-21 05:47 PM] Ascari#4541
+The place we are at isn't exactly small would also be a good idea to set up actual places to serve certain functions
+
+
+[01-Jun-21 05:47 PM] Ascari#4541
+I. E. Large multiblock structures that we don't need at the compound that would be an eyesore otherwise
+
+
+[05-Jun-21 04:04 PM] Plupsnup#9685
+I want a vanilla server
+
+
+[05-Jun-21 04:04 PM] Plupsnup#9685
+Vanilla server pls
+
+
+[07-Jun-21 10:37 AM] Plupsnup#9685
+My house from a server that I joined
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/851265967148892211/2021-06-07_10.59.54.png
+
+
+[07-Jun-21 06:48 PM] Plupsnup#9685
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/851389593793200128/2021-06-07_19.15.15.png
+
+
+[07-Jun-21 07:29 PM] bromo | cchap88#0060
+That's a nice farm set up
+
+
+[10-Jun-21 11:32 AM] Plupsnup#9685
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/852367076635312268/20210610_115542.jpg
+
+
+[10-Jun-21 07:11 PM] bromo | cchap88#0060
+Who has tried the new Cave update? I have and its great
+
+
+[10-Jun-21 07:11 PM] bromo | cchap88#0060
+Especially the new mobs
+
+
+[10-Jun-21 08:22 PM] Russian Hacker#7290
+I will eventually
+
+
+[10-Jun-21 11:34 PM] дётrivøre#5054
+I like the glowberries, they’re very cool
+
+
+[10-Jun-21 11:34 PM] дётrivøre#5054
+Amethyst looks nice
+
+
+[10-Jun-21 11:34 PM] дётrivøre#5054
+I’ve been playing in creative but I’ve yet to spawn me some axolotls
+
+
+[11-Jun-21 08:26 AM] bromo | cchap88#0060
+I haven't see Amethyst or Glowberries yet. I saw a glowing squid get ripped to shreds by an Axolotl
+
+
+[13-Jun-21 02:41 PM] Plupsnup#9685
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/853501918667866192/2021-06-13_15.04.38.png
+
+
+[13-Jun-21 03:05 PM] дётrivøre#5054
+Hot
+
+
+[13-Jun-21 05:16 PM] Plupsnup#9685
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/853540896863944735/2021-06-13_17.44.04.png
+
+
+[17-Jun-21 04:26 PM] Plupsnup#9685
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/854977799961444402/The_Wimmera.PNG
+
+
+[18-Jun-21 08:15 AM] Plupsnup#9685
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/855216567184654366/WimmeraSea.PNG
+
+
+[30-Jun-21 12:39 PM] Plupsnup#9685
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/859631766997434389/2021-06-30_08.38.13.png
+
+
+[30-Jun-21 01:09 PM] kyōsantō#0087
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/859639315129958400/video0.mp4
+
+
+[01-Jul-21 03:14 PM] Plupsnup#9685
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/860032986229243934/2021-07-01_14.37.56.png
+
+
+[01-Jul-21 03:14 PM] Plupsnup#9685
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/860032990359978024/2021-07-01_14.41.31.png
+
+
+[01-Jul-21 03:14 PM] Plupsnup#9685
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/860032992051593226/2021-07-01_14.40.13.png
+
+
+[01-Jul-21 03:14 PM] Plupsnup#9685
+WIP
+
+
+[21-Jul-21 02:36 PM] Plupsnup#9685
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/867271328189120522/2021-07-06_16.55.13.png
+
+
+[21-Jul-21 02:36 PM] Plupsnup#9685
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/867271337348169758/2021-07-06_17.18.50.png
+
+
+[21-Jul-21 02:36 PM] Plupsnup#9685
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/867271338938728488/2021-07-06_17.18.37.png
+
+
+[28-Jul-21 07:59 PM] Ascari#4541
+very happy with this mystcraft dimension I've put together
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/869889293919875082/2021-07-28_22.png
+
+
+[06-Aug-21 06:18 PM] LuSing My Religion#7657
+amogus.
+
+
+[06-Aug-21 06:19 PM] Gregor The Beggar#0808
+Amogus
+
+
+[07-Aug-21 10:41 AM] Plupsnup#9685
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/873372857890140210/2021-08-07_10.51.10.png
+
+
+[07-Aug-21 10:41 AM] Plupsnup#9685
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/873372863665672212/2021-08-07_11.02.29.png
+
+
+[08-Aug-21 09:12 AM] Plupsnup#9685
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/873712648305401896/2021-08-08_09.30.18.png
+
+
+[12-Aug-21 03:45 PM] kyōsantō#0087
+?poll Archive? “Yes” “No”
+
+
+[12-Aug-21 03:45 PM] Dyno#3861
+
+{Embed}
+Archive?
+1️⃣ Yes
+
+2️⃣ No
+Poll by kyōsantō#0001
+
+{Reactions}
+1️⃣ (11) 2️⃣ (6) 
+
+[27-Aug-21 05:35 PM] Plupsnup#9685
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/880724675183923220/fbd30a4f080252cad30d8a0b7edc6c5c.mp4
+https://cdn.discordapp.com/attachments/841153776567451658/880724675741757480/a733c6fc20c57f678ce1751c5eef8336.mp4
+
+
+[30-Aug-21 04:57 AM] RMSteve#7137
+@kyōsantō
+
+
+[08-Sep-21 01:11 AM] Zak#6496
+minecraft
+
+
+[16-Sep-21 09:37 AM] RMSteve#7137
+@saldol-1104
+
+
+[27-Oct-21 02:28 PM] Deleted User#0000
+
+{Attachments}
+https://cdn.discordapp.com/attachments/841153776567451658/902768298125557810/unknown-2-1.png
+
+
+[06-Nov-21 10:25 AM] inactive#6974
+@someone archive this
+
+
+[06-Nov-21 10:25 AM] inactive#6974
+@BHjr132
+
+
+[06-Nov-21 10:32 AM] BHjr132#2979
+it won't let me
+
+
+[06-Nov-21 10:32 AM] BHjr132#2979
+oh wait is +ARCHIVES category at max capacity
+
+
+[06-Nov-21 10:32 AM] Napoleon Freeze#4181
+I only see 1 channel
+
+
+[06-Nov-21 10:33 AM] BHjr132#2979
+ok this is now archived
+
+
+==============================================================
+Exported 501 message(s)
+==============================================================
